@@ -1,0 +1,3778 @@
+[
+  {
+    "id": 1,
+    "stage": "GS",
+    "group": "A",
+    "home": {
+      "team": "MEX"
+    },
+    "away": {
+      "team": "RSA"
+    },
+    "venueId": "azteca",
+    "kickoffUTC": "2026-06-11T19:00:00Z",
+    "potentialTeams": [
+      "MEX",
+      "RSA"
+    ]
+  },
+  {
+    "id": 2,
+    "stage": "GS",
+    "group": "A",
+    "home": {
+      "team": "KOR"
+    },
+    "away": {
+      "team": "CZE"
+    },
+    "venueId": "akron",
+    "kickoffUTC": "2026-06-12T02:00:00Z",
+    "potentialTeams": [
+      "CZE",
+      "KOR"
+    ]
+  },
+  {
+    "id": 3,
+    "stage": "GS",
+    "group": "B",
+    "home": {
+      "team": "CAN"
+    },
+    "away": {
+      "team": "BIH"
+    },
+    "venueId": "bmofield",
+    "kickoffUTC": "2026-06-12T19:00:00Z",
+    "potentialTeams": [
+      "BIH",
+      "CAN"
+    ]
+  },
+  {
+    "id": 4,
+    "stage": "GS",
+    "group": "D",
+    "home": {
+      "team": "USA"
+    },
+    "away": {
+      "team": "PAR"
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-06-13T01:00:00Z",
+    "potentialTeams": [
+      "PAR",
+      "USA"
+    ]
+  },
+  {
+    "id": 5,
+    "stage": "GS",
+    "group": "B",
+    "home": {
+      "team": "QAT"
+    },
+    "away": {
+      "team": "SUI"
+    },
+    "venueId": "levis",
+    "kickoffUTC": "2026-06-13T19:00:00Z",
+    "potentialTeams": [
+      "QAT",
+      "SUI"
+    ]
+  },
+  {
+    "id": 6,
+    "stage": "GS",
+    "group": "C",
+    "home": {
+      "team": "BRA"
+    },
+    "away": {
+      "team": "MAR"
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-06-13T22:00:00Z",
+    "potentialTeams": [
+      "BRA",
+      "MAR"
+    ]
+  },
+  {
+    "id": 7,
+    "stage": "GS",
+    "group": "C",
+    "home": {
+      "team": "HAI"
+    },
+    "away": {
+      "team": "SCO"
+    },
+    "venueId": "gillette",
+    "kickoffUTC": "2026-06-14T01:00:00Z",
+    "potentialTeams": [
+      "HAI",
+      "SCO"
+    ]
+  },
+  {
+    "id": 8,
+    "stage": "GS",
+    "group": "D",
+    "home": {
+      "team": "AUS"
+    },
+    "away": {
+      "team": "TUR"
+    },
+    "venueId": "bcplace",
+    "kickoffUTC": "2026-06-14T04:00:00Z",
+    "potentialTeams": [
+      "AUS",
+      "TUR"
+    ]
+  },
+  {
+    "id": 9,
+    "stage": "GS",
+    "group": "E",
+    "home": {
+      "team": "GER"
+    },
+    "away": {
+      "team": "CUW"
+    },
+    "venueId": "nrg",
+    "kickoffUTC": "2026-06-14T17:00:00Z",
+    "potentialTeams": [
+      "CUW",
+      "GER"
+    ]
+  },
+  {
+    "id": 10,
+    "stage": "GS",
+    "group": "F",
+    "home": {
+      "team": "NED"
+    },
+    "away": {
+      "team": "JPN"
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-06-14T20:00:00Z",
+    "potentialTeams": [
+      "JPN",
+      "NED"
+    ]
+  },
+  {
+    "id": 11,
+    "stage": "GS",
+    "group": "E",
+    "home": {
+      "team": "CIV"
+    },
+    "away": {
+      "team": "ECU"
+    },
+    "venueId": "lincoln",
+    "kickoffUTC": "2026-06-14T23:00:00Z",
+    "potentialTeams": [
+      "CIV",
+      "ECU"
+    ]
+  },
+  {
+    "id": 12,
+    "stage": "GS",
+    "group": "F",
+    "home": {
+      "team": "TUN"
+    },
+    "away": {
+      "team": "SWE"
+    },
+    "venueId": "bbva",
+    "kickoffUTC": "2026-06-15T02:00:00Z",
+    "potentialTeams": [
+      "SWE",
+      "TUN"
+    ]
+  },
+  {
+    "id": 13,
+    "stage": "GS",
+    "group": "H",
+    "home": {
+      "team": "ESP"
+    },
+    "away": {
+      "team": "CPV"
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-06-15T16:00:00Z",
+    "potentialTeams": [
+      "CPV",
+      "ESP"
+    ]
+  },
+  {
+    "id": 14,
+    "stage": "GS",
+    "group": "G",
+    "home": {
+      "team": "BEL"
+    },
+    "away": {
+      "team": "EGY"
+    },
+    "venueId": "lumen",
+    "kickoffUTC": "2026-06-15T19:00:00Z",
+    "potentialTeams": [
+      "BEL",
+      "EGY"
+    ]
+  },
+  {
+    "id": 15,
+    "stage": "GS",
+    "group": "H",
+    "home": {
+      "team": "KSA"
+    },
+    "away": {
+      "team": "URU"
+    },
+    "venueId": "hardrock",
+    "kickoffUTC": "2026-06-15T22:00:00Z",
+    "potentialTeams": [
+      "KSA",
+      "URU"
+    ]
+  },
+  {
+    "id": 16,
+    "stage": "GS",
+    "group": "G",
+    "home": {
+      "team": "IRN"
+    },
+    "away": {
+      "team": "NZL"
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-06-16T01:00:00Z",
+    "potentialTeams": [
+      "IRN",
+      "NZL"
+    ]
+  },
+  {
+    "id": 17,
+    "stage": "GS",
+    "group": "I",
+    "home": {
+      "team": "FRA"
+    },
+    "away": {
+      "team": "SEN"
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-06-16T19:00:00Z",
+    "potentialTeams": [
+      "FRA",
+      "SEN"
+    ]
+  },
+  {
+    "id": 18,
+    "stage": "GS",
+    "group": "I",
+    "home": {
+      "team": "NOR"
+    },
+    "away": {
+      "team": "IRQ"
+    },
+    "venueId": "gillette",
+    "kickoffUTC": "2026-06-16T22:00:00Z",
+    "potentialTeams": [
+      "IRQ",
+      "NOR"
+    ]
+  },
+  {
+    "id": 19,
+    "stage": "GS",
+    "group": "J",
+    "home": {
+      "team": "ARG"
+    },
+    "away": {
+      "team": "ALG"
+    },
+    "venueId": "arrowhead",
+    "kickoffUTC": "2026-06-17T01:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG"
+    ]
+  },
+  {
+    "id": 20,
+    "stage": "GS",
+    "group": "J",
+    "home": {
+      "team": "AUT"
+    },
+    "away": {
+      "team": "JOR"
+    },
+    "venueId": "levis",
+    "kickoffUTC": "2026-06-17T04:00:00Z",
+    "potentialTeams": [
+      "AUT",
+      "JOR"
+    ]
+  },
+  {
+    "id": 21,
+    "stage": "GS",
+    "group": "K",
+    "home": {
+      "team": "POR"
+    },
+    "away": {
+      "team": "COD"
+    },
+    "venueId": "nrg",
+    "kickoffUTC": "2026-06-17T17:00:00Z",
+    "potentialTeams": [
+      "COD",
+      "POR"
+    ]
+  },
+  {
+    "id": 22,
+    "stage": "GS",
+    "group": "L",
+    "home": {
+      "team": "ENG"
+    },
+    "away": {
+      "team": "CRO"
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-06-17T20:00:00Z",
+    "potentialTeams": [
+      "CRO",
+      "ENG"
+    ]
+  },
+  {
+    "id": 23,
+    "stage": "GS",
+    "group": "L",
+    "home": {
+      "team": "GHA"
+    },
+    "away": {
+      "team": "PAN"
+    },
+    "venueId": "bmofield",
+    "kickoffUTC": "2026-06-17T23:00:00Z",
+    "potentialTeams": [
+      "GHA",
+      "PAN"
+    ]
+  },
+  {
+    "id": 24,
+    "stage": "GS",
+    "group": "K",
+    "home": {
+      "team": "UZB"
+    },
+    "away": {
+      "team": "COL"
+    },
+    "venueId": "azteca",
+    "kickoffUTC": "2026-06-18T02:00:00Z",
+    "potentialTeams": [
+      "COL",
+      "UZB"
+    ]
+  },
+  {
+    "id": 25,
+    "stage": "GS",
+    "group": "A",
+    "home": {
+      "team": "RSA"
+    },
+    "away": {
+      "team": "CZE"
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-06-18T16:00:00Z",
+    "potentialTeams": [
+      "CZE",
+      "RSA"
+    ]
+  },
+  {
+    "id": 26,
+    "stage": "GS",
+    "group": "B",
+    "home": {
+      "team": "SUI"
+    },
+    "away": {
+      "team": "BIH"
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-06-18T19:00:00Z",
+    "potentialTeams": [
+      "BIH",
+      "SUI"
+    ]
+  },
+  {
+    "id": 27,
+    "stage": "GS",
+    "group": "B",
+    "home": {
+      "team": "CAN"
+    },
+    "away": {
+      "team": "QAT"
+    },
+    "venueId": "bcplace",
+    "kickoffUTC": "2026-06-18T22:00:00Z",
+    "potentialTeams": [
+      "CAN",
+      "QAT"
+    ]
+  },
+  {
+    "id": 28,
+    "stage": "GS",
+    "group": "A",
+    "home": {
+      "team": "MEX"
+    },
+    "away": {
+      "team": "KOR"
+    },
+    "venueId": "akron",
+    "kickoffUTC": "2026-06-19T01:00:00Z",
+    "potentialTeams": [
+      "KOR",
+      "MEX"
+    ]
+  },
+  {
+    "id": 29,
+    "stage": "GS",
+    "group": "D",
+    "home": {
+      "team": "USA"
+    },
+    "away": {
+      "team": "AUS"
+    },
+    "venueId": "lumen",
+    "kickoffUTC": "2026-06-19T19:00:00Z",
+    "potentialTeams": [
+      "AUS",
+      "USA"
+    ]
+  },
+  {
+    "id": 30,
+    "stage": "GS",
+    "group": "C",
+    "home": {
+      "team": "SCO"
+    },
+    "away": {
+      "team": "MAR"
+    },
+    "venueId": "gillette",
+    "kickoffUTC": "2026-06-19T19:00:00Z",
+    "potentialTeams": [
+      "MAR",
+      "SCO"
+    ]
+  },
+  {
+    "id": 31,
+    "stage": "GS",
+    "group": "C",
+    "home": {
+      "team": "BRA"
+    },
+    "away": {
+      "team": "HAI"
+    },
+    "venueId": "lincoln",
+    "kickoffUTC": "2026-06-20T01:00:00Z",
+    "potentialTeams": [
+      "BRA",
+      "HAI"
+    ]
+  },
+  {
+    "id": 32,
+    "stage": "GS",
+    "group": "D",
+    "home": {
+      "team": "PAR"
+    },
+    "away": {
+      "team": "TUR"
+    },
+    "venueId": "levis",
+    "kickoffUTC": "2026-06-20T04:00:00Z",
+    "potentialTeams": [
+      "PAR",
+      "TUR"
+    ]
+  },
+  {
+    "id": 33,
+    "stage": "GS",
+    "group": "F",
+    "home": {
+      "team": "NED"
+    },
+    "away": {
+      "team": "SWE"
+    },
+    "venueId": "nrg",
+    "kickoffUTC": "2026-06-20T17:00:00Z",
+    "potentialTeams": [
+      "NED",
+      "SWE"
+    ]
+  },
+  {
+    "id": 34,
+    "stage": "GS",
+    "group": "E",
+    "home": {
+      "team": "GER"
+    },
+    "away": {
+      "team": "CIV"
+    },
+    "venueId": "bmofield",
+    "kickoffUTC": "2026-06-20T20:00:00Z",
+    "potentialTeams": [
+      "CIV",
+      "GER"
+    ]
+  },
+  {
+    "id": 35,
+    "stage": "GS",
+    "group": "E",
+    "home": {
+      "team": "ECU"
+    },
+    "away": {
+      "team": "CUW"
+    },
+    "venueId": "arrowhead",
+    "kickoffUTC": "2026-06-21T00:00:00Z",
+    "potentialTeams": [
+      "CUW",
+      "ECU"
+    ]
+  },
+  {
+    "id": 36,
+    "stage": "GS",
+    "group": "F",
+    "home": {
+      "team": "TUN"
+    },
+    "away": {
+      "team": "JPN"
+    },
+    "venueId": "bbva",
+    "kickoffUTC": "2026-06-21T04:00:00Z",
+    "potentialTeams": [
+      "JPN",
+      "TUN"
+    ]
+  },
+  {
+    "id": 37,
+    "stage": "GS",
+    "group": "H",
+    "home": {
+      "team": "ESP"
+    },
+    "away": {
+      "team": "KSA"
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-06-21T16:00:00Z",
+    "potentialTeams": [
+      "ESP",
+      "KSA"
+    ]
+  },
+  {
+    "id": 38,
+    "stage": "GS",
+    "group": "G",
+    "home": {
+      "team": "BEL"
+    },
+    "away": {
+      "team": "IRN"
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-06-21T19:00:00Z",
+    "potentialTeams": [
+      "BEL",
+      "IRN"
+    ]
+  },
+  {
+    "id": 39,
+    "stage": "GS",
+    "group": "H",
+    "home": {
+      "team": "URU"
+    },
+    "away": {
+      "team": "CPV"
+    },
+    "venueId": "hardrock",
+    "kickoffUTC": "2026-06-21T22:00:00Z",
+    "potentialTeams": [
+      "CPV",
+      "URU"
+    ]
+  },
+  {
+    "id": 40,
+    "stage": "GS",
+    "group": "G",
+    "home": {
+      "team": "NZL"
+    },
+    "away": {
+      "team": "EGY"
+    },
+    "venueId": "bcplace",
+    "kickoffUTC": "2026-06-22T01:00:00Z",
+    "potentialTeams": [
+      "EGY",
+      "NZL"
+    ]
+  },
+  {
+    "id": 41,
+    "stage": "GS",
+    "group": "J",
+    "home": {
+      "team": "ARG"
+    },
+    "away": {
+      "team": "AUT"
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-06-22T17:00:00Z",
+    "potentialTeams": [
+      "ARG",
+      "AUT"
+    ]
+  },
+  {
+    "id": 42,
+    "stage": "GS",
+    "group": "I",
+    "home": {
+      "team": "FRA"
+    },
+    "away": {
+      "team": "IRQ"
+    },
+    "venueId": "lincoln",
+    "kickoffUTC": "2026-06-22T21:00:00Z",
+    "potentialTeams": [
+      "FRA",
+      "IRQ"
+    ]
+  },
+  {
+    "id": 43,
+    "stage": "GS",
+    "group": "I",
+    "home": {
+      "team": "NOR"
+    },
+    "away": {
+      "team": "SEN"
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-06-23T00:00:00Z",
+    "potentialTeams": [
+      "NOR",
+      "SEN"
+    ]
+  },
+  {
+    "id": 44,
+    "stage": "GS",
+    "group": "J",
+    "home": {
+      "team": "JOR"
+    },
+    "away": {
+      "team": "ALG"
+    },
+    "venueId": "levis",
+    "kickoffUTC": "2026-06-23T03:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "JOR"
+    ]
+  },
+  {
+    "id": 45,
+    "stage": "GS",
+    "group": "K",
+    "home": {
+      "team": "POR"
+    },
+    "away": {
+      "team": "UZB"
+    },
+    "venueId": "nrg",
+    "kickoffUTC": "2026-06-23T17:00:00Z",
+    "potentialTeams": [
+      "POR",
+      "UZB"
+    ]
+  },
+  {
+    "id": 46,
+    "stage": "GS",
+    "group": "L",
+    "home": {
+      "team": "ENG"
+    },
+    "away": {
+      "team": "GHA"
+    },
+    "venueId": "gillette",
+    "kickoffUTC": "2026-06-23T20:00:00Z",
+    "potentialTeams": [
+      "ENG",
+      "GHA"
+    ]
+  },
+  {
+    "id": 47,
+    "stage": "GS",
+    "group": "L",
+    "home": {
+      "team": "PAN"
+    },
+    "away": {
+      "team": "CRO"
+    },
+    "venueId": "bmofield",
+    "kickoffUTC": "2026-06-23T23:00:00Z",
+    "potentialTeams": [
+      "CRO",
+      "PAN"
+    ]
+  },
+  {
+    "id": 48,
+    "stage": "GS",
+    "group": "K",
+    "home": {
+      "team": "COL"
+    },
+    "away": {
+      "team": "COD"
+    },
+    "venueId": "akron",
+    "kickoffUTC": "2026-06-24T02:00:00Z",
+    "potentialTeams": [
+      "COD",
+      "COL"
+    ]
+  },
+  {
+    "id": 49,
+    "stage": "GS",
+    "group": "B",
+    "home": {
+      "team": "CAN"
+    },
+    "away": {
+      "team": "SUI"
+    },
+    "venueId": "bcplace",
+    "kickoffUTC": "2026-06-24T19:00:00Z",
+    "potentialTeams": [
+      "CAN",
+      "SUI"
+    ]
+  },
+  {
+    "id": 50,
+    "stage": "GS",
+    "group": "B",
+    "home": {
+      "team": "QAT"
+    },
+    "away": {
+      "team": "BIH"
+    },
+    "venueId": "lumen",
+    "kickoffUTC": "2026-06-24T19:00:00Z",
+    "potentialTeams": [
+      "BIH",
+      "QAT"
+    ]
+  },
+  {
+    "id": 51,
+    "stage": "GS",
+    "group": "C",
+    "home": {
+      "team": "SCO"
+    },
+    "away": {
+      "team": "BRA"
+    },
+    "venueId": "hardrock",
+    "kickoffUTC": "2026-06-24T22:00:00Z",
+    "potentialTeams": [
+      "BRA",
+      "SCO"
+    ]
+  },
+  {
+    "id": 52,
+    "stage": "GS",
+    "group": "C",
+    "home": {
+      "team": "MAR"
+    },
+    "away": {
+      "team": "HAI"
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-06-24T22:00:00Z",
+    "potentialTeams": [
+      "HAI",
+      "MAR"
+    ]
+  },
+  {
+    "id": 53,
+    "stage": "GS",
+    "group": "A",
+    "home": {
+      "team": "MEX"
+    },
+    "away": {
+      "team": "CZE"
+    },
+    "venueId": "azteca",
+    "kickoffUTC": "2026-06-25T01:00:00Z",
+    "potentialTeams": [
+      "CZE",
+      "MEX"
+    ]
+  },
+  {
+    "id": 54,
+    "stage": "GS",
+    "group": "A",
+    "home": {
+      "team": "KOR"
+    },
+    "away": {
+      "team": "RSA"
+    },
+    "venueId": "bbva",
+    "kickoffUTC": "2026-06-25T01:00:00Z",
+    "potentialTeams": [
+      "KOR",
+      "RSA"
+    ]
+  },
+  {
+    "id": 55,
+    "stage": "GS",
+    "group": "E",
+    "home": {
+      "team": "ECU"
+    },
+    "away": {
+      "team": "GER"
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-06-25T20:00:00Z",
+    "potentialTeams": [
+      "ECU",
+      "GER"
+    ]
+  },
+  {
+    "id": 56,
+    "stage": "GS",
+    "group": "E",
+    "home": {
+      "team": "CUW"
+    },
+    "away": {
+      "team": "CIV"
+    },
+    "venueId": "lincoln",
+    "kickoffUTC": "2026-06-25T20:00:00Z",
+    "potentialTeams": [
+      "CIV",
+      "CUW"
+    ]
+  },
+  {
+    "id": 57,
+    "stage": "GS",
+    "group": "F",
+    "home": {
+      "team": "TUN"
+    },
+    "away": {
+      "team": "NED"
+    },
+    "venueId": "arrowhead",
+    "kickoffUTC": "2026-06-25T23:00:00Z",
+    "potentialTeams": [
+      "NED",
+      "TUN"
+    ]
+  },
+  {
+    "id": 58,
+    "stage": "GS",
+    "group": "F",
+    "home": {
+      "team": "JPN"
+    },
+    "away": {
+      "team": "SWE"
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-06-25T23:00:00Z",
+    "potentialTeams": [
+      "JPN",
+      "SWE"
+    ]
+  },
+  {
+    "id": 59,
+    "stage": "GS",
+    "group": "D",
+    "home": {
+      "team": "USA"
+    },
+    "away": {
+      "team": "TUR"
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-06-26T02:00:00Z",
+    "potentialTeams": [
+      "TUR",
+      "USA"
+    ]
+  },
+  {
+    "id": 60,
+    "stage": "GS",
+    "group": "D",
+    "home": {
+      "team": "PAR"
+    },
+    "away": {
+      "team": "AUS"
+    },
+    "venueId": "levis",
+    "kickoffUTC": "2026-06-26T02:00:00Z",
+    "potentialTeams": [
+      "AUS",
+      "PAR"
+    ]
+  },
+  {
+    "id": 61,
+    "stage": "GS",
+    "group": "I",
+    "home": {
+      "team": "NOR"
+    },
+    "away": {
+      "team": "FRA"
+    },
+    "venueId": "gillette",
+    "kickoffUTC": "2026-06-26T19:00:00Z",
+    "potentialTeams": [
+      "FRA",
+      "NOR"
+    ]
+  },
+  {
+    "id": 62,
+    "stage": "GS",
+    "group": "I",
+    "home": {
+      "team": "SEN"
+    },
+    "away": {
+      "team": "IRQ"
+    },
+    "venueId": "bmofield",
+    "kickoffUTC": "2026-06-26T19:00:00Z",
+    "potentialTeams": [
+      "IRQ",
+      "SEN"
+    ]
+  },
+  {
+    "id": 63,
+    "stage": "GS",
+    "group": "H",
+    "home": {
+      "team": "URU"
+    },
+    "away": {
+      "team": "ESP"
+    },
+    "venueId": "akron",
+    "kickoffUTC": "2026-06-27T00:00:00Z",
+    "potentialTeams": [
+      "ESP",
+      "URU"
+    ]
+  },
+  {
+    "id": 64,
+    "stage": "GS",
+    "group": "H",
+    "home": {
+      "team": "CPV"
+    },
+    "away": {
+      "team": "KSA"
+    },
+    "venueId": "nrg",
+    "kickoffUTC": "2026-06-27T00:00:00Z",
+    "potentialTeams": [
+      "CPV",
+      "KSA"
+    ]
+  },
+  {
+    "id": 65,
+    "stage": "GS",
+    "group": "G",
+    "home": {
+      "team": "NZL"
+    },
+    "away": {
+      "team": "BEL"
+    },
+    "venueId": "bcplace",
+    "kickoffUTC": "2026-06-27T03:00:00Z",
+    "potentialTeams": [
+      "BEL",
+      "NZL"
+    ]
+  },
+  {
+    "id": 66,
+    "stage": "GS",
+    "group": "G",
+    "home": {
+      "team": "EGY"
+    },
+    "away": {
+      "team": "IRN"
+    },
+    "venueId": "lumen",
+    "kickoffUTC": "2026-06-27T03:00:00Z",
+    "potentialTeams": [
+      "EGY",
+      "IRN"
+    ]
+  },
+  {
+    "id": 67,
+    "stage": "GS",
+    "group": "L",
+    "home": {
+      "team": "PAN"
+    },
+    "away": {
+      "team": "ENG"
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-06-27T21:00:00Z",
+    "potentialTeams": [
+      "ENG",
+      "PAN"
+    ]
+  },
+  {
+    "id": 68,
+    "stage": "GS",
+    "group": "L",
+    "home": {
+      "team": "CRO"
+    },
+    "away": {
+      "team": "GHA"
+    },
+    "venueId": "lincoln",
+    "kickoffUTC": "2026-06-27T21:00:00Z",
+    "potentialTeams": [
+      "CRO",
+      "GHA"
+    ]
+  },
+  {
+    "id": 69,
+    "stage": "GS",
+    "group": "K",
+    "home": {
+      "team": "COL"
+    },
+    "away": {
+      "team": "POR"
+    },
+    "venueId": "hardrock",
+    "kickoffUTC": "2026-06-27T23:30:00Z",
+    "potentialTeams": [
+      "COL",
+      "POR"
+    ]
+  },
+  {
+    "id": 70,
+    "stage": "GS",
+    "group": "K",
+    "home": {
+      "team": "UZB"
+    },
+    "away": {
+      "team": "COD"
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-06-27T23:30:00Z",
+    "potentialTeams": [
+      "COD",
+      "UZB"
+    ]
+  },
+  {
+    "id": 71,
+    "stage": "GS",
+    "group": "J",
+    "home": {
+      "team": "JOR"
+    },
+    "away": {
+      "team": "ARG"
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-06-28T02:00:00Z",
+    "potentialTeams": [
+      "ARG",
+      "JOR"
+    ]
+  },
+  {
+    "id": 72,
+    "stage": "GS",
+    "group": "J",
+    "home": {
+      "team": "ALG"
+    },
+    "away": {
+      "team": "AUT"
+    },
+    "venueId": "arrowhead",
+    "kickoffUTC": "2026-06-28T02:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "AUT"
+    ]
+  },
+  {
+    "id": 73,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Runner-up Group A",
+      "placeholder": "R:A",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group B",
+      "placeholder": "R:B",
+      "potentialTeams": [
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI"
+      ]
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-06-28T19:00:00Z",
+    "potentialTeams": [
+      "BIH",
+      "CAN",
+      "CZE",
+      "KOR",
+      "MEX",
+      "QAT",
+      "RSA",
+      "SUI"
+    ]
+  },
+  {
+    "id": 74,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group E",
+      "placeholder": "W:E",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU"
+      ]
+    },
+    "away": {
+      "label": "3rd Group A/B/C/D/F",
+      "placeholder": "3:A,B,C,D,F",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE"
+      ]
+    },
+    "venueId": "gillette",
+    "kickoffUTC": "2026-06-29T20:30:00Z",
+    "potentialTeams": [
+      "AUS",
+      "BIH",
+      "BRA",
+      "CAN",
+      "CIV",
+      "CUW",
+      "CZE",
+      "ECU",
+      "GER",
+      "HAI",
+      "JPN",
+      "KOR",
+      "MAR",
+      "MEX",
+      "NED",
+      "PAR",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "USA"
+    ]
+  },
+  {
+    "id": 75,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group F",
+      "placeholder": "W:F",
+      "potentialTeams": [
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group C",
+      "placeholder": "R:C",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO"
+      ]
+    },
+    "venueId": "bbva",
+    "kickoffUTC": "2026-06-30T01:00:00Z",
+    "potentialTeams": [
+      "BRA",
+      "HAI",
+      "JPN",
+      "MAR",
+      "NED",
+      "SCO",
+      "SWE",
+      "TUN"
+    ]
+  },
+  {
+    "id": 76,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group C",
+      "placeholder": "W:C",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group F",
+      "placeholder": "R:F",
+      "potentialTeams": [
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE"
+      ]
+    },
+    "venueId": "nrg",
+    "kickoffUTC": "2026-06-29T17:00:00Z",
+    "potentialTeams": [
+      "BRA",
+      "HAI",
+      "JPN",
+      "MAR",
+      "NED",
+      "SCO",
+      "SWE",
+      "TUN"
+    ]
+  },
+  {
+    "id": 77,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group I",
+      "placeholder": "W:I",
+      "potentialTeams": [
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ"
+      ]
+    },
+    "away": {
+      "label": "3rd Group C/D/F/G/H",
+      "placeholder": "3:C,D,F,G,H",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-06-30T21:00:00Z",
+    "potentialTeams": [
+      "AUS",
+      "BEL",
+      "BRA",
+      "CPV",
+      "EGY",
+      "ESP",
+      "FRA",
+      "HAI",
+      "IRN",
+      "IRQ",
+      "JPN",
+      "KSA",
+      "MAR",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAR",
+      "SCO",
+      "SEN",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA"
+    ]
+  },
+  {
+    "id": 78,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Runner-up Group E",
+      "placeholder": "R:E",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group I",
+      "placeholder": "R:I",
+      "potentialTeams": [
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ"
+      ]
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-06-30T17:00:00Z",
+    "potentialTeams": [
+      "CIV",
+      "CUW",
+      "ECU",
+      "FRA",
+      "GER",
+      "IRQ",
+      "NOR",
+      "SEN"
+    ]
+  },
+  {
+    "id": 79,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group A",
+      "placeholder": "W:A",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE"
+      ]
+    },
+    "away": {
+      "label": "3rd Group C/E/F/H/I",
+      "placeholder": "3:C,E,F,H,I",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ"
+      ]
+    },
+    "venueId": "azteca",
+    "kickoffUTC": "2026-07-01T01:00:00Z",
+    "potentialTeams": [
+      "BRA",
+      "CIV",
+      "CPV",
+      "CUW",
+      "CZE",
+      "ECU",
+      "ESP",
+      "FRA",
+      "GER",
+      "HAI",
+      "IRQ",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SWE",
+      "TUN",
+      "URU"
+    ]
+  },
+  {
+    "id": 80,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group L",
+      "placeholder": "W:L",
+      "potentialTeams": [
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    },
+    "away": {
+      "label": "3rd Group E/H/I/J/K",
+      "placeholder": "3:E,H,I,J,K",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-07-01T16:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "ECU",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "IRQ",
+      "JOR",
+      "KSA",
+      "NOR",
+      "PAN",
+      "POR",
+      "SEN",
+      "URU",
+      "UZB"
+    ]
+  },
+  {
+    "id": 81,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group D",
+      "placeholder": "W:D",
+      "potentialTeams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR"
+      ]
+    },
+    "away": {
+      "label": "3rd Group B/E/F/I/J",
+      "placeholder": "3:B,E,F,I,J",
+      "potentialTeams": [
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "venueId": "levis",
+    "kickoffUTC": "2026-07-02T00:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BIH",
+      "CAN",
+      "CIV",
+      "CUW",
+      "ECU",
+      "FRA",
+      "GER",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "NED",
+      "NOR",
+      "PAR",
+      "QAT",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "USA"
+    ]
+  },
+  {
+    "id": 82,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group G",
+      "placeholder": "W:G",
+      "potentialTeams": [
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL"
+      ]
+    },
+    "away": {
+      "label": "3rd Group A/E/H/I/J",
+      "placeholder": "3:A,E,H,I,J",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "venueId": "lumen",
+    "kickoffUTC": "2026-07-01T20:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "BEL",
+      "CIV",
+      "CPV",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ESP",
+      "FRA",
+      "GER",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "KOR",
+      "KSA",
+      "MEX",
+      "NOR",
+      "NZL",
+      "RSA",
+      "SEN",
+      "URU"
+    ]
+  },
+  {
+    "id": 83,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Runner-up Group K",
+      "placeholder": "R:K",
+      "potentialTeams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group L",
+      "placeholder": "R:L",
+      "potentialTeams": [
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    },
+    "venueId": "bmofield",
+    "kickoffUTC": "2026-07-02T23:00:00Z",
+    "potentialTeams": [
+      "COD",
+      "COL",
+      "CRO",
+      "ENG",
+      "GHA",
+      "PAN",
+      "POR",
+      "UZB"
+    ]
+  },
+  {
+    "id": 84,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group H",
+      "placeholder": "W:H",
+      "potentialTeams": [
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group J",
+      "placeholder": "R:J",
+      "potentialTeams": [
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-07-02T19:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "CPV",
+      "ESP",
+      "JOR",
+      "KSA",
+      "URU"
+    ]
+  },
+  {
+    "id": 85,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group B",
+      "placeholder": "W:B",
+      "potentialTeams": [
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI"
+      ]
+    },
+    "away": {
+      "label": "3rd Group E/F/G/I/J",
+      "placeholder": "3:E,F,G,I,J",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "venueId": "bcplace",
+    "kickoffUTC": "2026-07-03T03:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "BEL",
+      "BIH",
+      "CAN",
+      "CIV",
+      "CUW",
+      "ECU",
+      "EGY",
+      "FRA",
+      "GER",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "NED",
+      "NOR",
+      "NZL",
+      "QAT",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN"
+    ]
+  },
+  {
+    "id": 86,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group J",
+      "placeholder": "W:J",
+      "potentialTeams": [
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group H",
+      "placeholder": "R:H",
+      "potentialTeams": [
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "venueId": "hardrock",
+    "kickoffUTC": "2026-07-03T22:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "CPV",
+      "ESP",
+      "JOR",
+      "KSA",
+      "URU"
+    ]
+  },
+  {
+    "id": 87,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Winner Group K",
+      "placeholder": "W:K",
+      "potentialTeams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    "away": {
+      "label": "3rd Group D/E/I/J/L",
+      "placeholder": "3:D,E,I,J,L",
+      "potentialTeams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    },
+    "venueId": "arrowhead",
+    "kickoffUTC": "2026-07-04T01:30:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "CIV",
+      "COD",
+      "COL",
+      "CRO",
+      "CUW",
+      "ECU",
+      "ENG",
+      "FRA",
+      "GER",
+      "GHA",
+      "IRQ",
+      "JOR",
+      "NOR",
+      "PAN",
+      "PAR",
+      "POR",
+      "SEN",
+      "TUR",
+      "USA",
+      "UZB"
+    ]
+  },
+  {
+    "id": 88,
+    "stage": "R32",
+    "group": null,
+    "home": {
+      "label": "Runner-up Group D",
+      "placeholder": "R:D",
+      "potentialTeams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR"
+      ]
+    },
+    "away": {
+      "label": "Runner-up Group G",
+      "placeholder": "R:G",
+      "potentialTeams": [
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL"
+      ]
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-07-03T18:00:00Z",
+    "potentialTeams": [
+      "AUS",
+      "BEL",
+      "EGY",
+      "IRN",
+      "NZL",
+      "PAR",
+      "TUR",
+      "USA"
+    ]
+  },
+  {
+    "id": 89,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 74",
+      "placeholder": "M:74",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 77",
+      "placeholder": "M:77",
+      "potentialTeams": [
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "venueId": "lincoln",
+    "kickoffUTC": "2026-07-04T21:00:00Z",
+    "potentialTeams": [
+      "AUS",
+      "BEL",
+      "BIH",
+      "BRA",
+      "CAN",
+      "CIV",
+      "CPV",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ESP",
+      "FRA",
+      "GER",
+      "HAI",
+      "IRN",
+      "IRQ",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAR",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA"
+    ]
+  },
+  {
+    "id": 90,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 73",
+      "placeholder": "M:73",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 75",
+      "placeholder": "M:75",
+      "potentialTeams": [
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO"
+      ]
+    },
+    "venueId": "nrg",
+    "kickoffUTC": "2026-07-04T17:00:00Z",
+    "potentialTeams": [
+      "BIH",
+      "BRA",
+      "CAN",
+      "CZE",
+      "HAI",
+      "JPN",
+      "KOR",
+      "MAR",
+      "MEX",
+      "NED",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SUI",
+      "SWE",
+      "TUN"
+    ]
+  },
+  {
+    "id": 91,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 76",
+      "placeholder": "M:76",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 78",
+      "placeholder": "M:78",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ"
+      ]
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-07-05T20:00:00Z",
+    "potentialTeams": [
+      "BRA",
+      "CIV",
+      "CUW",
+      "ECU",
+      "FRA",
+      "GER",
+      "HAI",
+      "IRQ",
+      "JPN",
+      "MAR",
+      "NED",
+      "NOR",
+      "SCO",
+      "SEN",
+      "SWE",
+      "TUN"
+    ]
+  },
+  {
+    "id": 92,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 79",
+      "placeholder": "M:79",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 80",
+      "placeholder": "M:80",
+      "potentialTeams": [
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    "venueId": "azteca",
+    "kickoffUTC": "2026-07-06T00:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "BRA",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "CZE",
+      "ECU",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "HAI",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "PAN",
+      "POR",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SWE",
+      "TUN",
+      "URU",
+      "UZB"
+    ]
+  },
+  {
+    "id": 93,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 83",
+      "placeholder": "M:83",
+      "potentialTeams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 84",
+      "placeholder": "M:84",
+      "potentialTeams": [
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-07-06T19:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "ENG",
+      "ESP",
+      "GHA",
+      "JOR",
+      "KSA",
+      "PAN",
+      "POR",
+      "URU",
+      "UZB"
+    ]
+  },
+  {
+    "id": 94,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 81",
+      "placeholder": "M:81",
+      "potentialTeams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 82",
+      "placeholder": "M:82",
+      "potentialTeams": [
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "venueId": "lumen",
+    "kickoffUTC": "2026-07-07T00:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "CAN",
+      "CIV",
+      "CPV",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ESP",
+      "FRA",
+      "GER",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAR",
+      "QAT",
+      "RSA",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA"
+    ]
+  },
+  {
+    "id": 95,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 86",
+      "placeholder": "M:86",
+      "potentialTeams": [
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 88",
+      "placeholder": "M:88",
+      "potentialTeams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL"
+      ]
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-07-07T16:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "CPV",
+      "EGY",
+      "ESP",
+      "IRN",
+      "JOR",
+      "KSA",
+      "NZL",
+      "PAR",
+      "TUR",
+      "URU",
+      "USA"
+    ]
+  },
+  {
+    "id": 96,
+    "stage": "R16",
+    "group": null,
+    "home": {
+      "label": "Winner Match 85",
+      "placeholder": "M:85",
+      "potentialTeams": [
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 87",
+      "placeholder": "M:87",
+      "potentialTeams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    },
+    "venueId": "bcplace",
+    "kickoffUTC": "2026-07-07T20:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "CAN",
+      "CIV",
+      "COD",
+      "COL",
+      "CRO",
+      "CUW",
+      "ECU",
+      "EGY",
+      "ENG",
+      "FRA",
+      "GER",
+      "GHA",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PAR",
+      "POR",
+      "QAT",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "USA",
+      "UZB"
+    ]
+  },
+  {
+    "id": 97,
+    "stage": "QF",
+    "group": null,
+    "home": {
+      "label": "Winner Match 89",
+      "placeholder": "M:89",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 90",
+      "placeholder": "M:90",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO"
+      ]
+    },
+    "venueId": "gillette",
+    "kickoffUTC": "2026-07-09T20:00:00Z",
+    "potentialTeams": [
+      "AUS",
+      "BEL",
+      "BIH",
+      "BRA",
+      "CAN",
+      "CIV",
+      "CPV",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ESP",
+      "FRA",
+      "GER",
+      "HAI",
+      "IRN",
+      "IRQ",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAR",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA"
+    ]
+  },
+  {
+    "id": 98,
+    "stage": "QF",
+    "group": null,
+    "home": {
+      "label": "Winner Match 93",
+      "placeholder": "M:93",
+      "potentialTeams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 94",
+      "placeholder": "M:94",
+      "potentialTeams": [
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "venueId": "sofi",
+    "kickoffUTC": "2026-07-10T19:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "CAN",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PAR",
+      "POR",
+      "QAT",
+      "RSA",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA",
+      "UZB"
+    ]
+  },
+  {
+    "id": 99,
+    "stage": "QF",
+    "group": null,
+    "home": {
+      "label": "Winner Match 91",
+      "placeholder": "M:91",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 92",
+      "placeholder": "M:92",
+      "potentialTeams": [
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    "venueId": "hardrock",
+    "kickoffUTC": "2026-07-11T21:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUT",
+      "BRA",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "CZE",
+      "ECU",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "HAI",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "PAN",
+      "POR",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SWE",
+      "TUN",
+      "URU",
+      "UZB"
+    ]
+  },
+  {
+    "id": 100,
+    "stage": "QF",
+    "group": null,
+    "home": {
+      "label": "Winner Match 95",
+      "placeholder": "M:95",
+      "potentialTeams": [
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 96",
+      "placeholder": "M:96",
+      "potentialTeams": [
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    },
+    "venueId": "arrowhead",
+    "kickoffUTC": "2026-07-12T01:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "CAN",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "ECU",
+      "EGY",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KSA",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PAR",
+      "POR",
+      "QAT",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA",
+      "UZB"
+    ]
+  },
+  {
+    "id": 101,
+    "stage": "SF",
+    "group": null,
+    "home": {
+      "label": "Winner Match 97",
+      "placeholder": "M:97",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 98",
+      "placeholder": "M:98",
+      "potentialTeams": [
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE"
+      ]
+    },
+    "venueId": "att",
+    "kickoffUTC": "2026-07-14T19:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "BRA",
+      "CAN",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "HAI",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PAR",
+      "POR",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA",
+      "UZB"
+    ]
+  },
+  {
+    "id": 102,
+    "stage": "SF",
+    "group": null,
+    "home": {
+      "label": "Winner Match 99",
+      "placeholder": "M:99",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "POR",
+        "COD",
+        "UZB",
+        "COL"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 100",
+      "placeholder": "M:100",
+      "potentialTeams": [
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN"
+      ]
+    },
+    "venueId": "mercedes",
+    "kickoffUTC": "2026-07-15T19:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "BRA",
+      "CAN",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "HAI",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PAR",
+      "POR",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA",
+      "UZB"
+    ]
+  },
+  {
+    "id": 103,
+    "stage": "3RD",
+    "group": null,
+    "home": {
+      "label": "Loser Match 101",
+      "placeholder": "ML:101",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "away": {
+      "label": "Loser Match 102",
+      "placeholder": "ML:102",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI"
+      ]
+    },
+    "venueId": "hardrock",
+    "kickoffUTC": "2026-07-18T21:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "BRA",
+      "CAN",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "HAI",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PAR",
+      "POR",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA",
+      "UZB"
+    ]
+  },
+  {
+    "id": 104,
+    "stage": "F",
+    "group": null,
+    "home": {
+      "label": "Winner Match 101",
+      "placeholder": "M:101",
+      "potentialTeams": [
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI",
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR"
+      ]
+    },
+    "away": {
+      "label": "Winner Match 102",
+      "placeholder": "M:102",
+      "potentialTeams": [
+        "BRA",
+        "MAR",
+        "HAI",
+        "SCO",
+        "NED",
+        "JPN",
+        "TUN",
+        "SWE",
+        "GER",
+        "CUW",
+        "CIV",
+        "ECU",
+        "FRA",
+        "SEN",
+        "NOR",
+        "IRQ",
+        "MEX",
+        "RSA",
+        "KOR",
+        "CZE",
+        "ESP",
+        "CPV",
+        "KSA",
+        "URU",
+        "ENG",
+        "CRO",
+        "GHA",
+        "PAN",
+        "ARG",
+        "ALG",
+        "AUT",
+        "JOR",
+        "POR",
+        "COD",
+        "UZB",
+        "COL",
+        "USA",
+        "PAR",
+        "AUS",
+        "TUR",
+        "BEL",
+        "EGY",
+        "IRN",
+        "NZL",
+        "CAN",
+        "BIH",
+        "QAT",
+        "SUI"
+      ]
+    },
+    "venueId": "metlife",
+    "kickoffUTC": "2026-07-19T19:00:00Z",
+    "potentialTeams": [
+      "ALG",
+      "ARG",
+      "AUS",
+      "AUT",
+      "BEL",
+      "BIH",
+      "BRA",
+      "CAN",
+      "CIV",
+      "COD",
+      "COL",
+      "CPV",
+      "CRO",
+      "CUW",
+      "CZE",
+      "ECU",
+      "EGY",
+      "ENG",
+      "ESP",
+      "FRA",
+      "GER",
+      "GHA",
+      "HAI",
+      "IRN",
+      "IRQ",
+      "JOR",
+      "JPN",
+      "KOR",
+      "KSA",
+      "MAR",
+      "MEX",
+      "NED",
+      "NOR",
+      "NZL",
+      "PAN",
+      "PAR",
+      "POR",
+      "QAT",
+      "RSA",
+      "SCO",
+      "SEN",
+      "SUI",
+      "SWE",
+      "TUN",
+      "TUR",
+      "URU",
+      "USA",
+      "UZB"
+    ]
+  }
+]

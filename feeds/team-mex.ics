@@ -1,0 +1,306 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//worldcup-2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:FIFA World Cup 2026 — Mexico
+X-WR-CALNAME:FIFA World Cup 2026 — Mexico
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Mexico_City
+BEGIN:STANDARD
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:20221030T020000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:wc2026-match-1@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Mexico_City:20260611T130000
+DTEND;TZID=America/Mexico_City:20260611T150000
+SUMMARY:WC26 #1 — Mexico vs South Africa (Group A)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Match 1 — Group A\\n🇲🇽 Mexico vs 🇿🇦 South Africa\\nVenue:
+  Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off: local tim
+ e at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-28@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Mexico_City:20260618T190000
+DTEND;TZID=America/Mexico_City:20260618T210000
+SUMMARY:WC26 #28 — Mexico vs South Korea (Group A)
+LOCATION:Estadio Akron\, Zapopan\, Mexico
+DESCRIPTION:Match 28 — Group A\\n🇲🇽 Mexico vs 🇰🇷 South Korea\\nVenue:
+  Estadio Akron (Guadalajara Stadium)\, Zapopan\\nKick-off: local time at 
+ venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-53@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Mexico_City:20260624T190000
+DTEND;TZID=America/Mexico_City:20260624T210000
+SUMMARY:WC26 #53 — Mexico vs Czechia (Group A)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Match 53 — Group A\\n🇲🇽 Mexico vs 🇨🇿 Czechia\\nVenue: Est
+ adio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off: local time at
+  venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-73@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260628T120000
+DTEND;TZID=America/Los_Angeles:20260628T140000
+SUMMARY:WC26 #73 — Runner-up Group A vs Runner-up Group B (Round of 32)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 73 — Round of 32\\nRunner-up Group A vs Runner-up Group
+  B\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-of
+ f: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-74@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260629T163000
+DTEND;TZID=America/New_York:20260629T183000
+SUMMARY:WC26 #74 — Winner Group E vs 3rd Group A/B/C/D/F (Round of 32)
+LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
+DESCRIPTION:Match 74 — Round of 32\\nWinner Group E vs 3rd Group A/B/C/D/
+ F\\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off
+ : local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-79@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Mexico_City:20260630T190000
+DTEND;TZID=America/Mexico_City:20260630T210000
+SUMMARY:WC26 #79 — Winner Group A vs 3rd Group C/E/F/H/I (Round of 32)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Match 79 — Round of 32\\nWinner Group A vs 3rd Group C/E/F/H/
+ I\\nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off:
+  local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-82@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260701T130000
+DTEND;TZID=America/Los_Angeles:20260701T150000
+SUMMARY:WC26 #82 — Winner Group G vs 3rd Group A/E/H/I/J (Round of 32)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 82 — Round of 32\\nWinner Group G vs 3rd Group A/E/H/I/
+ J\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local
+  time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-89@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260704T170000
+DTEND;TZID=America/New_York:20260704T190000
+SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+DESCRIPTION:Match 89 — Round of 16\\nWinner Match 74 vs Winner Match 77\\
+ nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Philadelphia\, P
+ A\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-90@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Chicago:20260704T120000
+DTEND;TZID=America/Chicago:20260704T140000
+SUMMARY:WC26 #90 — Winner Match 73 vs Winner Match 75 (Round of 16)
+LOCATION:NRG Stadium\, Houston\, TX\, USA
+DESCRIPTION:Match 90 — Round of 16\\nWinner Match 73 vs Winner Match 75\\
+ nVenue: NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local ti
+ me at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-92@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Mexico_City:20260705T180000
+DTEND;TZID=America/Mexico_City:20260705T200000
+SUMMARY:WC26 #92 — Winner Match 79 vs Winner Match 80 (Round of 16)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Match 92 — Round of 16\\nWinner Match 79 vs Winner Match 80\\
+ nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off: lo
+ cal time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-94@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260706T170000
+DTEND;TZID=America/Los_Angeles:20260706T190000
+SUMMARY:WC26 #94 — Winner Match 81 vs Winner Match 82 (Round of 16)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 94 — Round of 16\\nWinner Match 81 vs Winner Match 82\\
+ nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local ti
+ me at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-97@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260709T160000
+DTEND;TZID=America/New_York:20260709T180000
+SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
+LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
+DESCRIPTION:Match 97 — Quarter-final\\nWinner Match 89 vs Winner Match 90
+ \\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off:
+  local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Quarter-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-98@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260710T120000
+DTEND;TZID=America/Los_Angeles:20260710T140000
+SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 98 — Quarter-final\\nWinner Match 93 vs Winner Match 94
+ \\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off:
+  local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Quarter-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-99@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260711T170000
+DTEND;TZID=America/New_York:20260711T190000
+SUMMARY:WC26 #99 — Winner Match 91 vs Winner Match 92 (Quarter-final)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+DESCRIPTION:Match 99 — Quarter-final\\nWinner Match 91 vs Winner Match 92
+ \\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-o
+ ff: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Quarter-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-101@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Chicago:20260714T140000
+DTEND;TZID=America/Chicago:20260714T160000
+SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+DESCRIPTION:Match 101 — Semi-final\\nWinner Match 97 vs Winner Match 98\\
+ nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local 
+ time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Semi-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-102@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260715T150000
+DTEND;TZID=America/New_York:20260715T170000
+SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 102 — Semi-final\\nWinner Match 99 vs Winner Match 100\
+ \nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-of
+ f: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Semi-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-103@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260718T170000
+DTEND;TZID=America/New_York:20260718T190000
+SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
+ off)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+DESCRIPTION:Match 103 — Third-place play-off\\nLoser Match 101 vs Loser M
+ atch 102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\
+ \nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Third-place play-off
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-104@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260719T150000
+DTEND;TZID=America/New_York:20260719T170000
+SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+DESCRIPTION:Match 104 — Final\\nWinner Match 101 vs Winner Match 102\\nVe
+ nue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ
+ \\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Final
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

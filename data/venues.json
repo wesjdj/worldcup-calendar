@@ -1,0 +1,18 @@
+{
+  "azteca":       { "name": "Estadio Azteca",         "fifaName": "Mexico City Stadium",         "city": "Mexico City",        "country": "Mexico",  "tz": "America/Mexico_City" },
+  "akron":        { "name": "Estadio Akron",          "fifaName": "Guadalajara Stadium",         "city": "Zapopan",            "country": "Mexico",  "tz": "America/Mexico_City" },
+  "bbva":         { "name": "Estadio BBVA",           "fifaName": "Monterrey Stadium",           "city": "Guadalupe",          "country": "Mexico",  "tz": "America/Monterrey" },
+  "bmofield":     { "name": "BMO Field",              "fifaName": "Toronto Stadium",             "city": "Toronto",            "country": "Canada",  "tz": "America/Toronto" },
+  "bcplace":      { "name": "BC Place",               "fifaName": "Vancouver Stadium",           "city": "Vancouver",          "country": "Canada",  "tz": "America/Vancouver" },
+  "sofi":         { "name": "SoFi Stadium",           "fifaName": "Los Angeles Stadium",         "city": "Inglewood, CA",      "country": "USA",     "tz": "America/Los_Angeles" },
+  "levis":        { "name": "Levi's Stadium",         "fifaName": "San Francisco Bay Stadium",   "city": "Santa Clara, CA",    "country": "USA",     "tz": "America/Los_Angeles" },
+  "lumen":        { "name": "Lumen Field",            "fifaName": "Seattle Stadium",             "city": "Seattle, WA",        "country": "USA",     "tz": "America/Los_Angeles" },
+  "gillette":     { "name": "Gillette Stadium",       "fifaName": "Boston Stadium",              "city": "Foxborough, MA",     "country": "USA",     "tz": "America/New_York" },
+  "lincoln":      { "name": "Lincoln Financial Field","fifaName": "Philadelphia Stadium",        "city": "Philadelphia, PA",   "country": "USA",     "tz": "America/New_York" },
+  "metlife":      { "name": "MetLife Stadium",        "fifaName": "New York New Jersey Stadium", "city": "East Rutherford, NJ","country": "USA",     "tz": "America/New_York" },
+  "mercedes":     { "name": "Mercedes-Benz Stadium",  "fifaName": "Atlanta Stadium",             "city": "Atlanta, GA",        "country": "USA",     "tz": "America/New_York" },
+  "hardrock":     { "name": "Hard Rock Stadium",      "fifaName": "Miami Stadium",               "city": "Miami Gardens, FL",  "country": "USA",     "tz": "America/New_York" },
+  "nrg":          { "name": "NRG Stadium",            "fifaName": "Houston Stadium",             "city": "Houston, TX",        "country": "USA",     "tz": "America/Chicago" },
+  "att":          { "name": "AT&T Stadium",           "fifaName": "Dallas Stadium",              "city": "Arlington, TX",      "country": "USA",     "tz": "America/Chicago" },
+  "arrowhead":    { "name": "Arrowhead Stadium",      "fifaName": "Kansas City Stadium",         "city": "Kansas City, MO",    "country": "USA",     "tz": "America/Chicago" }
+}
