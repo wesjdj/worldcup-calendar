@@ -1,0 +1,314 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//worldcup-calendar//worldcup-2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:FIFA World Cup 2026 — New Zealand
+X-WR-CALNAME:FIFA World Cup 2026 — New Zealand
+X-WR-TIMEZONE:UTC
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Vancouver
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:wc2026-match-16@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260615T180000
+DTEND;TZID=America/Los_Angeles:20260615T200000
+SUMMARY:WC26 #16 — Iran vs New Zealand (Group G)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 16 — Group G\\n🇮🇷 Iran vs 🇳🇿 New Zealand\\nVenue: S
+ oFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: local time
+  at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group G
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-40@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Vancouver:20260621T180000
+DTEND;TZID=America/Vancouver:20260621T200000
+SUMMARY:WC26 #40 — New Zealand vs Egypt (Group G)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 40 — Group G\\n🇳🇿 New Zealand vs 🇪🇬 Egypt\\nVenue: 
+ BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time at venue 
+ is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group G
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-65@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Vancouver:20260626T200000
+DTEND;TZID=America/Vancouver:20260626T220000
+SUMMARY:WC26 #65 — New Zealand vs Belgium (Group G)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 65 — Group G\\n🇳🇿 New Zealand vs 🇧🇪 Belgium\\nVenue
+ : BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time at venu
+ e is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group G
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-77@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260630T170000
+DTEND;TZID=America/New_York:20260630T190000
+SUMMARY:WC26 #77 — Winner Group I vs 3rd Group C/D/F/G/H (Round of 32)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+DESCRIPTION:Match 77 — Round of 32\\nWinner Group I vs 3rd Group C/D/F/G/
+ H\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherfor
+ d\, NJ\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-82@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260701T130000
+DTEND;TZID=America/Los_Angeles:20260701T150000
+SUMMARY:WC26 #82 — Winner Group G vs 3rd Group A/E/H/I/J (Round of 32)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 82 — Round of 32\\nWinner Group G vs 3rd Group A/E/H/I/
+ J\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local
+  time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-85@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Vancouver:20260702T200000
+DTEND;TZID=America/Vancouver:20260702T220000
+SUMMARY:WC26 #85 — Winner Group B vs 3rd Group E/F/G/I/J (Round of 32)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 85 — Round of 32\\nWinner Group B vs 3rd Group E/F/G/I/
+ J\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local tim
+ e at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-88@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Chicago:20260703T130000
+DTEND;TZID=America/Chicago:20260703T150000
+SUMMARY:WC26 #88 — Runner-up Group D vs Runner-up Group G (Round of 32)
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+DESCRIPTION:Match 88 — Round of 32\\nRunner-up Group D vs Runner-up Group
+  G\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: lo
+ cal time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-89@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260704T170000
+DTEND;TZID=America/New_York:20260704T190000
+SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+DESCRIPTION:Match 89 — Round of 16\\nWinner Match 74 vs Winner Match 77\\
+ nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Philadelphia\, P
+ A\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-94@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260706T170000
+DTEND;TZID=America/Los_Angeles:20260706T190000
+SUMMARY:WC26 #94 — Winner Match 81 vs Winner Match 82 (Round of 16)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 94 — Round of 16\\nWinner Match 81 vs Winner Match 82\\
+ nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local ti
+ me at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-95@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260707T120000
+DTEND;TZID=America/New_York:20260707T140000
+SUMMARY:WC26 #95 — Winner Match 86 vs Winner Match 88 (Round of 16)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 95 — Round of 16\\nWinner Match 86 vs Winner Match 88\\
+ nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off
+ : local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-96@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Vancouver:20260707T130000
+DTEND;TZID=America/Vancouver:20260707T150000
+SUMMARY:WC26 #96 — Winner Match 85 vs Winner Match 87 (Round of 16)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 96 — Round of 16\\nWinner Match 85 vs Winner Match 87\\
+ nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time a
+ t venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 16
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-97@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260709T160000
+DTEND;TZID=America/New_York:20260709T180000
+SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
+LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
+DESCRIPTION:Match 97 — Quarter-final\\nWinner Match 89 vs Winner Match 90
+ \\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off:
+  local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Quarter-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-98@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Los_Angeles:20260710T120000
+DTEND;TZID=America/Los_Angeles:20260710T140000
+SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 98 — Quarter-final\\nWinner Match 93 vs Winner Match 94
+ \\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off:
+  local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Quarter-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-100@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Chicago:20260711T200000
+DTEND;TZID=America/Chicago:20260711T220000
+SUMMARY:WC26 #100 — Winner Match 95 vs Winner Match 96 (Quarter-final)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
+DESCRIPTION:Match 100 — Quarter-final\\nWinner Match 95 vs Winner Match 9
+ 6\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nK
+ ick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Quarter-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-101@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/Chicago:20260714T140000
+DTEND;TZID=America/Chicago:20260714T160000
+SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+DESCRIPTION:Match 101 — Semi-final\\nWinner Match 97 vs Winner Match 98\\
+ nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local 
+ time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Semi-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-102@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260715T150000
+DTEND;TZID=America/New_York:20260715T170000
+SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 102 — Semi-final\\nWinner Match 99 vs Winner Match 100\
+ \nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-of
+ f: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Semi-final
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-103@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260718T170000
+DTEND;TZID=America/New_York:20260718T190000
+SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
+ off)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+DESCRIPTION:Match 103 — Third-place play-off\\nLoser Match 101 vs Loser M
+ atch 102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\
+ \nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Third-place play-off
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-104@worldcup-calendar
+DTSTAMP:20260514T210032Z
+DTSTART;TZID=America/New_York:20260719T150000
+DTEND;TZID=America/New_York:20260719T170000
+SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+DESCRIPTION:Match 104 — Final\\nWinner Match 101 vs Winner Match 102\\nVe
+ nue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ
+ \\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Final
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

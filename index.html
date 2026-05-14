@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>World Cup 2026 Calendar — Subscribe in one tap</title>
+<meta name="description" content="Add FIFA World Cup 2026 fixtures to Outlook, iPhone, or Google Calendar. Subscribe once and the schedule updates as knockout matchups are confirmed." />
+<link rel="stylesheet" href="assets/styles.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='52' font-size='52'%3E⚽%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+<header class="hero">
+  <div class="hero__inner">
+    <h1>⚽ World Cup 2026 Calendar</h1>
+    <p class="hero__sub">Subscribe once. Every fixture appears in your calendar at the right local time, wherever you are. Knockout placeholders update automatically as group results roll in.</p>
+  </div>
+</header>
+
+<main class="container">
+  <section class="filters card" aria-label="Filters">
+    <div class="filters__row">
+      <label class="filter-group">
+        <span class="filter-group__label">Filter by team</span>
+        <div id="team-filter" class="chip-grid" role="group" aria-label="Teams"></div>
+      </label>
+    </div>
+    <div class="filters__row filters__row--inline">
+      <label class="filter-group">
+        <span class="filter-group__label">Group</span>
+        <select id="group-filter">
+          <option value="">All groups</option>
+        </select>
+      </label>
+      <label class="filter-group">
+        <span class="filter-group__label">Stage</span>
+        <select id="stage-filter">
+          <option value="">All stages</option>
+          <option value="GS">Group stage</option>
+          <option value="R32">Round of 32</option>
+          <option value="R16">Round of 16</option>
+          <option value="QF">Quarter-finals</option>
+          <option value="SF">Semi-finals</option>
+          <option value="3RD">Third-place</option>
+          <option value="F">Final</option>
+        </select>
+      </label>
+      <label class="filter-group">
+        <span class="filter-group__label">Host country</span>
+        <select id="country-filter">
+          <option value="">All countries</option>
+          <option value="USA">USA</option>
+          <option value="Canada">Canada</option>
+          <option value="Mexico">Mexico</option>
+        </select>
+      </label>
+      <button id="clear-filters" class="btn btn--ghost" type="button">Clear filters</button>
+    </div>
+    <p class="tz-note">Showing kick-off times in <strong id="viewer-tz"></strong>. Hover any time to see the venue's local kick-off.</p>
+  </section>
+
+  <section class="subscribe card" aria-label="Subscribe">
+    <h2 id="subscribe-title">Add to your calendar</h2>
+    <p id="subscribe-summary" class="subscribe__summary"></p>
+    <div class="subscribe__buttons">
+      <a id="btn-apple"  class="btn btn--primary" href="#" target="_blank" rel="noopener"><span aria-hidden="true">🍎</span> Apple / iPhone</a>
+      <a id="btn-google" class="btn btn--primary" href="#" target="_blank" rel="noopener"><span aria-hidden="true">📅</span> Google Calendar</a>
+      <a id="btn-outlook" class="btn btn--primary" href="#" target="_blank" rel="noopener"><span aria-hidden="true">🟦</span> Outlook.com</a>
+      <a id="btn-download" class="btn" href="#" download><span aria-hidden="true">⬇️</span> Download .ics</a>
+      <button id="btn-copy" class="btn" type="button"><span aria-hidden="true">📋</span> Copy feed URL</button>
+    </div>
+    <details class="subscribe__details">
+      <summary>How does subscribing work?</summary>
+      <ul>
+        <li><strong>Subscribed feeds update automatically.</strong> Knockout fixtures currently say "Winner Group A" etc.; when results come in, the events update in your calendar — no re-import needed.</li>
+        <li><strong>iPhone / Apple Calendar:</strong> tap the Apple button. Safari hands the feed to the Calendar app and asks to confirm.</li>
+        <li><strong>Outlook desktop:</strong> the Apple button uses <code>webcal://</code>, which Outlook for Windows/Mac picks up directly.</li>
+        <li><strong>Google Calendar:</strong> opens the "add by URL" dialog — sign in once, then the calendar appears under "Other calendars".</li>
+        <li><strong>One-off import:</strong> use the .ics download. Events won't auto-update.</li>
+      </ul>
+    </details>
+  </section>
+
+  <section class="results" aria-live="polite">
+    <h2 id="results-heading"></h2>
+    <div id="fixtures"></div>
+  </section>
+</main>
+
+<footer class="footer">
+  <p>Schedule sourced from FIFA's official 2026 World Cup fixture release. <a href="https://github.com/guygregory/worldcup-calendar">View source on GitHub</a>. Not affiliated with FIFA.</p>
+</footer>
+
+<template id="match-tpl">
+  <article class="match">
+    <div class="match__time">
+      <time class="match__time-local"></time>
+      <small class="match__time-venue"></small>
+    </div>
+    <div class="match__teams">
+      <div class="match__teams-row">
+        <span class="match__home"></span>
+        <span class="match__vs">vs</span>
+        <span class="match__away"></span>
+      </div>
+      <small class="match__meta"></small>
+    </div>
+    <div class="match__actions">
+      <button class="btn btn--small match__add" type="button">Add this match</button>
+    </div>
+  </article>
+</template>
+
+<script src="assets/app.js" type="module"></script>
+</body>
+</html>
