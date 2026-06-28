@@ -255,6 +255,9 @@ if (fs.existsSync(overridesPath)) {
     if (ov.homePens != null) f.homePens = ov.homePens;
     if (ov.awayPens != null) f.awayPens = ov.awayPens;
     if (ov.status) f.status = ov.status;
+    if (ov.referee) f.referee = ov.referee;
+    if (ov.attendance != null) f.attendance = ov.attendance;
+    if (ov.scorers) f.scorers = ov.scorers;
     applied += 1;
   }
   if (applied) console.log(`Applied ${applied} live override(s).`);

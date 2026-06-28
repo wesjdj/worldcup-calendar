@@ -79,46 +79,51 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-2@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Mexico_City:20260611T200000
 DTEND;TZID=America/Mexico_City:20260611T220000
 SUMMARY:WC26 #2 — South Korea vs Czechia 2–1 (Group A)
 LOCATION:Estadio Akron\, Zapopan\, Mexico
 DESCRIPTION:Match 2 — Group A\\n🇰🇷 South Korea vs 🇨🇿 Czechia\\nScore:
-  2–1 (full-time)\\nVenue: Estadio Akron (Guadalajara Stadium)\, Zapopan\\
- nKick-off: local time at venue is built into this calendar entry.
+  2–1 (full-time)\\n⚽ South Korea: HWANG Inbeom 67'\, OH Hyeongyu 80'\\n⚽ 
+ Czechia: Ladislav KREJCI 59'\\nVenue: Estadio Akron (Guadalajara Stadium)
+ \, Zapopan\\nReferee: Amin MOHAMED\\nAttendance: 44\,985\\nKick-off: loca
+ l time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-28@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Mexico_City:20260618T190000
 DTEND;TZID=America/Mexico_City:20260618T210000
 SUMMARY:WC26 #28 — Mexico vs South Korea 1–0 (Group A)
 LOCATION:Estadio Akron\, Zapopan\, Mexico
 DESCRIPTION:Match 28 — Group A\\n🇲🇽 Mexico vs 🇰🇷 South Korea\\nScore:
-  1–0 (full-time)\\nVenue: Estadio Akron (Guadalajara Stadium)\, Zapopan\\
- nKick-off: local time at venue is built into this calendar entry.
+  1–0 (full-time)\\n⚽ Mexico: Luis ROMO 50'\\nVenue: Estadio Akron (Guadal
+ ajara Stadium)\, Zapopan\\nReferee: Gustavo TEJERA\\nAttendance: 45\,522\
+ \nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-54@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Monterrey:20260624T190000
 DTEND;TZID=America/Monterrey:20260624T210000
 SUMMARY:WC26 #54 — South Korea vs South Africa 1–0 (Group A)
 LOCATION:Estadio BBVA\, Guadalupe\, Mexico
 DESCRIPTION:Match 54 — Group A\\n🇰🇷 South Korea vs 🇿🇦 South Africa\\n
- Score: 1–0 (full-time)\\nVenue: Estadio BBVA (Monterrey Stadium)\, Guadal
- upe\\nKick-off: local time at venue is built into this calendar entry.
+ Score: 1–0 (full-time)\\n⚽ South Korea: Thapelo MASEKO 63'\\nVenue: Estad
+ io BBVA (Monterrey Stadium)\, Guadalupe\\nReferee: Facundo TELLO\\nAttend
+ ance: 51\,243\\nKick-off: local time at venue is built into this calendar
+  entry.
 CATEGORIES:FIFA World Cup 2026\,Group A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
@@ -131,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-90@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260704T120000
 DTEND;TZID=America/Chicago:20260704T140000
 SUMMARY:WC26 #90 — Winner Match 73 vs Winner Match 75 (Round of 16)
@@ -144,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Mexico_City:20260705T180000
 DTEND;TZID=America/Mexico_City:20260705T200000
 SUMMARY:WC26 #92 — Winner Match 79 vs Winner Match 80 (Round of 16)
@@ -157,7 +162,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260706T170000
 DTEND;TZID=America/Los_Angeles:20260706T190000
 SUMMARY:WC26 #94 — Winner Match 81 vs Winner Match 82 (Round of 16)
@@ -170,7 +175,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
@@ -183,7 +188,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260710T120000
 DTEND;TZID=America/Los_Angeles:20260710T140000
 SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
@@ -196,7 +201,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260711T170000
 DTEND;TZID=America/New_York:20260711T190000
 SUMMARY:WC26 #99 — Winner Match 91 vs Winner Match 92 (Quarter-final)
@@ -209,7 +214,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -222,7 +227,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -235,7 +240,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -249,7 +254,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

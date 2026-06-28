@@ -53,48 +53,52 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-7@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260613T180000
 DTEND;TZID=America/New_York:20260613T200000
 SUMMARY:WC26 #7 — Haiti vs Scotland 1–1 (Group C)
 LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
 DESCRIPTION:Match 7 — Group C\\n🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland\\nS
- core: 1–1 (full-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Foxbor
- ough\, MA\\nKick-off: local time at venue is built into this calendar ent
- ry.
+ core: 1–1 (full-time)\\n⚽ Haiti: VINICIUS JUNIOR 32'\\n⚽ Scotland: Ismael
+  SAIBARI 21'\\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA
+ \\nReferee: Slavko VINCIC\\nAttendance: 80\,663\\nKick-off: local time at
+  venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-31@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260619T230000
 DTEND;TZID=America/New_York:20260620T010000
 SUMMARY:WC26 #31 — Brazil vs Haiti 0–1 (Group C)
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
 DESCRIPTION:Match 31 — Group C\\n🇧🇷 Brazil vs 🇭🇹 Haiti\\nScore: 0–1 (
- full-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Phil
- adelphia\, PA\\nKick-off: local time at venue is built into this calendar
-  entry.
+ full-time)\\n⚽ Haiti: Matias GALARZA 2'\\nVenue: Lincoln Financial Field 
+ (Philadelphia Stadium)\, Philadelphia\, PA\\nReferee: Ivan BARTON\\nAtten
+ dance: 68\,827\\nKick-off: local time at venue is built into this calenda
+ r entry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-52@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260624T150000
 DTEND;TZID=America/New_York:20260624T170000
 SUMMARY:WC26 #52 — Morocco vs Haiti 3–1 (Group C)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
 DESCRIPTION:Match 52 — Group C\\n🇲🇦 Morocco vs 🇭🇹 Haiti\\nScore: 3–1 
- (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, 
- GA\\nKick-off: local time at venue is built into this calendar entry.
+ (full-time)\\n⚽ Morocco: Kerim ALAJBEGOVIC 29'\, Ermin MAHMIC 80'\\n⚽ Hai
+ ti: HASSAN ALHAYDOS 42'\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\
+ , Atlanta\, GA\\nReferee: Jesus VALENZUELA\\nAttendance: 66\,925\\nKick-o
+ ff: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
@@ -107,7 +111,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-90@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260704T120000
 DTEND;TZID=America/Chicago:20260704T140000
 SUMMARY:WC26 #90 — Winner Match 73 vs Winner Match 75 (Round of 16)
@@ -120,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-91@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260705T160000
 DTEND;TZID=America/New_York:20260705T180000
 SUMMARY:WC26 #91 — Winner Match 76 vs Winner Match 78 (Round of 16)
@@ -133,7 +137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Mexico_City:20260705T180000
 DTEND;TZID=America/Mexico_City:20260705T200000
 SUMMARY:WC26 #92 — Winner Match 79 vs Winner Match 80 (Round of 16)
@@ -146,7 +150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
@@ -159,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260711T170000
 DTEND;TZID=America/New_York:20260711T190000
 SUMMARY:WC26 #99 — Winner Match 91 vs Winner Match 92 (Quarter-final)
@@ -172,7 +176,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -185,7 +189,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -198,7 +202,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -212,7 +216,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

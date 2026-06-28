@@ -104,88 +104,98 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-22@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260617T150000
 DTEND;TZID=America/Chicago:20260617T170000
 SUMMARY:WC26 #22 — England vs Croatia 4–2 (Group L)
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
 DESCRIPTION:Match 22 — Group L\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia\\
- nScore: 4–2 (full-time)\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlingto
- n\, TX\\nKick-off: local time at venue is built into this calendar entry.
+ nScore: 4–2 (full-time)\\n⚽ England: Harry KANE 42'\, Jude BELLINGHAM 47'
+ \, Marcus RASHFORD 85'\\n⚽ Croatia: Martin BATURINA 36'\, Petar MUSA 45'+
+ 5'\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nReferee: Cle
+ ment TURPIN\\nAttendance: 70\,389\\nKick-off: local time at venue is buil
+ t into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-23@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Toronto:20260617T130000
 DTEND;TZID=America/Toronto:20260617T150000
 SUMMARY:WC26 #23 — Ghana vs Panama 1–1 (Group L)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Match 23 — Group L\\n🇬🇭 Ghana vs 🇵🇦 Panama\\nScore: 1–1 (
- full-time)\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: loc
- al time at venue is built into this calendar entry.
+ full-time)\\n⚽ Ghana: JOAO NEVES 6'\\n⚽ Panama: Yoane WISSA 45'+5'\\nVenu
+ e: BMO Field (Toronto Stadium)\, Toronto\\nReferee: Abdulrahman ALJASSIM\
+ \nAttendance: 68\,777\\nKick-off: local time at venue is built into this 
+ calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-46@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260623T190000
 DTEND;TZID=America/New_York:20260623T210000
 SUMMARY:WC26 #46 — England vs Ghana 0–1 (Group L)
 LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
 DESCRIPTION:Match 46 — Group L\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana\\nS
- core: 0–1 (full-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Foxbor
- ough\, MA\\nKick-off: local time at venue is built into this calendar ent
- ry.
+ core: 0–1 (full-time)\\n⚽ Ghana: Ante BUDIMIR 54'\\nVenue: Gillette Stadi
+ um (Boston Stadium)\, Foxborough\, MA\\nReferee: Pierre ATCHO\\nAttendanc
+ e: 43\,036\\nKick-off: local time at venue is built into this calendar en
+ try.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-47@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Toronto:20260623T130000
 DTEND;TZID=America/Toronto:20260623T150000
 SUMMARY:WC26 #47 — Panama vs Croatia 5–0 (Group L)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Match 47 — Group L\\n🇵🇦 Panama vs 🇭🇷 Croatia\\nScore: 5–0
-  (full-time)\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: l
- ocal time at venue is built into this calendar entry.
+  (full-time)\\n⚽ Panama: CRISTIANO RONALDO 6'\, NUNO MENDES 17'\, CRISTIA
+ NO RONALDO 39'\, RAFAEL LEAO 87'\\nVenue: BMO Field (Toronto Stadium)\, T
+ oronto\\nReferee: Jalal JAYED\\nAttendance: 68\,777\\nKick-off: local tim
+ e at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-67@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260627T170000
 DTEND;TZID=America/New_York:20260627T190000
 SUMMARY:WC26 #67 — Panama vs England 0–2 (Group L)
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
 DESCRIPTION:Match 67 — Group L\\n🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\\n
- Score: 0–2 (full-time)\\nVenue: MetLife Stadium (New York New Jersey Stad
- ium)\, East Rutherford\, NJ\\nKick-off: local time at venue is built into
-  this calendar entry.
+ Score: 0–2 (full-time)\\n⚽ England: Jude BELLINGHAM 62'\, Harry KANE 67'\
+ \nVenue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherford\
+ , NJ\\nReferee: Abdulrahman ALJASSIM\\nAttendance: 80\,663\\nKick-off: lo
+ cal time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-68@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260627T170000
 DTEND;TZID=America/New_York:20260627T190000
 SUMMARY:WC26 #68 — Croatia vs Ghana 2–1 (Group L)
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
 DESCRIPTION:Match 68 — Group L\\n🇭🇷 Croatia vs 🇬🇭 Ghana\\nScore: 2–1 
- (full-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Phi
- ladelphia\, PA\\nKick-off: local time at venue is built into this calenda
- r entry.
+ (full-time)\\n⚽ Croatia: Petar SUCIC 31'\, Nikola VLASIC 83'\\n⚽ Ghana: D
+ errick LUCKASSEN 73'\\nVenue: Lincoln Financial Field (Philadelphia Stadi
+ um)\, Philadelphia\, PA\\nReferee: Drew FISCHER\\nAttendance: 68\,324\\nK
+ ick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-80@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260701T120000
 DTEND;TZID=America/New_York:20260701T140000
 SUMMARY:WC26 #80 — England vs DR Congo (Round of 32)
@@ -198,7 +208,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-83@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Toronto:20260702T190000
 DTEND;TZID=America/Toronto:20260702T210000
 SUMMARY:WC26 #83 — Portugal vs Croatia (Round of 32)
@@ -211,7 +221,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-87@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260703T203000
 DTEND;TZID=America/Chicago:20260703T223000
 SUMMARY:WC26 #87 — Colombia vs Ghana (Round of 32)
@@ -224,7 +234,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Mexico_City:20260705T180000
 DTEND;TZID=America/Mexico_City:20260705T200000
 SUMMARY:WC26 #92 — Winner Match 79 vs Winner Match 80 (Round of 16)
@@ -237,7 +247,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-93@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260706T140000
 DTEND;TZID=America/Chicago:20260706T160000
 SUMMARY:WC26 #93 — Winner Match 83 vs Winner Match 84 (Round of 16)
@@ -250,7 +260,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-96@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Vancouver:20260707T130000
 DTEND;TZID=America/Vancouver:20260707T150000
 SUMMARY:WC26 #96 — Winner Match 85 vs Winner Match 87 (Round of 16)
@@ -263,7 +273,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260710T120000
 DTEND;TZID=America/Los_Angeles:20260710T140000
 SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
@@ -276,7 +286,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260711T170000
 DTEND;TZID=America/New_York:20260711T190000
 SUMMARY:WC26 #99 — Winner Match 91 vs Winner Match 92 (Quarter-final)
@@ -289,7 +299,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
 SUMMARY:WC26 #100 — Winner Match 95 vs Winner Match 96 (Quarter-final)
@@ -302,7 +312,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -315,7 +325,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -328,7 +338,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -342,7 +352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

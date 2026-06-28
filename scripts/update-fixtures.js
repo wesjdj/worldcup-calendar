@@ -84,6 +84,38 @@ const statusLabel = (m) => {
 };
 const hasScore = (m) => [0, 3].includes(m.MatchStatus) && m.HomeTeamScore != null && m.AwayTeamScore != null;
 
+const refereeOf = (m) => {
+  const ref = (m.Officials || []).find((o) => o.OfficialType === 1);
+  return ref ? desc(ref.NameShort || ref.Name) : null;
+};
+
+// Goalscorers come from a per-match timeline endpoint (Type 0 = "Goal!").
+async function fetchScorers(m) {
+  const url = `https://api.fifa.com/api/v3/timelines/${COMP}/${m.IdSeason}/${m.IdStage}/${m.IdMatch}?language=en`;
+  try {
+    const res = await fetch(url, { headers: { Accept: 'application/json' } });
+    if (!res.ok) return null;
+    const json = await res.json();
+    const out = [];
+    for (const e of json.Event || []) {
+      if (e.Type !== 0) continue; // 0 = Goal!
+      const text = desc(e.EventDescription) || '';
+      const name = (text.split(' (')[0] || '').trim();
+      if (!name) continue;
+      out.push({
+        side: e.IdTeam === m.Home?.IdTeam ? 'home' : 'away',
+        name,
+        minute: String(e.MatchMinute || '').trim(),
+        own: /own goal/i.test(text),
+      });
+    }
+    return out;
+  } catch (e) {
+    console.warn(`Timeline fetch failed for match ${m.MatchNumber}:`, e.message);
+    return null;
+  }
+}
+
 const byId = {};
 for (const f of fixtures) byId[f.id] = f;
 
@@ -122,6 +154,13 @@ function buildOverride(m, base) {
   }
   ov.status = statusLabel(m);
 
+  // Match-day extras (only meaningful once a match is live/finished).
+  if ([0, 3].includes(m.MatchStatus)) {
+    const ref = refereeOf(m);
+    if (ref) ov.referee = ref;
+    if (m.Attendance != null) ov.attendance = Number(m.Attendance);
+  }
+
   return ov;
 }
 
@@ -151,16 +190,30 @@ function buildOverride(m, base) {
   const merged = { ...existing };
   let matched = 0;
   let resolved = 0;
+  let scored = 0;
 
+  const FINAL = new Set(['FT', 'AET', 'PEN']);
   for (const m of results) {
     const id = Number(m.MatchNumber);
     const base = byId[id];
     if (!base) continue;
     const ov = buildOverride(m, base);
+
+    // Goalscorers: fetch once a match has goals; skip already-final cached ones
+    // (so finished matches aren't re-fetched every run, only live ones).
+    const goals = hasScore(m) && (m.HomeTeamScore > 0 || m.AwayTeamScore > 0);
+    const cached = existing[id];
+    const cachedFinal = cached && FINAL.has(cached.status) && Array.isArray(cached.scorers);
+    if (goals && !cachedFinal) {
+      const scorers = await fetchScorers(m);
+      if (scorers) ov.scorers = scorers;
+    }
+
     if (!Object.keys(ov).length) continue;
     merged[id] = { ...(merged[id] || {}), ...ov };
     matched += 1;
     if (ov.home || ov.away) resolved += 1;
+    if (ov.scorers && ov.scorers.length) scored += 1;
   }
 
   // Stable, id-sorted output for clean diffs.
@@ -171,6 +224,6 @@ function buildOverride(m, base) {
   const prev = fs.existsSync(overridesPath) ? fs.readFileSync(overridesPath, 'utf8') : '';
   fs.writeFileSync(overridesPath, next);
 
-  console.log(`Updated ${matched} fixtures (${resolved} with resolved knockout teams).`);
+  console.log(`Updated ${matched} fixtures (${resolved} with resolved knockout teams, ${scored} with goalscorers).`);
   console.log(next === prev ? 'No changes to overrides.json.' : 'overrides.json updated.');
 })();

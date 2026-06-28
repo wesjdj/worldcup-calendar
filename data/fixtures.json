@@ -14,6 +14,22 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Wilton SAMPAIO",
+    "attendance": 80824,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Julian QUINONES",
+        "minute": "9'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Raul JIMENEZ",
+        "minute": "67'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "MEX",
       "RSA"
@@ -34,6 +50,28 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Amin MOHAMED",
+    "attendance": 44985,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Ladislav KREJCI",
+        "minute": "59'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "HWANG Inbeom",
+        "minute": "67'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "OH Hyeongyu",
+        "minute": "80'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CZE",
       "KOR"
@@ -54,6 +92,22 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Facundo TELLO",
+    "attendance": 43002,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Jovo LUKIC",
+        "minute": "21'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Cyle LARIN",
+        "minute": "78'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BIH",
       "CAN"
@@ -74,6 +128,34 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Danny MAKKELIE",
+    "attendance": 70492,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Folarin BALOGUN",
+        "minute": "31'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Folarin BALOGUN",
+        "minute": "45'+5'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "MAURICIO",
+        "minute": "73'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Giovanni REYNA",
+        "minute": "90'+8'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "PAR",
       "USA"
@@ -94,6 +176,16 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Mustapha GHORBAL",
+    "attendance": 64146,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "John McGINN",
+        "minute": "28'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "QAT",
       "SUI"
@@ -114,6 +206,22 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Jesus VALENZUELA",
+    "attendance": 52497,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Nestory IRANKUNDA",
+        "minute": "27'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Connor METCALFE",
+        "minute": "75'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BRA",
       "MAR"
@@ -134,6 +242,22 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Slavko VINCIC",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Ismael SAIBARI",
+        "minute": "21'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "VINICIUS JUNIOR",
+        "minute": "32'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "HAI",
       "SCO"
@@ -154,6 +278,9 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Said MARTINEZ",
+    "attendance": 67966,
+    "scorers": [],
     "potentialTeams": [
       "AUS",
       "TUR"
@@ -174,6 +301,16 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Francois LETEXIER",
+    "attendance": 68274,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Amad DIALLO",
+        "minute": "90'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CUW",
       "GER"
@@ -194,6 +331,52 @@
     "homeScore": 7,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Jalal JAYED",
+    "attendance": 68021,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Felix NMECHA",
+        "minute": "6'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Livano COMENENCIA",
+        "minute": "21'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Nico SCHLOTTERBECK",
+        "minute": "38'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Jamal MUSIALA",
+        "minute": "47'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Nathaniel BROWN",
+        "minute": "68'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Deniz UNDAV",
+        "minute": "78'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kai HAVERTZ",
+        "minute": "88'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "JPN",
       "NED"
@@ -214,6 +397,34 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Ismail ELFATH",
+    "attendance": 69285,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Virgil VAN DIJK",
+        "minute": "50'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Keito NAKAMURA",
+        "minute": "57'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Crysencio SUMMERVILLE",
+        "minute": "64'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Daichi KAMADA",
+        "minute": "88'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CIV",
       "ECU"
@@ -234,6 +445,46 @@
     "homeScore": 5,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Yael FALCON PEREZ",
+    "attendance": 50987,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Yasin AYARI",
+        "minute": "7'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Alexander ISAK",
+        "minute": "30'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Omar REKIK",
+        "minute": "43'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Viktor GYOKERES",
+        "minute": "59'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Mattias SVANBERG",
+        "minute": "84'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Yasin AYARI",
+        "minute": "90'+6'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "SWE",
       "TUN"
@@ -254,6 +505,22 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Maurizio MARIANI",
+    "attendance": 62764,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "ABDULELAH ALAMRI",
+        "minute": "41'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Maxi ARAUJO",
+        "minute": "80'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CPV",
       "ESP"
@@ -274,6 +541,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Adham MAKHADMEH",
+    "attendance": 67640,
     "potentialTeams": [
       "BEL",
       "EGY"
@@ -294,6 +563,34 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Cesar RAMOS",
+    "attendance": 70108,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Elijah JUST",
+        "minute": "7'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ramin REZAEIAN",
+        "minute": "32'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Elijah JUST",
+        "minute": "54'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Mohammad MOHEBBI",
+        "minute": "64'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "KSA",
       "URU"
@@ -314,6 +611,16 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Ramon ABATTI",
+    "attendance": 66775,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "EMAM ASHOUR",
+        "minute": "19'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "IRN",
       "NZL"
@@ -334,6 +641,34 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Alireza FAGHANI",
+    "attendance": 80545,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "66'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Bradley BARCOLA",
+        "minute": "82'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ibrahim MBAYE",
+        "minute": "90'+5'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "90'+6'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "FRA",
       "SEN"
@@ -354,6 +689,34 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
+    "referee": "Pierre ATCHO",
+    "attendance": 63106,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "29'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "AYMEN HUSSEIN",
+        "minute": "39'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "43'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Leo OSTIGARD",
+        "minute": "76'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "IRQ",
       "NOR"
@@ -374,6 +737,28 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Szymon MARCINIAK",
+    "attendance": 69045,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "17'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "60'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "76'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ALG",
       "ARG"
@@ -394,6 +779,22 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Dahane BEIDA",
+    "attendance": 68527,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Romano SCHMID",
+        "minute": "20'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "ALI OLWAN",
+        "minute": "50'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "AUT",
       "JOR"
@@ -414,6 +815,16 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Glenn NYBERG",
+    "attendance": 42942,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Caleb YIRENKYI",
+        "minute": "90'+5'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "COD",
       "POR"
@@ -434,6 +845,40 @@
     "homeScore": 4,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Clement TURPIN",
+    "attendance": 70389,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Martin BATURINA",
+        "minute": "36'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Harry KANE",
+        "minute": "42'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Petar MUSA",
+        "minute": "45'+5'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Jude BELLINGHAM",
+        "minute": "47'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Marcus RASHFORD",
+        "minute": "85'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CRO",
       "ENG"
@@ -454,6 +899,22 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Abdulrahman ALJASSIM",
+    "attendance": 68777,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "JOAO NEVES",
+        "minute": "6'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Yoane WISSA",
+        "minute": "45'+5'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "GHA",
       "PAN"
@@ -474,6 +935,34 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
+    "referee": "Anthony TAYLOR",
+    "attendance": 80824,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Daniel MUNOZ",
+        "minute": "40'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Abbosbek FAYZULLAEV",
+        "minute": "60'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Luis DIAZ",
+        "minute": "65'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Jaminton CAMPAZ",
+        "minute": "90'+9'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "COL",
       "UZB"
@@ -494,6 +983,16 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Tori PENSO",
+    "attendance": 67442,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Michal SADILEK",
+        "minute": "6'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CZE",
       "RSA"
@@ -514,6 +1013,34 @@
     "homeScore": 4,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Joao PINHEIRO",
+    "attendance": 70026,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Johan MANZAMBI",
+        "minute": "74'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ruben VARGAS",
+        "minute": "84'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Johan MANZAMBI",
+        "minute": "90'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ermin MAHMIC",
+        "minute": "90'+3'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BIH",
       "SUI"
@@ -534,6 +1061,40 @@
     "homeScore": 6,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Cristian GARAY",
+    "attendance": 52497,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Cyle LARIN",
+        "minute": "16'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Jonathan DAVID",
+        "minute": "29'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Jonathan DAVID",
+        "minute": "45'+3'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Nathan SALIBA",
+        "minute": "64'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Jonathan DAVID",
+        "minute": "90'+2'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CAN",
       "QAT"
@@ -554,6 +1115,16 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Gustavo TEJERA",
+    "attendance": 45522,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Luis ROMO",
+        "minute": "50'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "KOR",
       "MEX"
@@ -574,6 +1145,28 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Alejandro HERNANDEZ",
+    "attendance": 68324,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "MATHEUS CUNHA",
+        "minute": "23'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "MATHEUS CUNHA",
+        "minute": "36'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "VINICIUS JUNIOR",
+        "minute": "45'+3'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "AUS",
       "USA"
@@ -594,6 +1187,16 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Ilgiz TANTASHEV",
+    "attendance": 64146,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Ismael SAIBARI",
+        "minute": "2'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "MAR",
       "SCO"
@@ -614,6 +1217,16 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Ivan BARTON",
+    "attendance": 68827,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Matias GALARZA",
+        "minute": "2'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BRA",
       "HAI"
@@ -634,6 +1247,16 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Felix ZWAYER",
+    "attendance": 66925,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Alex FREEMAN",
+        "minute": "43'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "PAR",
       "TUR"
@@ -654,6 +1277,28 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Juan Gabriel BENITEZ",
+    "attendance": 43036,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Franck KESSIE",
+        "minute": "30'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Deniz UNDAV",
+        "minute": "68'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Deniz UNDAV",
+        "minute": "90'+4'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "NED",
       "SWE"
@@ -674,6 +1319,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
+    "referee": "MA Ning",
+    "attendance": 68598,
     "potentialTeams": [
       "CIV",
       "GER"
@@ -694,6 +1341,46 @@
     "homeScore": 5,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Michael OLIVER",
+    "attendance": 68777,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Brian BROBBEY",
+        "minute": "5'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Brian BROBBEY",
+        "minute": "17'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Cody GAKPO",
+        "minute": "47'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Cody GAKPO",
+        "minute": "54'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Anthony ELANGA",
+        "minute": "59'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Crysencio SUMMERVILLE",
+        "minute": "89'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CUW",
       "ECU"
@@ -714,6 +1401,34 @@
     "homeScore": 0,
     "awayScore": 4,
     "status": "FT",
+    "referee": "Istvan KOVACS",
+    "attendance": 51243,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Daichi KAMADA",
+        "minute": "4'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ayase UEDA",
+        "minute": "31'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Junya ITO",
+        "minute": "69'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ayase UEDA",
+        "minute": "83'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "JPN",
       "TUN"
@@ -734,6 +1449,34 @@
     "homeScore": 2,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Espen ESKAS",
+    "attendance": 64003,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "KEVIN PINA",
+        "minute": "21'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Maxi ARAUJO",
+        "minute": "44'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Agustin CANOBBIO",
+        "minute": "45'+6'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "HELIO VARELA",
+        "minute": "61'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ESP",
       "KSA"
@@ -754,6 +1497,28 @@
     "homeScore": 4,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Raphael CLAUS",
+    "attendance": 68239,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Lamine YAMAL",
+        "minute": "10'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Mikel OYARZABAL",
+        "minute": "21'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Mikel OYARZABAL",
+        "minute": "24'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BEL",
       "IRN"
@@ -774,6 +1539,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Dario HERRERA",
+    "attendance": 70317,
     "potentialTeams": [
       "CPV",
       "URU"
@@ -794,6 +1561,34 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
+    "referee": "Omar ALALI",
+    "attendance": 52497,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Finn SURMAN",
+        "minute": "15'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "MOSTAFA ZICO",
+        "minute": "58'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "MOHAMED SALAH",
+        "minute": "67'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "TREZEGUET",
+        "minute": "82'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "EGY",
       "NZL"
@@ -814,6 +1609,40 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Wilton SAMPAIO",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Marcus HOLMGREN PEDERSEN",
+        "minute": "43'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Erling HAALAND",
+        "minute": "48'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ismaila SARR",
+        "minute": "53'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Erling HAALAND",
+        "minute": "58'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ismaila SARR",
+        "minute": "90'+3'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ARG",
       "AUT"
@@ -834,6 +1663,28 @@
     "homeScore": 3,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Drew FISCHER",
+    "attendance": 68324,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "14'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "54'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ousmane DEMBELE",
+        "minute": "66'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "FRA",
       "IRQ"
@@ -854,6 +1705,22 @@
     "homeScore": 2,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Amin MOHAMED",
+    "attendance": 70649,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "38'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "90'+5'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "NOR",
       "SEN"
@@ -874,6 +1741,28 @@
     "homeScore": 1,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Slavko VINCIC",
+    "attendance": 68371,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "NIZAR ALRASHDAN",
+        "minute": "36'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Nadhir BENBOUALI",
+        "minute": "69'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Amine GOUIRI",
+        "minute": "82'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ALG",
       "JOR"
@@ -894,6 +1783,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Said MARTINEZ",
+    "attendance": 63983,
     "potentialTeams": [
       "POR",
       "UZB"
@@ -914,6 +1805,16 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Pierre ATCHO",
+    "attendance": 43036,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Ante BUDIMIR",
+        "minute": "54'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ENG",
       "GHA"
@@ -934,6 +1835,34 @@
     "homeScore": 5,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Jalal JAYED",
+    "attendance": 68777,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "CRISTIANO RONALDO",
+        "minute": "6'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "NUNO MENDES",
+        "minute": "17'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "CRISTIANO RONALDO",
+        "minute": "39'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "RAFAEL LEAO",
+        "minute": "87'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CRO",
       "PAN"
@@ -954,6 +1883,16 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Maurizio MARIANI",
+    "attendance": 45358,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Daniel MUNOZ",
+        "minute": "76'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "COD",
       "COL"
@@ -974,6 +1913,28 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
+    "referee": "Cesar RAMOS",
+    "attendance": 64478,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "VINICIUS JUNIOR",
+        "minute": "7'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "VINICIUS JUNIOR",
+        "minute": "45'+3'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "MATHEUS CUNHA",
+        "minute": "60'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CAN",
       "SUI"
@@ -994,6 +1955,40 @@
     "homeScore": 4,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Danny MAKKELIE",
+    "attendance": 68239,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Achraf HAKIMI",
+        "minute": "39'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Wilson ISIDOR",
+        "minute": "43'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ismael SAIBARI",
+        "minute": "45'+1'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Soufiane RAHIMI",
+        "minute": "78'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Gessime YASSINE",
+        "minute": "89'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BIH",
       "QAT"
@@ -1014,6 +2009,28 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Ramon ABATTI",
+    "attendance": 52497,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Ruben VARGAS",
+        "minute": "46'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Johan MANZAMBI",
+        "minute": "57'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Promise DAVID",
+        "minute": "76'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BRA",
       "SCO"
@@ -1034,6 +2051,28 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Jesus VALENZUELA",
+    "attendance": 66925,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Kerim ALAJBEGOVIC",
+        "minute": "29'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "HASSAN ALHAYDOS",
+        "minute": "42'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ermin MAHMIC",
+        "minute": "80'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "HAI",
       "MAR"
@@ -1054,6 +2093,28 @@
     "homeScore": 0,
     "awayScore": 3,
     "status": "FT",
+    "referee": "Yael FALCON PEREZ",
+    "attendance": 80824,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Mateo CHAVEZ",
+        "minute": "55'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Julian QUINONES",
+        "minute": "61'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Alvaro FIDALGO",
+        "minute": "90'+4'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CZE",
       "MEX"
@@ -1074,6 +2135,16 @@
     "homeScore": 1,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Facundo TELLO",
+    "attendance": 51243,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Thapelo MASEKO",
+        "minute": "63'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "KOR",
       "RSA"
@@ -1094,6 +2165,22 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Glenn NYBERG",
+    "attendance": 68324,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Nicolas PEPE",
+        "minute": "7'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Nicolas PEPE",
+        "minute": "64'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ECU",
       "GER"
@@ -1114,6 +2201,28 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Tori PENSO",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Leroy SANE",
+        "minute": "2'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Nilson ANGULO",
+        "minute": "9'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Gonzalo PLATA",
+        "minute": "77'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CIV",
       "CUW"
@@ -1134,6 +2243,22 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Ivan BARTON",
+    "attendance": 70137,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Daizen MAEDA",
+        "minute": "56'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Anthony ELANGA",
+        "minute": "62'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "NED",
       "TUN"
@@ -1154,6 +2279,28 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
+    "referee": "Katia GARCIA",
+    "attendance": 68391,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Brian BROBBEY",
+        "minute": "7'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Hazem MASTOURI",
+        "minute": "54'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Jan Paul VAN HECKE",
+        "minute": "62'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "JPN",
       "SWE"
@@ -1174,6 +2321,40 @@
     "homeScore": 3,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Mustapha GHORBAL",
+    "attendance": 70492,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Auston TRUSTY",
+        "minute": "3'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Arda GULER",
+        "minute": "10'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Baris Alper YILMAZ",
+        "minute": "31'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Sebastian BERHALTER",
+        "minute": "49'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kaan AYHAN",
+        "minute": "90'+8'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "TUR",
       "USA"
@@ -1194,6 +2375,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Clement TURPIN",
+    "attendance": 68827,
     "potentialTeams": [
       "AUS",
       "PAR"
@@ -1214,6 +2397,40 @@
     "homeScore": 1,
     "awayScore": 4,
     "status": "FT",
+    "referee": "Michael OLIVER",
+    "attendance": 64146,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Ousmane DEMBELE",
+        "minute": "7'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ousmane DEMBELE",
+        "minute": "20'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Thelo AASGAARD",
+        "minute": "21'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ousmane DEMBELE",
+        "minute": "32'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Desire DOUE",
+        "minute": "90'+4'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "FRA",
       "NOR"
@@ -1234,6 +2451,40 @@
     "homeScore": 5,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Anthony TAYLOR",
+    "attendance": 43036,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Habib DIARRA",
+        "minute": "4'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ismaila SARR",
+        "minute": "56'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Pape GUEYE",
+        "minute": "59'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Pape GUEYE",
+        "minute": "71'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Iliman NDIAYE",
+        "minute": "82'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "IRQ",
       "SEN"
@@ -1254,6 +2505,22 @@
     "homeScore": 1,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Szymon MARCINIAK",
+    "attendance": 66925,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "MAHMOUD SABER",
+        "minute": "5'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ramin REZAEIAN",
+        "minute": "14'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ESP",
       "URU"
@@ -1274,6 +2541,46 @@
     "homeScore": 1,
     "awayScore": 5,
     "status": "FT",
+    "referee": "Adham MAKHADMEH",
+    "attendance": 52497,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Leandro TROSSARD",
+        "minute": "28'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Leandro TROSSARD",
+        "minute": "50'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Kevin DE BRUYNE",
+        "minute": "66'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Elijah JUST",
+        "minute": "84'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Romelu LUKAKU",
+        "minute": "86'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Alexis SAELEMAEKERS",
+        "minute": "90'+4'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CPV",
       "KSA"
@@ -1294,6 +2601,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Francois LETEXIER",
+    "attendance": 68278,
     "potentialTeams": [
       "BEL",
       "NZL"
@@ -1314,6 +2623,16 @@
     "homeScore": 0,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Ismail ELFATH",
+    "attendance": 45065,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Alex BAENA",
+        "minute": "42'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "EGY",
       "IRN"
@@ -1334,6 +2653,22 @@
     "homeScore": 0,
     "awayScore": 2,
     "status": "FT",
+    "referee": "Abdulrahman ALJASSIM",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Jude BELLINGHAM",
+        "minute": "62'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Harry KANE",
+        "minute": "67'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ENG",
       "PAN"
@@ -1354,6 +2689,28 @@
     "homeScore": 2,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Drew FISCHER",
+    "attendance": 68324,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Petar SUCIC",
+        "minute": "31'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Derrick LUCKASSEN",
+        "minute": "73'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Nikola VLASIC",
+        "minute": "83'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CRO",
       "GHA"
@@ -1374,6 +2731,46 @@
     "homeScore": 3,
     "awayScore": 3,
     "status": "FT",
+    "referee": "Ilgiz TANTASHEV",
+    "attendance": 69045,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Marko ARNAUTOVIC",
+        "minute": "28'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Rafik BELGHALI",
+        "minute": "45'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Marcel SABITZER",
+        "minute": "55'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Riyad MAHREZ",
+        "minute": "60'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Riyad MAHREZ",
+        "minute": "90'+3'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Sasa KALAJDZIC",
+        "minute": "90'+6'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "COL",
       "POR"
@@ -1394,6 +2791,28 @@
     "homeScore": 1,
     "awayScore": 3,
     "status": "FT",
+    "referee": "Istvan KOVACS",
+    "attendance": 70649,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Giovani LO CELSO",
+        "minute": "19'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "MOUSA ALTAMARI",
+        "minute": "55'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Lionel MESSI",
+        "minute": "80'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "COD",
       "UZB"
@@ -1414,6 +2833,8 @@
     "homeScore": 0,
     "awayScore": 0,
     "status": "FT",
+    "referee": "Alireza FAGHANI",
+    "attendance": 64478,
     "potentialTeams": [
       "ARG",
       "JOR"
@@ -1434,6 +2855,28 @@
     "homeScore": 3,
     "awayScore": 1,
     "status": "FT",
+    "referee": "Felix ZWAYER",
+    "attendance": 68239,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Eldor SHOMURODOV",
+        "minute": "10'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Fiston MAYELE",
+        "minute": "78'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Yoane WISSA",
+        "minute": "90'+1'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ALG",
       "AUT"

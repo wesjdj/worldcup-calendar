@@ -211,13 +211,26 @@ function buildEvent(f) {
     ? ` ${f.homeScore}–${f.awayScore}${pens}${finished ? '' : ' (live)'}`
     : '';
 
+  // Goalscorers (per side), e.g. "⚽ Mexico: Quiñones 9', Jiménez 67'".
+  const scorerLine = (side) => {
+    const slot = f[side];
+    const list = (f.scorers || []).filter((s) => s.side === side);
+    if (!slot.team || !list.length) return null;
+    const names = list.map((s) => `${s.name}${s.minute ? ' ' + s.minute : ''}${s.own ? ' (OG)' : ''}`);
+    return `⚽ ${teams[slot.team].name}: ${names.join(', ')}`;
+  };
+
   const summary = `WC26 #${f.id} — ${plainSlot(f.home)} vs ${plainSlot(f.away)}${scoreTag} (${stageName})`;
   const location = `${v.name}, ${v.city}, ${v.country}`;
   const description = [
     `Match ${f.id} — ${stageName}`,
     `${slotLabel(f.home)} vs ${slotLabel(f.away)}`,
     hasScore ? `Score: ${f.homeScore}–${f.awayScore}${pens}${finished ? ' (full-time)' : ' (live)'}` : null,
+    scorerLine('home'),
+    scorerLine('away'),
     `Venue: ${v.name} (${v.fifaName}), ${v.city}`,
+    f.referee ? `Referee: ${f.referee}` : null,
+    f.attendance != null ? `Attendance: ${f.attendance.toLocaleString('en-US')}` : null,
     `Kick-off: local time at venue is built into this calendar entry.`,
   ].filter(Boolean).join('\\n');
 

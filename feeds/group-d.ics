@@ -78,87 +78,96 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-4@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260612T180000
 DTEND;TZID=America/Los_Angeles:20260612T200000
 SUMMARY:WC26 #4 — USA vs Paraguay 4–1 (Group D)
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
 DESCRIPTION:Match 4 — Group D\\n🇺🇸 USA vs 🇵🇾 Paraguay\\nScore: 4–1 (f
- ull-time)\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\n
- Kick-off: local time at venue is built into this calendar entry.
+ ull-time)\\n⚽ USA: Folarin BALOGUN 31'\, Folarin BALOGUN 45'+5'\, Giovann
+ i REYNA 90'+8'\\n⚽ Paraguay: MAURICIO 73'\\nVenue: SoFi Stadium (Los Ange
+ les Stadium)\, Inglewood\, CA\\nReferee: Danny MAKKELIE\\nAttendance: 70\
+ ,492\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-8@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Vancouver:20260613T120000
 DTEND;TZID=America/Vancouver:20260613T140000
 SUMMARY:WC26 #8 — Australia vs Türkiye 1–1 (Group D)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Match 8 — Group D\\n🇦🇺 Australia vs 🇹🇷 Türkiye\\nScore: 1
- –1 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-o
- ff: local time at venue is built into this calendar entry.
+ –1 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nRefere
+ e: Said MARTINEZ\\nAttendance: 67\,966\\nKick-off: local time at venue is
+  built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-29@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260619T173000
 DTEND;TZID=America/Los_Angeles:20260619T193000
 SUMMARY:WC26 #29 — USA vs Australia 3–0 (Group D)
 LOCATION:Lumen Field\, Seattle\, WA\, USA
 DESCRIPTION:Match 29 — Group D\\n🇺🇸 USA vs 🇦🇺 Australia\\nScore: 3–0 
- (full-time)\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-
- off: local time at venue is built into this calendar entry.
+ (full-time)\\n⚽ USA: MATHEUS CUNHA 23'\, MATHEUS CUNHA 36'\, VINICIUS JUN
+ IOR 45'+3'\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nRefere
+ e: Alejandro HERNANDEZ\\nAttendance: 68\,324\\nKick-off: local time at ve
+ nue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-32@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260619T120000
 DTEND;TZID=America/Los_Angeles:20260619T140000
 SUMMARY:WC26 #32 — Paraguay vs Türkiye 2–0 (Group D)
 LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
 DESCRIPTION:Match 32 — Group D\\n🇵🇾 Paraguay vs 🇹🇷 Türkiye\\nScore: 2
- –0 (full-time)\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Sant
- a Clara\, CA\\nKick-off: local time at venue is built into this calendar 
- entry.
+ –0 (full-time)\\n⚽ Paraguay: Alex FREEMAN 43'\\nVenue: Levi's Stadium (Sa
+ n Francisco Bay Stadium)\, Santa Clara\, CA\\nReferee: Felix ZWAYER\\nAtt
+ endance: 66\,925\\nKick-off: local time at venue is built into this calen
+ dar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-59@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260625T190000
 DTEND;TZID=America/Los_Angeles:20260625T210000
 SUMMARY:WC26 #59 — USA vs Türkiye 3–2 (Group D)
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
 DESCRIPTION:Match 59 — Group D\\n🇺🇸 USA vs 🇹🇷 Türkiye\\nScore: 3–2 (f
- ull-time)\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\n
- Kick-off: local time at venue is built into this calendar entry.
+ ull-time)\\n⚽ USA: Arda GULER 10'\, Baris Alper YILMAZ 31'\, Kaan AYHAN 9
+ 0'+8'\\n⚽ Türkiye: Auston TRUSTY 3'\, Sebastian BERHALTER 49'\\nVenue: So
+ Fi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nReferee: Mustapha GHO
+ RBAL\\nAttendance: 70\,492\\nKick-off: local time at venue is built into 
+ this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-60@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260625T190000
 DTEND;TZID=America/Los_Angeles:20260625T210000
 SUMMARY:WC26 #60 — Paraguay vs Australia 0–0 (Group D)
 LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
 DESCRIPTION:Match 60 — Group D\\n🇵🇾 Paraguay vs 🇦🇺 Australia\\nScore:
   0–0 (full-time)\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Sa
- nta Clara\, CA\\nKick-off: local time at venue is built into this calenda
- r entry.
+ nta Clara\, CA\\nReferee: Clement TURPIN\\nAttendance: 68\,827\\nKick-off
+ : local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-74@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260629T163000
 DTEND;TZID=America/New_York:20260629T183000
 SUMMARY:WC26 #74 — Germany vs Paraguay (Round of 32)
@@ -171,7 +180,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-81@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260701T170000
 DTEND;TZID=America/Los_Angeles:20260701T190000
 SUMMARY:WC26 #81 — USA vs Bosnia and Herzegovina (Round of 32)
@@ -184,7 +193,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-88@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260703T130000
 DTEND;TZID=America/Chicago:20260703T150000
 SUMMARY:WC26 #88 — Australia vs Egypt (Round of 32)
@@ -197,7 +206,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
@@ -210,7 +219,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260706T170000
 DTEND;TZID=America/Los_Angeles:20260706T190000
 SUMMARY:WC26 #94 — Winner Match 81 vs Winner Match 82 (Round of 16)
@@ -223,7 +232,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260707T120000
 DTEND;TZID=America/New_York:20260707T140000
 SUMMARY:WC26 #95 — Winner Match 86 vs Winner Match 88 (Round of 16)
@@ -236,7 +245,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-96@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Vancouver:20260707T130000
 DTEND;TZID=America/Vancouver:20260707T150000
 SUMMARY:WC26 #96 — Winner Match 85 vs Winner Match 87 (Round of 16)
@@ -249,7 +258,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
@@ -262,7 +271,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260710T120000
 DTEND;TZID=America/Los_Angeles:20260710T140000
 SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
@@ -275,7 +284,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
 SUMMARY:WC26 #100 — Winner Match 95 vs Winner Match 96 (Quarter-final)
@@ -288,7 +297,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -301,7 +310,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -314,7 +323,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -328,7 +337,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

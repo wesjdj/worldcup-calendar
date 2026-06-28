@@ -75,7 +75,9 @@ This fork keeps the calendar current on its own. A scheduled workflow
   into the real teams as results come in,
 - **corrects kick-off times** if a match is rescheduled, and
 - **records scores** (shown in each `.ics` event summary, e.g. `2–0`, or
-  `1–1 (4–2 pens)`).
+  `1–1 (4–2 pens)`), and
+- **enriches each event description** with goalscorers (⚽ name + minute),
+  the referee, and the attendance once a match is played.
 
 It writes only to `data/overrides.json` — a patch layer applied on top of the
 hand-built schedule in `build-data.js`. The curated schedule stays the source of

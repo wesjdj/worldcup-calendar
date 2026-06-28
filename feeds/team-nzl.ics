@@ -78,46 +78,51 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-16@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260615T120000
 DTEND;TZID=America/Los_Angeles:20260615T140000
 SUMMARY:WC26 #16 — Iran vs New Zealand 1–1 (Group G)
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
 DESCRIPTION:Match 16 — Group G\\n🇮🇷 Iran vs 🇳🇿 New Zealand\\nScore: 1
- –1 (full-time)\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, 
- CA\\nKick-off: local time at venue is built into this calendar entry.
+ –1 (full-time)\\n⚽ New Zealand: EMAM ASHOUR 19'\\nVenue: SoFi Stadium (Lo
+ s Angeles Stadium)\, Inglewood\, CA\\nReferee: Ramon ABATTI\\nAttendance:
+  66\,775\\nKick-off: local time at venue is built into this calendar entr
+ y.
 CATEGORIES:FIFA World Cup 2026\,Group G
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-40@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Vancouver:20260621T180000
 DTEND;TZID=America/Vancouver:20260621T200000
 SUMMARY:WC26 #40 — New Zealand vs Egypt 1–3 (Group G)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Match 40 — Group G\\n🇳🇿 New Zealand vs 🇪🇬 Egypt\\nScore: 
- 1–3 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-
- off: local time at venue is built into this calendar entry.
+ 1–3 (full-time)\\n⚽ New Zealand: Finn SURMAN 15'\\n⚽ Egypt: MOSTAFA ZICO 
+ 58'\, MOHAMED SALAH 67'\, TREZEGUET 82'\\nVenue: BC Place (Vancouver Stad
+ ium)\, Vancouver\\nReferee: Omar ALALI\\nAttendance: 52\,497\\nKick-off: 
+ local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group G
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-65@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Vancouver:20260626T170000
 DTEND;TZID=America/Vancouver:20260626T190000
 SUMMARY:WC26 #65 — New Zealand vs Belgium 0–0 (Group G)
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Match 65 — Group G\\n🇳🇿 New Zealand vs 🇧🇪 Belgium\\nScore
- : 0–0 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKic
- k-off: local time at venue is built into this calendar entry.
+ : 0–0 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nRef
+ eree: Francois LETEXIER\\nAttendance: 68\,278\\nKick-off: local time at v
+ enue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group G
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
@@ -130,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260706T170000
 DTEND;TZID=America/Los_Angeles:20260706T190000
 SUMMARY:WC26 #94 — Winner Match 81 vs Winner Match 82 (Round of 16)
@@ -143,7 +148,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260707T120000
 DTEND;TZID=America/New_York:20260707T140000
 SUMMARY:WC26 #95 — Winner Match 86 vs Winner Match 88 (Round of 16)
@@ -156,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-96@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Vancouver:20260707T130000
 DTEND;TZID=America/Vancouver:20260707T150000
 SUMMARY:WC26 #96 — Winner Match 85 vs Winner Match 87 (Round of 16)
@@ -169,7 +174,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
@@ -182,7 +187,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Los_Angeles:20260710T120000
 DTEND;TZID=America/Los_Angeles:20260710T140000
 SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
@@ -195,7 +200,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
 SUMMARY:WC26 #100 — Winner Match 95 vs Winner Match 96 (Quarter-final)
@@ -208,7 +213,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -221,7 +226,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -234,7 +239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -248,7 +253,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260628T154341Z
+DTSTAMP:20260628T154803Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)
