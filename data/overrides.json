@@ -1845,7 +1845,10 @@
   "73": {
     "home": "RSA",
     "away": "CAN",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Joao PINHEIRO"
   },
   "74": {
     "home": "GER",

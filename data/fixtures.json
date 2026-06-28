@@ -2894,7 +2894,10 @@
     },
     "venueId": "sofi",
     "kickoffUTC": "2026-06-28T19:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Joao PINHEIRO",
     "potentialTeams": [
       "CAN",
       "RSA"
