@@ -70,124 +70,48 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-15@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260615T180000
-DTEND;TZID=America/New_York:20260615T200000
-SUMMARY:WC26 #15 — Saudi Arabia vs Uruguay (Group H)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260615T210000
+DTEND;TZID=America/New_York:20260615T230000
+SUMMARY:WC26 #15 — Saudi Arabia vs Uruguay 2–2 (Group H)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 15 — Group H\\n🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay\\nVenu
- e: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-off: loc
- al time at venue is built into this calendar entry.
+DESCRIPTION:Match 15 — Group H\\n🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay\\nScor
+ e: 2–2 (full-time)\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gar
+ dens\, FL\\nKick-off: local time at venue is built into this calendar ent
+ ry.
 CATEGORIES:FIFA World Cup 2026\,Group H
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-37@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260621T120000
-DTEND;TZID=America/New_York:20260621T140000
-SUMMARY:WC26 #37 — Spain vs Saudi Arabia (Group H)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260621T180000
+DTEND;TZID=America/New_York:20260621T200000
+SUMMARY:WC26 #37 — Spain vs Saudi Arabia 2–2 (Group H)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 37 — Group H\\n🇪🇸 Spain vs 🇸🇦 Saudi Arabia\\nVenue:
-  Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off: local
-  time at venue is built into this calendar entry.
+DESCRIPTION:Match 37 — Group H\\n🇪🇸 Spain vs 🇸🇦 Saudi Arabia\\nScore:
+  2–2 (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlan
+ ta\, GA\\nKick-off: local time at venue is built into this calendar entry
+ .
 CATEGORIES:FIFA World Cup 2026\,Group H
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-64@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260626T190000
-DTEND;TZID=America/Chicago:20260626T210000
-SUMMARY:WC26 #64 — Cape Verde vs Saudi Arabia (Group H)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260626T220000
+DTEND;TZID=America/Chicago:20260627T000000
+SUMMARY:WC26 #64 — Cape Verde vs Saudi Arabia 1–5 (Group H)
 LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 64 — Group H\\n🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia\\nV
- enue: NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local time
-  at venue is built into this calendar entry.
+DESCRIPTION:Match 64 — Group H\\n🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia\\nS
+ core: 1–5 (full-time)\\nVenue: NRG Stadium (Houston Stadium)\, Houston\, 
+ TX\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group H
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-match-77@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260630T170000
-DTEND;TZID=America/New_York:20260630T190000
-SUMMARY:WC26 #77 — Winner Group I vs 3rd Group C/D/F/G/H (Round of 32)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 77 — Round of 32\\nWinner Group I vs 3rd Group C/D/F/G/
- H\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherfor
- d\, NJ\\nKick-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-79@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260630T190000
-DTEND;TZID=America/Mexico_City:20260630T210000
-SUMMARY:WC26 #79 — Winner Group A vs 3rd Group C/E/F/H/I (Round of 32)
-LOCATION:Estadio Azteca\, Mexico City\, Mexico
-DESCRIPTION:Match 79 — Round of 32\\nWinner Group A vs 3rd Group C/E/F/H/
- I\\nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off:
-  local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-80@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260701T120000
-DTEND;TZID=America/New_York:20260701T140000
-SUMMARY:WC26 #80 — Winner Group L vs 3rd Group E/H/I/J/K (Round of 32)
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 80 — Round of 32\\nWinner Group L vs 3rd Group E/H/I/J/
- K\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-
- off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-82@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260701T130000
-DTEND;TZID=America/Los_Angeles:20260701T150000
-SUMMARY:WC26 #82 — Winner Group G vs 3rd Group A/E/H/I/J (Round of 32)
-LOCATION:Lumen Field\, Seattle\, WA\, USA
-DESCRIPTION:Match 82 — Round of 32\\nWinner Group G vs 3rd Group A/E/H/I/
- J\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local
-  time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-84@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260702T120000
-DTEND;TZID=America/Los_Angeles:20260702T140000
-SUMMARY:WC26 #84 — Winner Group H vs Runner-up Group J (Round of 32)
-LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 84 — Round of 32\\nWinner Group H vs Runner-up Group J\
- \nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: 
- local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-86@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260703T180000
-DTEND;TZID=America/New_York:20260703T200000
-SUMMARY:WC26 #86 — Winner Group J vs Runner-up Group H (Round of 32)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 86 — Round of 32\\nWinner Group J vs Runner-up Group H\
- \nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-of
- f: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
@@ -200,7 +124,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Mexico_City:20260705T180000
 DTEND;TZID=America/Mexico_City:20260705T200000
 SUMMARY:WC26 #92 — Winner Match 79 vs Winner Match 80 (Round of 16)
@@ -213,7 +137,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-93@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260706T140000
 DTEND;TZID=America/Chicago:20260706T160000
 SUMMARY:WC26 #93 — Winner Match 83 vs Winner Match 84 (Round of 16)
@@ -226,7 +150,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260706T170000
 DTEND;TZID=America/Los_Angeles:20260706T190000
 SUMMARY:WC26 #94 — Winner Match 81 vs Winner Match 82 (Round of 16)
@@ -239,7 +163,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260707T120000
 DTEND;TZID=America/New_York:20260707T140000
 SUMMARY:WC26 #95 — Winner Match 86 vs Winner Match 88 (Round of 16)
@@ -252,7 +176,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
@@ -265,7 +189,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260710T120000
 DTEND;TZID=America/Los_Angeles:20260710T140000
 SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
@@ -278,7 +202,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260711T170000
 DTEND;TZID=America/New_York:20260711T190000
 SUMMARY:WC26 #99 — Winner Match 91 vs Winner Match 92 (Quarter-final)
@@ -291,7 +215,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
 SUMMARY:WC26 #100 — Winner Match 95 vs Winner Match 96 (Quarter-final)
@@ -304,7 +228,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -317,7 +241,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -330,7 +254,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -344,7 +268,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

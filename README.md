@@ -69,39 +69,48 @@ The workflow at `.github/workflows/pages.yml` builds the data and feeds on every
 
 This fork keeps the calendar current on its own. A scheduled workflow
 (`.github/workflows/update-fixtures.yml`, every 3 hours) pulls live data from
-[api-football](https://www.api-football.com/) and:
+**FIFA's public match API** and:
 
 - **resolves knockout placeholders** (`Runner-up Group A`, `Winner Match 74`, …)
   into the real teams as results come in,
 - **corrects kick-off times** if a match is rescheduled, and
-- **records scores** (shown in each `.ics` event summary, e.g. `2–0`).
+- **records scores** (shown in each `.ics` event summary, e.g. `2–0`, or
+  `1–1 (4–2 pens)`).
 
 It writes only to `data/overrides.json` — a patch layer applied on top of the
 hand-built schedule in `build-data.js`. The curated schedule stays the source of
-truth; overrides never overwrite it, and a failed/empty API response is merged
+truth; overrides never overwrite it, and a failed/empty response is merged
 non-destructively, so already-resolved fixtures are never lost. Because every
 event keeps its stable UID, subscribers see updates on their next refresh with no
 re-import.
 
+### How it works
+
+FIFA exposes match data at:
+
+```
+https://api.fifa.com/api/v3/calendar/matches?idCompetition=17&from=2026-06-01&to=2026-07-31&count=200&language=en
+```
+
+No API key, no signup, no rate-limit budget. Each match carries a `MatchNumber`
+(1–104) that maps 1:1 to this repo's fixture ids, so matching is exact rather
+than fuzzy. `update-fixtures.js` reads it, maps FIFA team/stadium names to the
+repo's codes, and writes `data/overrides.json`.
+
 ### Setup
 
-1. Get an api-football key (free tier is enough — ~8 requests/day):
-   - **RapidAPI:** subscribe to [API-FOOTBALL](https://rapidapi.com/api-sports/api/api-football) (Basic/free), copy your *X-RapidAPI-Key*.
-   - **or direct:** sign up at [api-football.com](https://www.api-football.com/), copy your *x-apisports-key*, and set the repo variable `API_FOOTBALL_PROVIDER=apisports`.
-2. **Settings → Secrets and variables → Actions → New repository secret:** name `API_FOOTBALL_KEY`, paste the key.
-3. (Optional) **Variables:** `WC_LEAGUE_ID` (default `1` = FIFA World Cup), `WC_SEASON` (default `2026`), `API_FOOTBALL_PROVIDER` (default `rapidapi`).
-4. **Actions** tab → *Auto-update fixtures* → **Run workflow** to test immediately.
+Nothing to configure — just enable the workflow:
 
-> ⚠️ api-football's free plan historically restricts coverage to seasons
-> 2021–2023. If the 2026 World Cup isn't in your plan, the script logs it and
-> changes nothing (the site keeps serving the curated schedule) — you'd need a
-> paid plan or a different `WC_SEASON`/provider. Run the workflow once and check
-> its log to confirm fixtures are being fetched.
+1. **Settings → Actions → General → Workflow permissions:** allow *Read and write* (so the job can commit refreshed feeds).
+2. **Actions** tab → *Auto-update fixtures* → **Run workflow** to refresh immediately, or wait for the 3-hourly schedule.
+
+Overrideable via repo *Variables* if FIFA ever shifts ids: `WC_COMPETITION_ID`
+(default `17`), `WC_FROM` (`2026-06-01`), `WC_TO` (`2026-07-31`).
 
 To run it locally:
 
 ```bash
-API_FOOTBALL_KEY=… node scripts/update-fixtures.js
+node scripts/update-fixtures.js
 node scripts/build-data.js && node scripts/build-ics.js
 ```
 

@@ -113,1151 +113,1181 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-1@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Mexico_City:20260611T130000
 DTEND;TZID=America/Mexico_City:20260611T150000
-SUMMARY:WC26 #1 — Mexico vs South Africa (Group A)
+SUMMARY:WC26 #1 — Mexico vs South Africa 2–0 (Group A)
 LOCATION:Estadio Azteca\, Mexico City\, Mexico
-DESCRIPTION:Match 1 — Group A\\n🇲🇽 Mexico vs 🇿🇦 South Africa\\nVenue:
-  Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off: local tim
- e at venue is built into this calendar entry.
+DESCRIPTION:Match 1 — Group A\\n🇲🇽 Mexico vs 🇿🇦 South Africa\\nScore:
+  2–0 (full-time)\\nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico C
+ ity\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-2@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Mexico_City:20260611T200000
 DTEND;TZID=America/Mexico_City:20260611T220000
-SUMMARY:WC26 #2 — South Korea vs Czechia (Group A)
+SUMMARY:WC26 #2 — South Korea vs Czechia 2–1 (Group A)
 LOCATION:Estadio Akron\, Zapopan\, Mexico
-DESCRIPTION:Match 2 — Group A\\n🇰🇷 South Korea vs 🇨🇿 Czechia\\nVenue:
-  Estadio Akron (Guadalajara Stadium)\, Zapopan\\nKick-off: local time at 
- venue is built into this calendar entry.
+DESCRIPTION:Match 2 — Group A\\n🇰🇷 South Korea vs 🇨🇿 Czechia\\nScore:
+  2–1 (full-time)\\nVenue: Estadio Akron (Guadalajara Stadium)\, Zapopan\\
+ nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group A
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-3@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Toronto:20260612T150000
 DTEND;TZID=America/Toronto:20260612T170000
-SUMMARY:WC26 #3 — Canada vs Bosnia and Herzegovina (Group B)
+SUMMARY:WC26 #3 — Canada vs Bosnia and Herzegovina 1–1 (Group B)
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Match 3 — Group B\\n🇨🇦 Canada vs 🇧🇦 Bosnia and Herzegovin
- a\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: local time a
- t venue is built into this calendar entry.
+ a\\nScore: 1–1 (full-time)\\nVenue: BMO Field (Toronto Stadium)\, Toronto
+ \\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group B
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-4@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260612T180000
 DTEND;TZID=America/Los_Angeles:20260612T200000
-SUMMARY:WC26 #4 — USA vs Paraguay (Group D)
+SUMMARY:WC26 #4 — USA vs Paraguay 4–1 (Group D)
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 4 — Group D\\n🇺🇸 USA vs 🇵🇾 Paraguay\\nVenue: SoFi S
- tadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: local time at v
- enue is built into this calendar entry.
+DESCRIPTION:Match 4 — Group D\\n🇺🇸 USA vs 🇵🇾 Paraguay\\nScore: 4–1 (f
+ ull-time)\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\n
+ Kick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-5@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260613T120000
-DTEND;TZID=America/Los_Angeles:20260613T140000
-SUMMARY:WC26 #5 — Qatar vs Switzerland (Group B)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260613T180000
+DTEND;TZID=America/Los_Angeles:20260613T200000
+SUMMARY:WC26 #5 — Qatar vs Switzerland 0–1 (Group B)
 LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
-DESCRIPTION:Match 5 — Group B\\n🇶🇦 Qatar vs 🇨🇭 Switzerland\\nVenue: L
- evi's Stadium (San Francisco Bay Stadium)\, Santa Clara\, CA\\nKick-off: 
- local time at venue is built into this calendar entry.
+DESCRIPTION:Match 5 — Group B\\n🇶🇦 Qatar vs 🇨🇭 Switzerland\\nScore: 0
+ –1 (full-time)\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Sant
+ a Clara\, CA\\nKick-off: local time at venue is built into this calendar 
+ entry.
 CATEGORIES:FIFA World Cup 2026\,Group B
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-6@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260613T180000
-DTEND;TZID=America/New_York:20260613T200000
-SUMMARY:WC26 #6 — Brazil vs Morocco (Group C)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260614T000000
+DTEND;TZID=America/New_York:20260614T020000
+SUMMARY:WC26 #6 — Brazil vs Morocco 2–0 (Group C)
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 6 — Group C\\n🇧🇷 Brazil vs 🇲🇦 Morocco\\nVenue: MetL
- ife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKick-o
- ff: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 6 — Group C\\n🇧🇷 Brazil vs 🇲🇦 Morocco\\nScore: 2–0 
+ (full-time)\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, East
+  Rutherford\, NJ\\nKick-off: local time at venue is built into this calen
+ dar entry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-7@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260613T210000
-DTEND;TZID=America/New_York:20260613T230000
-SUMMARY:WC26 #7 — Haiti vs Scotland (Group C)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260613T180000
+DTEND;TZID=America/New_York:20260613T200000
+SUMMARY:WC26 #7 — Haiti vs Scotland 1–1 (Group C)
 LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 7 — Group C\\n🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland\\nV
- enue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: loc
- al time at venue is built into this calendar entry.
+DESCRIPTION:Match 7 — Group C\\n🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland\\nS
+ core: 1–1 (full-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Foxbor
+ ough\, MA\\nKick-off: local time at venue is built into this calendar ent
+ ry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-8@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Vancouver:20260613T210000
-DTEND;TZID=America/Vancouver:20260613T230000
-SUMMARY:WC26 #8 — Australia vs Türkiye (Group D)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Vancouver:20260613T120000
+DTEND;TZID=America/Vancouver:20260613T140000
+SUMMARY:WC26 #8 — Australia vs Türkiye 1–1 (Group D)
 LOCATION:BC Place\, Vancouver\, Canada
-DESCRIPTION:Match 8 — Group D\\n🇦🇺 Australia vs 🇹🇷 Türkiye\\nVenue: B
- C Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time at venue i
- s built into this calendar entry.
+DESCRIPTION:Match 8 — Group D\\n🇦🇺 Australia vs 🇹🇷 Türkiye\\nScore: 1
+ –1 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-o
+ ff: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-9@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260614T120000
-DTEND;TZID=America/Chicago:20260614T140000
-SUMMARY:WC26 #9 — Germany vs Curaçao (Group E)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260614T180000
+DTEND;TZID=America/Chicago:20260614T200000
+SUMMARY:WC26 #9 — Germany vs Curaçao 1–0 (Group E)
 LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 9 — Group E\\n🇩🇪 Germany vs 🇨🇼 Curaçao\\nVenue: NRG
-  Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local time at venue
-  is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group E
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-10@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260614T150000
-DTEND;TZID=America/Chicago:20260614T170000
-SUMMARY:WC26 #10 — Netherlands vs Japan (Group F)
-LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 10 — Group F\\n🇳🇱 Netherlands vs 🇯🇵 Japan\\nVenue: 
- AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local time at 
- venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group F
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-11@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260614T190000
-DTEND;TZID=America/New_York:20260614T210000
-SUMMARY:WC26 #11 — Ivory Coast vs Ecuador (Group E)
-LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
-DESCRIPTION:Match 11 — Group E\\n🇨🇮 Ivory Coast vs 🇪🇨 Ecuador\\nVenue
- : Lincoln Financial Field (Philadelphia Stadium)\, Philadelphia\, PA\\nKi
- ck-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group E
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-12@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Monterrey:20260614T200000
-DTEND;TZID=America/Monterrey:20260614T220000
-SUMMARY:WC26 #12 — Tunisia vs Sweden (Group F)
-LOCATION:Estadio BBVA\, Guadalupe\, Mexico
-DESCRIPTION:Match 12 — Group F\\n🇹🇳 Tunisia vs 🇸🇪 Sweden\\nVenue: Est
- adio BBVA (Monterrey Stadium)\, Guadalupe\\nKick-off: local time at venue
-  is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group F
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-13@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260615T120000
-DTEND;TZID=America/New_York:20260615T140000
-SUMMARY:WC26 #13 — Spain vs Cape Verde (Group H)
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 13 — Group H\\n🇪🇸 Spain vs 🇨🇻 Cape Verde\\nVenue: M
- ercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off: local t
- ime at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group H
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-14@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260615T120000
-DTEND;TZID=America/Los_Angeles:20260615T140000
-SUMMARY:WC26 #14 — Belgium vs Egypt (Group G)
-LOCATION:Lumen Field\, Seattle\, WA\, USA
-DESCRIPTION:Match 14 — Group G\\n🇧🇪 Belgium vs 🇪🇬 Egypt\\nVenue: Lume
- n Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local time at venue 
- is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group G
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-15@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260615T180000
-DTEND;TZID=America/New_York:20260615T200000
-SUMMARY:WC26 #15 — Saudi Arabia vs Uruguay (Group H)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 15 — Group H\\n🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay\\nVenu
- e: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-off: loc
- al time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group H
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-16@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260615T180000
-DTEND;TZID=America/Los_Angeles:20260615T200000
-SUMMARY:WC26 #16 — Iran vs New Zealand (Group G)
-LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 16 — Group G\\n🇮🇷 Iran vs 🇳🇿 New Zealand\\nVenue: S
- oFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: local time
-  at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group G
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-17@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260616T150000
-DTEND;TZID=America/New_York:20260616T170000
-SUMMARY:WC26 #17 — France vs Senegal (Group I)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 17 — Group I\\n🇫🇷 France vs 🇸🇳 Senegal\\nVenue: Met
- Life Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKick-
- off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-18@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260616T180000
-DTEND;TZID=America/New_York:20260616T200000
-SUMMARY:WC26 #18 — Norway vs Iraq (Group I)
-LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 18 — Group I\\n🇳🇴 Norway vs 🇮🇶 Iraq\\nVenue: Gillet
- te Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: local time at v
- enue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-19@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260616T200000
-DTEND;TZID=America/Chicago:20260616T220000
-SUMMARY:WC26 #19 — Argentina vs Algeria (Group J)
-LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-DESCRIPTION:Match 19 — Group J\\n🇦🇷 Argentina vs 🇩🇿 Algeria\\nVenue: 
- Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nKick-off: lo
- cal time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group J
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-20@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260616T210000
-DTEND;TZID=America/Los_Angeles:20260616T230000
-SUMMARY:WC26 #20 — Austria vs Jordan (Group J)
-LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
-DESCRIPTION:Match 20 — Group J\\n🇦🇹 Austria vs 🇯🇴 Jordan\\nVenue: Lev
- i's Stadium (San Francisco Bay Stadium)\, Santa Clara\, CA\\nKick-off: lo
- cal time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group J
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-21@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260617T120000
-DTEND;TZID=America/Chicago:20260617T140000
-SUMMARY:WC26 #21 — Portugal vs DR Congo (Group K)
-LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 21 — Group K\\n🇵🇹 Portugal vs 🇨🇩 DR Congo\\nVenue: 
- NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local time at ve
- nue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group K
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-22@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260617T150000
-DTEND;TZID=America/Chicago:20260617T170000
-SUMMARY:WC26 #22 — England vs Croatia (Group L)
-LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 22 — Group L\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia\\
- nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local 
- time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group L
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-23@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Toronto:20260617T190000
-DTEND;TZID=America/Toronto:20260617T210000
-SUMMARY:WC26 #23 — Ghana vs Panama (Group L)
-LOCATION:BMO Field\, Toronto\, Canada
-DESCRIPTION:Match 23 — Group L\\n🇬🇭 Ghana vs 🇵🇦 Panama\\nVenue: BMO F
- ield (Toronto Stadium)\, Toronto\\nKick-off: local time at venue is built
-  into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group L
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-24@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260617T200000
-DTEND;TZID=America/Mexico_City:20260617T220000
-SUMMARY:WC26 #24 — Uzbekistan vs Colombia (Group K)
-LOCATION:Estadio Azteca\, Mexico City\, Mexico
-DESCRIPTION:Match 24 — Group K\\n🇺🇿 Uzbekistan vs 🇨🇴 Colombia\\nVenue
- : Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off: local ti
- me at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group K
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-25@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260618T120000
-DTEND;TZID=America/New_York:20260618T140000
-SUMMARY:WC26 #25 — South Africa vs Czechia (Group A)
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 25 — Group A\\n🇿🇦 South Africa vs 🇨🇿 Czechia\\nVenu
- e: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off: loc
- al time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-26@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260618T120000
-DTEND;TZID=America/Los_Angeles:20260618T140000
-SUMMARY:WC26 #26 — Switzerland vs Bosnia and Herzegovina (Group B)
-LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 26 — Group B\\n🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herz
- egovina\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKi
- ck-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group B
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-27@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Vancouver:20260618T150000
-DTEND;TZID=America/Vancouver:20260618T170000
-SUMMARY:WC26 #27 — Canada vs Qatar (Group B)
-LOCATION:BC Place\, Vancouver\, Canada
-DESCRIPTION:Match 27 — Group B\\n🇨🇦 Canada vs 🇶🇦 Qatar\\nVenue: BC Pl
- ace (Vancouver Stadium)\, Vancouver\\nKick-off: local time at venue is bu
- ilt into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group B
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-28@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260618T190000
-DTEND;TZID=America/Mexico_City:20260618T210000
-SUMMARY:WC26 #28 — Mexico vs South Korea (Group A)
-LOCATION:Estadio Akron\, Zapopan\, Mexico
-DESCRIPTION:Match 28 — Group A\\n🇲🇽 Mexico vs 🇰🇷 South Korea\\nVenue:
-  Estadio Akron (Guadalajara Stadium)\, Zapopan\\nKick-off: local time at 
- venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-29@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260619T120000
-DTEND;TZID=America/Los_Angeles:20260619T140000
-SUMMARY:WC26 #29 — USA vs Australia (Group D)
-LOCATION:Lumen Field\, Seattle\, WA\, USA
-DESCRIPTION:Match 29 — Group D\\n🇺🇸 USA vs 🇦🇺 Australia\\nVenue: Lume
- n Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local time at venue 
- is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group D
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-30@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260619T150000
-DTEND;TZID=America/New_York:20260619T170000
-SUMMARY:WC26 #30 — Scotland vs Morocco (Group C)
-LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 30 — Group C\\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇲🇦 Morocco\
- \nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: 
- local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group C
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-31@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260619T210000
-DTEND;TZID=America/New_York:20260619T230000
-SUMMARY:WC26 #31 — Brazil vs Haiti (Group C)
-LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
-DESCRIPTION:Match 31 — Group C\\n🇧🇷 Brazil vs 🇭🇹 Haiti\\nVenue: Linco
- ln Financial Field (Philadelphia Stadium)\, Philadelphia\, PA\\nKick-off:
-  local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group C
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-32@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260619T210000
-DTEND;TZID=America/Los_Angeles:20260619T230000
-SUMMARY:WC26 #32 — Paraguay vs Türkiye (Group D)
-LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
-DESCRIPTION:Match 32 — Group D\\n🇵🇾 Paraguay vs 🇹🇷 Türkiye\\nVenue: L
- evi's Stadium (San Francisco Bay Stadium)\, Santa Clara\, CA\\nKick-off: 
- local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group D
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-33@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260620T120000
-DTEND;TZID=America/Chicago:20260620T140000
-SUMMARY:WC26 #33 — Netherlands vs Sweden (Group F)
-LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 33 — Group F\\n🇳🇱 Netherlands vs 🇸🇪 Sweden\\nVenue:
-  NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local time at v
- enue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group F
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-34@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Toronto:20260620T160000
-DTEND;TZID=America/Toronto:20260620T180000
-SUMMARY:WC26 #34 — Germany vs Ivory Coast (Group E)
-LOCATION:BMO Field\, Toronto\, Canada
-DESCRIPTION:Match 34 — Group E\\n🇩🇪 Germany vs 🇨🇮 Ivory Coast\\nVenue
- : BMO Field (Toronto Stadium)\, Toronto\\nKick-off: local time at venue i
- s built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group E
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-35@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260620T190000
-DTEND;TZID=America/Chicago:20260620T210000
-SUMMARY:WC26 #35 — Ecuador vs Curaçao (Group E)
-LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-DESCRIPTION:Match 35 — Group E\\n🇪🇨 Ecuador vs 🇨🇼 Curaçao\\nVenue: Ar
- rowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nKick-off: loca
- l time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group E
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-36@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Monterrey:20260620T220000
-DTEND;TZID=America/Monterrey:20260621T000000
-SUMMARY:WC26 #36 — Tunisia vs Japan (Group F)
-LOCATION:Estadio BBVA\, Guadalupe\, Mexico
-DESCRIPTION:Match 36 — Group F\\n🇹🇳 Tunisia vs 🇯🇵 Japan\\nVenue: Esta
- dio BBVA (Monterrey Stadium)\, Guadalupe\\nKick-off: local time at venue 
- is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group F
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-37@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260621T120000
-DTEND;TZID=America/New_York:20260621T140000
-SUMMARY:WC26 #37 — Spain vs Saudi Arabia (Group H)
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 37 — Group H\\n🇪🇸 Spain vs 🇸🇦 Saudi Arabia\\nVenue:
-  Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off: local
-  time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group H
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-38@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260621T120000
-DTEND;TZID=America/Los_Angeles:20260621T140000
-SUMMARY:WC26 #38 — Belgium vs Iran (Group G)
-LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 38 — Group G\\n🇧🇪 Belgium vs 🇮🇷 Iran\\nVenue: SoFi 
- Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: local time at 
- venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group G
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-39@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260621T180000
-DTEND;TZID=America/New_York:20260621T200000
-SUMMARY:WC26 #39 — Uruguay vs Cape Verde (Group H)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 39 — Group H\\n🇺🇾 Uruguay vs 🇨🇻 Cape Verde\\nVenue:
-  Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-off: local
-  time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group H
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-40@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Vancouver:20260621T180000
-DTEND;TZID=America/Vancouver:20260621T200000
-SUMMARY:WC26 #40 — New Zealand vs Egypt (Group G)
-LOCATION:BC Place\, Vancouver\, Canada
-DESCRIPTION:Match 40 — Group G\\n🇳🇿 New Zealand vs 🇪🇬 Egypt\\nVenue: 
- BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time at venue 
- is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group G
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-41@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260622T120000
-DTEND;TZID=America/Chicago:20260622T140000
-SUMMARY:WC26 #41 — Argentina vs Austria (Group J)
-LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 41 — Group J\\n🇦🇷 Argentina vs 🇦🇹 Austria\\nVenue: 
- AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local time at 
- venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group J
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-42@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260622T170000
-DTEND;TZID=America/New_York:20260622T190000
-SUMMARY:WC26 #42 — France vs Iraq (Group I)
-LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
-DESCRIPTION:Match 42 — Group I\\n🇫🇷 France vs 🇮🇶 Iraq\\nVenue: Lincol
- n Financial Field (Philadelphia Stadium)\, Philadelphia\, PA\\nKick-off: 
- local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-43@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260622T200000
-DTEND;TZID=America/New_York:20260622T220000
-SUMMARY:WC26 #43 — Norway vs Senegal (Group I)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 43 — Group I\\n🇳🇴 Norway vs 🇸🇳 Senegal\\nVenue: Met
- Life Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKick-
- off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group I
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-44@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260622T200000
-DTEND;TZID=America/Los_Angeles:20260622T220000
-SUMMARY:WC26 #44 — Jordan vs Algeria (Group J)
-LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
-DESCRIPTION:Match 44 — Group J\\n🇯🇴 Jordan vs 🇩🇿 Algeria\\nVenue: Lev
- i's Stadium (San Francisco Bay Stadium)\, Santa Clara\, CA\\nKick-off: lo
- cal time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group J
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-45@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260623T120000
-DTEND;TZID=America/Chicago:20260623T140000
-SUMMARY:WC26 #45 — Portugal vs Uzbekistan (Group K)
-LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 45 — Group K\\n🇵🇹 Portugal vs 🇺🇿 Uzbekistan\\nVenue
- : NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local time at 
- venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group K
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-46@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260623T160000
-DTEND;TZID=America/New_York:20260623T180000
-SUMMARY:WC26 #46 — England vs Ghana (Group L)
-LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 46 — Group L\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana\\nV
- enue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: loc
- al time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group L
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-47@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Toronto:20260623T190000
-DTEND;TZID=America/Toronto:20260623T210000
-SUMMARY:WC26 #47 — Panama vs Croatia (Group L)
-LOCATION:BMO Field\, Toronto\, Canada
-DESCRIPTION:Match 47 — Group L\\n🇵🇦 Panama vs 🇭🇷 Croatia\\nVenue: BMO
-  Field (Toronto Stadium)\, Toronto\\nKick-off: local time at venue is bui
- lt into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group L
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-48@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260623T200000
-DTEND;TZID=America/Mexico_City:20260623T220000
-SUMMARY:WC26 #48 — Colombia vs DR Congo (Group K)
-LOCATION:Estadio Akron\, Zapopan\, Mexico
-DESCRIPTION:Match 48 — Group K\\n🇨🇴 Colombia vs 🇨🇩 DR Congo\\nVenue: 
- Estadio Akron (Guadalajara Stadium)\, Zapopan\\nKick-off: local time at v
- enue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group K
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-49@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Vancouver:20260624T120000
-DTEND;TZID=America/Vancouver:20260624T140000
-SUMMARY:WC26 #49 — Canada vs Switzerland (Group B)
-LOCATION:BC Place\, Vancouver\, Canada
-DESCRIPTION:Match 49 — Group B\\n🇨🇦 Canada vs 🇨🇭 Switzerland\\nVenue:
-  BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time at venue
-  is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group B
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-50@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260624T120000
-DTEND;TZID=America/Los_Angeles:20260624T140000
-SUMMARY:WC26 #50 — Qatar vs Bosnia and Herzegovina (Group B)
-LOCATION:Lumen Field\, Seattle\, WA\, USA
-DESCRIPTION:Match 50 — Group B\\n🇶🇦 Qatar vs 🇧🇦 Bosnia and Herzegovin
- a\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local
-  time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group B
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-51@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260624T180000
-DTEND;TZID=America/New_York:20260624T200000
-SUMMARY:WC26 #51 — Scotland vs Brazil (Group C)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 51 — Group C\\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil\\
- nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-off
- : local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group C
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-52@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260624T180000
-DTEND;TZID=America/New_York:20260624T200000
-SUMMARY:WC26 #52 — Morocco vs Haiti (Group C)
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 52 — Group C\\n🇲🇦 Morocco vs 🇭🇹 Haiti\\nVenue: Merc
- edes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off: local time
-  at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group C
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-53@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260624T190000
-DTEND;TZID=America/Mexico_City:20260624T210000
-SUMMARY:WC26 #53 — Mexico vs Czechia (Group A)
-LOCATION:Estadio Azteca\, Mexico City\, Mexico
-DESCRIPTION:Match 53 — Group A\\n🇲🇽 Mexico vs 🇨🇿 Czechia\\nVenue: Est
- adio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off: local time at
-  venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-54@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Monterrey:20260624T190000
-DTEND;TZID=America/Monterrey:20260624T210000
-SUMMARY:WC26 #54 — South Korea vs South Africa (Group A)
-LOCATION:Estadio BBVA\, Guadalupe\, Mexico
-DESCRIPTION:Match 54 — Group A\\n🇰🇷 South Korea vs 🇿🇦 South Africa\\n
- Venue: Estadio BBVA (Monterrey Stadium)\, Guadalupe\\nKick-off: local tim
- e at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Group A
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-55@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260625T160000
-DTEND;TZID=America/New_York:20260625T180000
-SUMMARY:WC26 #55 — Ecuador vs Germany (Group E)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 55 — Group E\\n🇪🇨 Ecuador vs 🇩🇪 Germany\\nVenue: Me
- tLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKick
+DESCRIPTION:Match 9 — Group E\\n🇩🇪 Germany vs 🇨🇼 Curaçao\\nScore: 1–0
+  (full-time)\\nVenue: NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick
  -off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group E
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-match-56@worldcup-calendar
-DTSTAMP:20260514T210032Z
+UID:wc2026-match-10@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260614T120000
+DTEND;TZID=America/Chicago:20260614T140000
+SUMMARY:WC26 #10 — Netherlands vs Japan 7–1 (Group F)
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+DESCRIPTION:Match 10 — Group F\\n🇳🇱 Netherlands vs 🇯🇵 Japan\\nScore: 
+ 7–1 (full-time)\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\
+ nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group F
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-11@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260614T160000
+DTEND;TZID=America/New_York:20260614T180000
+SUMMARY:WC26 #11 — Ivory Coast vs Ecuador 2–2 (Group E)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+DESCRIPTION:Match 11 — Group E\\n🇨🇮 Ivory Coast vs 🇪🇨 Ecuador\\nScore
+ : 2–2 (full-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)
+ \, Philadelphia\, PA\\nKick-off: local time at venue is built into this c
+ alendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group E
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-12@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Monterrey:20260614T200000
+DTEND;TZID=America/Monterrey:20260614T220000
+SUMMARY:WC26 #12 — Tunisia vs Sweden 5–1 (Group F)
+LOCATION:Estadio BBVA\, Guadalupe\, Mexico
+DESCRIPTION:Match 12 — Group F\\n🇹🇳 Tunisia vs 🇸🇪 Sweden\\nScore: 5–1
+  (full-time)\\nVenue: Estadio BBVA (Monterrey Stadium)\, Guadalupe\\nKick
+ -off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group F
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-13@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260615T180000
+DTEND;TZID=America/New_York:20260615T200000
+SUMMARY:WC26 #13 — Spain vs Cape Verde 1–1 (Group H)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 13 — Group H\\n🇪🇸 Spain vs 🇨🇻 Cape Verde\\nScore: 1
+ –1 (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta
+ \, GA\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group H
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-14@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260615T090000
+DTEND;TZID=America/Los_Angeles:20260615T110000
+SUMMARY:WC26 #14 — Belgium vs Egypt 0–0 (Group G)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 14 — Group G\\n🇧🇪 Belgium vs 🇪🇬 Egypt\\nScore: 0–0 
+ (full-time)\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-
+ off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group G
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-15@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260615T210000
+DTEND;TZID=America/New_York:20260615T230000
+SUMMARY:WC26 #15 — Saudi Arabia vs Uruguay 2–2 (Group H)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+DESCRIPTION:Match 15 — Group H\\n🇸🇦 Saudi Arabia vs 🇺🇾 Uruguay\\nScor
+ e: 2–2 (full-time)\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gar
+ dens\, FL\\nKick-off: local time at venue is built into this calendar ent
+ ry.
+CATEGORIES:FIFA World Cup 2026\,Group H
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-16@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260615T120000
+DTEND;TZID=America/Los_Angeles:20260615T140000
+SUMMARY:WC26 #16 — Iran vs New Zealand 1–1 (Group G)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 16 — Group G\\n🇮🇷 Iran vs 🇳🇿 New Zealand\\nScore: 1
+ –1 (full-time)\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, 
+ CA\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group G
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-17@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260616T150000
+DTEND;TZID=America/New_York:20260616T170000
+SUMMARY:WC26 #17 — France vs Senegal 3–1 (Group I)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+DESCRIPTION:Match 17 — Group I\\n🇫🇷 France vs 🇸🇳 Senegal\\nScore: 3–1
+  (full-time)\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, Eas
+ t Rutherford\, NJ\\nKick-off: local time at venue is built into this cale
+ ndar entry.
+CATEGORIES:FIFA World Cup 2026\,Group I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-18@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260616T180000
+DTEND;TZID=America/New_York:20260616T200000
+SUMMARY:WC26 #18 — Norway vs Iraq 1–4 (Group I)
+LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
+DESCRIPTION:Match 18 — Group I\\n🇳🇴 Norway vs 🇮🇶 Iraq\\nScore: 1–4 (f
+ ull-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\n
+ Kick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-19@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260616T200000
+DTEND;TZID=America/Chicago:20260616T220000
+SUMMARY:WC26 #19 — Argentina vs Algeria 3–0 (Group J)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
+DESCRIPTION:Match 19 — Group J\\n🇦🇷 Argentina vs 🇩🇿 Algeria\\nScore: 
+ 3–0 (full-time)\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas
+  City\, MO\\nKick-off: local time at venue is built into this calendar en
+ try.
+CATEGORIES:FIFA World Cup 2026\,Group J
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-20@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260616T210000
+DTEND;TZID=America/Los_Angeles:20260616T230000
+SUMMARY:WC26 #20 — Austria vs Jordan 3–1 (Group J)
+LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
+DESCRIPTION:Match 20 — Group J\\n🇦🇹 Austria vs 🇯🇴 Jordan\\nScore: 3–1
+  (full-time)\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Santa 
+ Clara\, CA\\nKick-off: local time at venue is built into this calendar en
+ try.
+CATEGORIES:FIFA World Cup 2026\,Group J
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-21@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260617T180000
+DTEND;TZID=America/Chicago:20260617T200000
+SUMMARY:WC26 #21 — Portugal vs DR Congo 1–0 (Group K)
+LOCATION:NRG Stadium\, Houston\, TX\, USA
+DESCRIPTION:Match 21 — Group K\\n🇵🇹 Portugal vs 🇨🇩 DR Congo\\nScore: 
+ 1–0 (full-time)\\nVenue: NRG Stadium (Houston Stadium)\, Houston\, TX\\nK
+ ick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group K
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-22@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260617T150000
+DTEND;TZID=America/Chicago:20260617T170000
+SUMMARY:WC26 #22 — England vs Croatia 4–2 (Group L)
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+DESCRIPTION:Match 22 — Group L\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇭🇷 Croatia\\
+ nScore: 4–2 (full-time)\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlingto
+ n\, TX\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group L
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-23@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Toronto:20260617T130000
+DTEND;TZID=America/Toronto:20260617T150000
+SUMMARY:WC26 #23 — Ghana vs Panama 1–1 (Group L)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Match 23 — Group L\\n🇬🇭 Ghana vs 🇵🇦 Panama\\nScore: 1–1 (
+ full-time)\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: loc
+ al time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group L
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-24@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Mexico_City:20260617T200000
+DTEND;TZID=America/Mexico_City:20260617T220000
+SUMMARY:WC26 #24 — Uzbekistan vs Colombia 1–3 (Group K)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Match 24 — Group K\\n🇺🇿 Uzbekistan vs 🇨🇴 Colombia\\nScore
+ : 1–3 (full-time)\\nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico 
+ City\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group K
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-25@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260618T120000
+DTEND;TZID=America/New_York:20260618T140000
+SUMMARY:WC26 #25 — South Africa vs Czechia 1–1 (Group A)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 25 — Group A\\n🇿🇦 South Africa vs 🇨🇿 Czechia\\nScor
+ e: 1–1 (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atl
+ anta\, GA\\nKick-off: local time at venue is built into this calendar ent
+ ry.
+CATEGORIES:FIFA World Cup 2026\,Group A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-26@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260618T120000
+DTEND;TZID=America/Los_Angeles:20260618T140000
+SUMMARY:WC26 #26 — Switzerland vs Bosnia and Herzegovina 4–1 (Group B)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 26 — Group B\\n🇨🇭 Switzerland vs 🇧🇦 Bosnia and Herz
+ egovina\\nScore: 4–1 (full-time)\\nVenue: SoFi Stadium (Los Angeles Stadi
+ um)\, Inglewood\, CA\\nKick-off: local time at venue is built into this c
+ alendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-27@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Vancouver:20260618T150000
+DTEND;TZID=America/Vancouver:20260618T170000
+SUMMARY:WC26 #27 — Canada vs Qatar 6–0 (Group B)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 27 — Group B\\n🇨🇦 Canada vs 🇶🇦 Qatar\\nScore: 6–0 (
+ full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: 
+ local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-28@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Mexico_City:20260618T190000
+DTEND;TZID=America/Mexico_City:20260618T210000
+SUMMARY:WC26 #28 — Mexico vs South Korea 1–0 (Group A)
+LOCATION:Estadio Akron\, Zapopan\, Mexico
+DESCRIPTION:Match 28 — Group A\\n🇲🇽 Mexico vs 🇰🇷 South Korea\\nScore:
+  1–0 (full-time)\\nVenue: Estadio Akron (Guadalajara Stadium)\, Zapopan\\
+ nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-29@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260619T173000
+DTEND;TZID=America/Los_Angeles:20260619T193000
+SUMMARY:WC26 #29 — USA vs Australia 3–0 (Group D)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 29 — Group D\\n🇺🇸 USA vs 🇦🇺 Australia\\nScore: 3–0 
+ (full-time)\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-
+ off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group D
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-30@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260619T180000
+DTEND;TZID=America/New_York:20260619T200000
+SUMMARY:WC26 #30 — Scotland vs Morocco 0–1 (Group C)
+LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
+DESCRIPTION:Match 30 — Group C\\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇲🇦 Morocco\
+ \nScore: 0–1 (full-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Fox
+ borough\, MA\\nKick-off: local time at venue is built into this calendar 
+ entry.
+CATEGORIES:FIFA World Cup 2026\,Group C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-31@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260619T230000
+DTEND;TZID=America/New_York:20260620T010000
+SUMMARY:WC26 #31 — Brazil vs Haiti 0–1 (Group C)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+DESCRIPTION:Match 31 — Group C\\n🇧🇷 Brazil vs 🇭🇹 Haiti\\nScore: 0–1 (
+ full-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Phil
+ adelphia\, PA\\nKick-off: local time at venue is built into this calendar
+  entry.
+CATEGORIES:FIFA World Cup 2026\,Group C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-32@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260619T120000
+DTEND;TZID=America/Los_Angeles:20260619T140000
+SUMMARY:WC26 #32 — Paraguay vs Türkiye 2–0 (Group D)
+LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
+DESCRIPTION:Match 32 — Group D\\n🇵🇾 Paraguay vs 🇹🇷 Türkiye\\nScore: 2
+ –0 (full-time)\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Sant
+ a Clara\, CA\\nKick-off: local time at venue is built into this calendar 
+ entry.
+CATEGORIES:FIFA World Cup 2026\,Group D
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-33@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260620T150000
+DTEND;TZID=America/Chicago:20260620T170000
+SUMMARY:WC26 #33 — Netherlands vs Sweden 2–1 (Group F)
+LOCATION:NRG Stadium\, Houston\, TX\, USA
+DESCRIPTION:Match 33 — Group F\\n🇳🇱 Netherlands vs 🇸🇪 Sweden\\nScore:
+  2–1 (full-time)\\nVenue: NRG Stadium (Houston Stadium)\, Houston\, TX\\n
+ Kick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group F
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-34@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Toronto:20260620T200000
+DTEND;TZID=America/Toronto:20260620T220000
+SUMMARY:WC26 #34 — Germany vs Ivory Coast 0–0 (Group E)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Match 34 — Group E\\n🇩🇪 Germany vs 🇨🇮 Ivory Coast\\nScore
+ : 0–0 (full-time)\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-o
+ ff: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group E
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-35@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260620T120000
+DTEND;TZID=America/Chicago:20260620T140000
+SUMMARY:WC26 #35 — Ecuador vs Curaçao 5–1 (Group E)
+LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
+DESCRIPTION:Match 35 — Group E\\n🇪🇨 Ecuador vs 🇨🇼 Curaçao\\nScore: 5–
+ 1 (full-time)\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas C
+ ity\, MO\\nKick-off: local time at venue is built into this calendar entr
+ y.
+CATEGORIES:FIFA World Cup 2026\,Group E
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-36@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Monterrey:20260620T220000
+DTEND;TZID=America/Monterrey:20260621T000000
+SUMMARY:WC26 #36 — Tunisia vs Japan 0–4 (Group F)
+LOCATION:Estadio BBVA\, Guadalupe\, Mexico
+DESCRIPTION:Match 36 — Group F\\n🇹🇳 Tunisia vs 🇯🇵 Japan\\nScore: 0–4 
+ (full-time)\\nVenue: Estadio BBVA (Monterrey Stadium)\, Guadalupe\\nKick-
+ off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group F
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-37@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260621T180000
+DTEND;TZID=America/New_York:20260621T200000
+SUMMARY:WC26 #37 — Spain vs Saudi Arabia 2–2 (Group H)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 37 — Group H\\n🇪🇸 Spain vs 🇸🇦 Saudi Arabia\\nScore:
+  2–2 (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlan
+ ta\, GA\\nKick-off: local time at venue is built into this calendar entry
+ .
+CATEGORIES:FIFA World Cup 2026\,Group H
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-38@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260621T090000
+DTEND;TZID=America/Los_Angeles:20260621T110000
+SUMMARY:WC26 #38 — Belgium vs Iran 4–0 (Group G)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 38 — Group G\\n🇧🇪 Belgium vs 🇮🇷 Iran\\nScore: 4–0 (
+ full-time)\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\
+ nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group G
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-39@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260621T150000
+DTEND;TZID=America/New_York:20260621T170000
+SUMMARY:WC26 #39 — Uruguay vs Cape Verde 0–0 (Group H)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+DESCRIPTION:Match 39 — Group H\\n🇺🇾 Uruguay vs 🇨🇻 Cape Verde\\nScore:
+  0–0 (full-time)\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Garde
+ ns\, FL\\nKick-off: local time at venue is built into this calendar entry
+ .
+CATEGORIES:FIFA World Cup 2026\,Group H
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-40@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Vancouver:20260621T180000
+DTEND;TZID=America/Vancouver:20260621T200000
+SUMMARY:WC26 #40 — New Zealand vs Egypt 1–3 (Group G)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 40 — Group G\\n🇳🇿 New Zealand vs 🇪🇬 Egypt\\nScore: 
+ 1–3 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-
+ off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group G
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-41@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260622T190000
+DTEND;TZID=America/Chicago:20260622T210000
+SUMMARY:WC26 #41 — Argentina vs Austria 3–2 (Group J)
+LOCATION:AT&T Stadium\, Arlington\, TX\, USA
+DESCRIPTION:Match 41 — Group J\\n🇦🇷 Argentina vs 🇦🇹 Austria\\nScore: 
+ 3–2 (full-time)\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\
+ nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group J
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-42@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260622T170000
+DTEND;TZID=America/New_York:20260622T190000
+SUMMARY:WC26 #42 — France vs Iraq 3–0 (Group I)
+LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
+DESCRIPTION:Match 42 — Group I\\n🇫🇷 France vs 🇮🇶 Iraq\\nScore: 3–0 (f
+ ull-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Phila
+ delphia\, PA\\nKick-off: local time at venue is built into this calendar 
+ entry.
+CATEGORIES:FIFA World Cup 2026\,Group I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-43@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260622T130000
+DTEND;TZID=America/New_York:20260622T150000
+SUMMARY:WC26 #43 — Norway vs Senegal 2–0 (Group I)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+DESCRIPTION:Match 43 — Group I\\n🇳🇴 Norway vs 🇸🇳 Senegal\\nScore: 2–0
+  (full-time)\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, Eas
+ t Rutherford\, NJ\\nKick-off: local time at venue is built into this cale
+ ndar entry.
+CATEGORIES:FIFA World Cup 2026\,Group I
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-44@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260622T200000
+DTEND;TZID=America/Los_Angeles:20260622T220000
+SUMMARY:WC26 #44 — Jordan vs Algeria 1–2 (Group J)
+LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
+DESCRIPTION:Match 44 — Group J\\n🇯🇴 Jordan vs 🇩🇿 Algeria\\nScore: 1–2
+  (full-time)\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Santa 
+ Clara\, CA\\nKick-off: local time at venue is built into this calendar en
+ try.
+CATEGORIES:FIFA World Cup 2026\,Group J
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-45@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260623T150000
+DTEND;TZID=America/Chicago:20260623T170000
+SUMMARY:WC26 #45 — Portugal vs Uzbekistan 0–0 (Group K)
+LOCATION:NRG Stadium\, Houston\, TX\, USA
+DESCRIPTION:Match 45 — Group K\\n🇵🇹 Portugal vs 🇺🇿 Uzbekistan\\nScore
+ : 0–0 (full-time)\\nVenue: NRG Stadium (Houston Stadium)\, Houston\, TX\\
+ nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group K
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-46@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260623T190000
+DTEND;TZID=America/New_York:20260623T210000
+SUMMARY:WC26 #46 — England vs Ghana 0–1 (Group L)
+LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
+DESCRIPTION:Match 46 — Group L\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇬🇭 Ghana\\nS
+ core: 0–1 (full-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Foxbor
+ ough\, MA\\nKick-off: local time at venue is built into this calendar ent
+ ry.
+CATEGORIES:FIFA World Cup 2026\,Group L
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-47@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Toronto:20260623T130000
+DTEND;TZID=America/Toronto:20260623T150000
+SUMMARY:WC26 #47 — Panama vs Croatia 5–0 (Group L)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Match 47 — Group L\\n🇵🇦 Panama vs 🇭🇷 Croatia\\nScore: 5–0
+  (full-time)\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: l
+ ocal time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group L
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-48@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Mexico_City:20260623T200000
+DTEND;TZID=America/Mexico_City:20260623T220000
+SUMMARY:WC26 #48 — Colombia vs DR Congo 1–0 (Group K)
+LOCATION:Estadio Akron\, Zapopan\, Mexico
+DESCRIPTION:Match 48 — Group K\\n🇨🇴 Colombia vs 🇨🇩 DR Congo\\nScore: 
+ 1–0 (full-time)\\nVenue: Estadio Akron (Guadalajara Stadium)\, Zapopan\\n
+ Kick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group K
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-49@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Vancouver:20260624T150000
+DTEND;TZID=America/Vancouver:20260624T170000
+SUMMARY:WC26 #49 — Canada vs Switzerland 0–3 (Group B)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 49 — Group B\\n🇨🇦 Canada vs 🇨🇭 Switzerland\\nScore:
+  0–3 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick
+ -off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-50@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260624T150000
+DTEND;TZID=America/Los_Angeles:20260624T170000
+SUMMARY:WC26 #50 — Qatar vs Bosnia and Herzegovina 4–2 (Group B)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 50 — Group B\\n🇶🇦 Qatar vs 🇧🇦 Bosnia and Herzegovin
+ a\\nScore: 4–2 (full-time)\\nVenue: Lumen Field (Seattle Stadium)\, Seatt
+ le\, WA\\nKick-off: local time at venue is built into this calendar entry
+ .
+CATEGORIES:FIFA World Cup 2026\,Group B
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-51@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260624T150000
+DTEND;TZID=America/New_York:20260624T170000
+SUMMARY:WC26 #51 — Scotland vs Brazil 2–1 (Group C)
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
+DESCRIPTION:Match 51 — Group C\\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland vs 🇧🇷 Brazil\\
+ nScore: 2–1 (full-time)\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miam
+ i Gardens\, FL\\nKick-off: local time at venue is built into this calenda
+ r entry.
+CATEGORIES:FIFA World Cup 2026\,Group C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-52@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260624T150000
+DTEND;TZID=America/New_York:20260624T170000
+SUMMARY:WC26 #52 — Morocco vs Haiti 3–1 (Group C)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 52 — Group C\\n🇲🇦 Morocco vs 🇭🇹 Haiti\\nScore: 3–1 
+ (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, 
+ GA\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group C
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-53@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Mexico_City:20260624T190000
+DTEND;TZID=America/Mexico_City:20260624T210000
+SUMMARY:WC26 #53 — Mexico vs Czechia 0–3 (Group A)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Match 53 — Group A\\n🇲🇽 Mexico vs 🇨🇿 Czechia\\nScore: 0–3
+  (full-time)\\nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico City\
+ \nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-54@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Monterrey:20260624T190000
+DTEND;TZID=America/Monterrey:20260624T210000
+SUMMARY:WC26 #54 — South Korea vs South Africa 1–0 (Group A)
+LOCATION:Estadio BBVA\, Guadalupe\, Mexico
+DESCRIPTION:Match 54 — Group A\\n🇰🇷 South Korea vs 🇿🇦 South Africa\\n
+ Score: 1–0 (full-time)\\nVenue: Estadio BBVA (Monterrey Stadium)\, Guadal
+ upe\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Group A
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-55@worldcup-calendar
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260625T160000
 DTEND;TZID=America/New_York:20260625T180000
-SUMMARY:WC26 #56 — Curaçao vs Ivory Coast (Group E)
+SUMMARY:WC26 #55 — Ecuador vs Germany 0–2 (Group E)
+LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
+DESCRIPTION:Match 55 — Group E\\n🇪🇨 Ecuador vs 🇩🇪 Germany\\nScore: 0–
+ 2 (full-time)\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, Ea
+ st Rutherford\, NJ\\nKick-off: local time at venue is built into this cal
+ endar entry.
+CATEGORIES:FIFA World Cup 2026\,Group E
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-56@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260625T160000
+DTEND;TZID=America/New_York:20260625T180000
+SUMMARY:WC26 #56 — Curaçao vs Ivory Coast 2–1 (Group E)
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
-DESCRIPTION:Match 56 — Group E\\n🇨🇼 Curaçao vs 🇨🇮 Ivory Coast\\nVenue
- : Lincoln Financial Field (Philadelphia Stadium)\, Philadelphia\, PA\\nKi
- ck-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 56 — Group E\\n🇨🇼 Curaçao vs 🇨🇮 Ivory Coast\\nScore
+ : 2–1 (full-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)
+ \, Philadelphia\, PA\\nKick-off: local time at venue is built into this c
+ alendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group E
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-57@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260625T180000
 DTEND;TZID=America/Chicago:20260625T200000
-SUMMARY:WC26 #57 — Tunisia vs Netherlands (Group F)
+SUMMARY:WC26 #57 — Tunisia vs Netherlands 1–1 (Group F)
 LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-DESCRIPTION:Match 57 — Group F\\n🇹🇳 Tunisia vs 🇳🇱 Netherlands\\nVenue
- : Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nKick-off: 
- local time at venue is built into this calendar entry.
+DESCRIPTION:Match 57 — Group F\\n🇹🇳 Tunisia vs 🇳🇱 Netherlands\\nScore
+ : 1–1 (full-time)\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kans
+ as City\, MO\\nKick-off: local time at venue is built into this calendar 
+ entry.
 CATEGORIES:FIFA World Cup 2026\,Group F
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-58@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260625T180000
 DTEND;TZID=America/Chicago:20260625T200000
-SUMMARY:WC26 #58 — Japan vs Sweden (Group F)
+SUMMARY:WC26 #58 — Japan vs Sweden 1–3 (Group F)
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 58 — Group F\\n🇯🇵 Japan vs 🇸🇪 Sweden\\nVenue: AT&T 
- Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local time at venue
-  is built into this calendar entry.
+DESCRIPTION:Match 58 — Group F\\n🇯🇵 Japan vs 🇸🇪 Sweden\\nScore: 1–3 (
+ full-time)\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick
+ -off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group F
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-59@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260625T190000
 DTEND;TZID=America/Los_Angeles:20260625T210000
-SUMMARY:WC26 #59 — USA vs Türkiye (Group D)
+SUMMARY:WC26 #59 — USA vs Türkiye 3–2 (Group D)
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 59 — Group D\\n🇺🇸 USA vs 🇹🇷 Türkiye\\nVenue: SoFi S
- tadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: local time at v
- enue is built into this calendar entry.
+DESCRIPTION:Match 59 — Group D\\n🇺🇸 USA vs 🇹🇷 Türkiye\\nScore: 3–2 (f
+ ull-time)\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\n
+ Kick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-60@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260625T190000
 DTEND;TZID=America/Los_Angeles:20260625T210000
-SUMMARY:WC26 #60 — Paraguay vs Australia (Group D)
+SUMMARY:WC26 #60 — Paraguay vs Australia 0–0 (Group D)
 LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
-DESCRIPTION:Match 60 — Group D\\n🇵🇾 Paraguay vs 🇦🇺 Australia\\nVenue:
-  Levi's Stadium (San Francisco Bay Stadium)\, Santa Clara\, CA\\nKick-off
- : local time at venue is built into this calendar entry.
+DESCRIPTION:Match 60 — Group D\\n🇵🇾 Paraguay vs 🇦🇺 Australia\\nScore:
+  0–0 (full-time)\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Sa
+ nta Clara\, CA\\nKick-off: local time at venue is built into this calenda
+ r entry.
 CATEGORIES:FIFA World Cup 2026\,Group D
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-61@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T170000
-SUMMARY:WC26 #61 — Norway vs France (Group I)
+SUMMARY:WC26 #61 — Norway vs France 1–4 (Group I)
 LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 61 — Group I\\n🇳🇴 Norway vs 🇫🇷 France\\nVenue: Gill
- ette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: local time at
-  venue is built into this calendar entry.
+DESCRIPTION:Match 61 — Group I\\n🇳🇴 Norway vs 🇫🇷 France\\nScore: 1–4 
+ (full-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\
+ \nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group I
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-62@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Toronto:20260626T150000
 DTEND;TZID=America/Toronto:20260626T170000
-SUMMARY:WC26 #62 — Senegal vs Iraq (Group I)
+SUMMARY:WC26 #62 — Senegal vs Iraq 5–0 (Group I)
 LOCATION:BMO Field\, Toronto\, Canada
-DESCRIPTION:Match 62 — Group I\\n🇸🇳 Senegal vs 🇮🇶 Iraq\\nVenue: BMO F
- ield (Toronto Stadium)\, Toronto\\nKick-off: local time at venue is built
-  into this calendar entry.
+DESCRIPTION:Match 62 — Group I\\n🇸🇳 Senegal vs 🇮🇶 Iraq\\nScore: 5–0 (
+ full-time)\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: loc
+ al time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group I
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-63@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260626T180000
-DTEND;TZID=America/Mexico_City:20260626T200000
-SUMMARY:WC26 #63 — Uruguay vs Spain (Group H)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Mexico_City:20260626T210000
+DTEND;TZID=America/Mexico_City:20260626T230000
+SUMMARY:WC26 #63 — Uruguay vs Spain 1–1 (Group H)
 LOCATION:Estadio Akron\, Zapopan\, Mexico
-DESCRIPTION:Match 63 — Group H\\n🇺🇾 Uruguay vs 🇪🇸 Spain\\nVenue: Esta
- dio Akron (Guadalajara Stadium)\, Zapopan\\nKick-off: local time at venue
-  is built into this calendar entry.
+DESCRIPTION:Match 63 — Group H\\n🇺🇾 Uruguay vs 🇪🇸 Spain\\nScore: 1–1 
+ (full-time)\\nVenue: Estadio Akron (Guadalajara Stadium)\, Zapopan\\nKick
+ -off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group H
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-64@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260626T190000
-DTEND;TZID=America/Chicago:20260626T210000
-SUMMARY:WC26 #64 — Cape Verde vs Saudi Arabia (Group H)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260626T220000
+DTEND;TZID=America/Chicago:20260627T000000
+SUMMARY:WC26 #64 — Cape Verde vs Saudi Arabia 1–5 (Group H)
 LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 64 — Group H\\n🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia\\nV
- enue: NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local time
-  at venue is built into this calendar entry.
+DESCRIPTION:Match 64 — Group H\\n🇨🇻 Cape Verde vs 🇸🇦 Saudi Arabia\\nS
+ core: 1–5 (full-time)\\nVenue: NRG Stadium (Houston Stadium)\, Houston\, 
+ TX\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group H
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-65@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Vancouver:20260626T200000
-DTEND;TZID=America/Vancouver:20260626T220000
-SUMMARY:WC26 #65 — New Zealand vs Belgium (Group G)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Vancouver:20260626T170000
+DTEND;TZID=America/Vancouver:20260626T190000
+SUMMARY:WC26 #65 — New Zealand vs Belgium 0–0 (Group G)
 LOCATION:BC Place\, Vancouver\, Canada
-DESCRIPTION:Match 65 — Group G\\n🇳🇿 New Zealand vs 🇧🇪 Belgium\\nVenue
- : BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time at venu
- e is built into this calendar entry.
+DESCRIPTION:Match 65 — Group G\\n🇳🇿 New Zealand vs 🇧🇪 Belgium\\nScore
+ : 0–0 (full-time)\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKic
+ k-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group G
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-66@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260626T200000
-DTEND;TZID=America/Los_Angeles:20260626T220000
-SUMMARY:WC26 #66 — Egypt vs Iran (Group G)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260626T170000
+DTEND;TZID=America/Los_Angeles:20260626T190000
+SUMMARY:WC26 #66 — Egypt vs Iran 0–1 (Group G)
 LOCATION:Lumen Field\, Seattle\, WA\, USA
-DESCRIPTION:Match 66 — Group G\\n🇪🇬 Egypt vs 🇮🇷 Iran\\nVenue: Lumen F
- ield (Seattle Stadium)\, Seattle\, WA\\nKick-off: local time at venue is 
- built into this calendar entry.
+DESCRIPTION:Match 66 — Group G\\n🇪🇬 Egypt vs 🇮🇷 Iran\\nScore: 0–1 (fu
+ ll-time)\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off
+ : local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group G
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-67@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260627T170000
 DTEND;TZID=America/New_York:20260627T190000
-SUMMARY:WC26 #67 — Panama vs England (Group L)
+SUMMARY:WC26 #67 — Panama vs England 0–2 (Group L)
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
 DESCRIPTION:Match 67 — Group L\\n🇵🇦 Panama vs 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England\\n
- Venue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherford\, 
- NJ\\nKick-off: local time at venue is built into this calendar entry.
+ Score: 0–2 (full-time)\\nVenue: MetLife Stadium (New York New Jersey Stad
+ ium)\, East Rutherford\, NJ\\nKick-off: local time at venue is built into
+  this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-68@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260627T170000
 DTEND;TZID=America/New_York:20260627T190000
-SUMMARY:WC26 #68 — Croatia vs Ghana (Group L)
+SUMMARY:WC26 #68 — Croatia vs Ghana 2–1 (Group L)
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
-DESCRIPTION:Match 68 — Group L\\n🇭🇷 Croatia vs 🇬🇭 Ghana\\nVenue: Linc
- oln Financial Field (Philadelphia Stadium)\, Philadelphia\, PA\\nKick-off
- : local time at venue is built into this calendar entry.
+DESCRIPTION:Match 68 — Group L\\n🇭🇷 Croatia vs 🇬🇭 Ghana\\nScore: 2–1 
+ (full-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Phi
+ ladelphia\, PA\\nKick-off: local time at venue is built into this calenda
+ r entry.
 CATEGORIES:FIFA World Cup 2026\,Group L
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-69@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260627T193000
-DTEND;TZID=America/New_York:20260627T213000
-SUMMARY:WC26 #69 — Colombia vs Portugal (Group K)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260627T220000
+DTEND;TZID=America/New_York:20260628T000000
+SUMMARY:WC26 #69 — Colombia vs Portugal 3–3 (Group K)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 69 — Group K\\n🇨🇴 Colombia vs 🇵🇹 Portugal\\nVenue: 
- Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-off: local 
- time at venue is built into this calendar entry.
+DESCRIPTION:Match 69 — Group K\\n🇨🇴 Colombia vs 🇵🇹 Portugal\\nScore: 
+ 3–3 (full-time)\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Garden
+ s\, FL\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group K
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-70@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260627T193000
-DTEND;TZID=America/New_York:20260627T213000
-SUMMARY:WC26 #70 — Uzbekistan vs DR Congo (Group K)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260627T220000
+DTEND;TZID=America/New_York:20260628T000000
+SUMMARY:WC26 #70 — Uzbekistan vs DR Congo 1–3 (Group K)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 70 — Group K\\n🇺🇿 Uzbekistan vs 🇨🇩 DR Congo\\nVenue
- : Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off: loca
- l time at venue is built into this calendar entry.
+DESCRIPTION:Match 70 — Group K\\n🇺🇿 Uzbekistan vs 🇨🇩 DR Congo\\nScore
+ : 1–3 (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atla
+ nta\, GA\\nKick-off: local time at venue is built into this calendar entr
+ y.
 CATEGORIES:FIFA World Cup 2026\,Group K
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-71@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260627T210000
-DTEND;TZID=America/Chicago:20260627T230000
-SUMMARY:WC26 #71 — Jordan vs Argentina (Group J)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260627T183000
+DTEND;TZID=America/Chicago:20260627T203000
+SUMMARY:WC26 #71 — Jordan vs Argentina 0–0 (Group J)
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 71 — Group J\\n🇯🇴 Jordan vs 🇦🇷 Argentina\\nVenue: A
- T&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local time at v
- enue is built into this calendar entry.
+DESCRIPTION:Match 71 — Group J\\n🇯🇴 Jordan vs 🇦🇷 Argentina\\nScore: 0
+ –0 (full-time)\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\n
+ Kick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group J
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-72@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260627T210000
-DTEND;TZID=America/Chicago:20260627T230000
-SUMMARY:WC26 #72 — Algeria vs Austria (Group J)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Chicago:20260627T183000
+DTEND;TZID=America/Chicago:20260627T203000
+SUMMARY:WC26 #72 — Algeria vs Austria 3–1 (Group J)
 LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-DESCRIPTION:Match 72 — Group J\\n🇩🇿 Algeria vs 🇦🇹 Austria\\nVenue: Ar
- rowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nKick-off: loca
- l time at venue is built into this calendar entry.
+DESCRIPTION:Match 72 — Group J\\n🇩🇿 Algeria vs 🇦🇹 Austria\\nScore: 3–
+ 1 (full-time)\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas C
+ ity\, MO\\nKick-off: local time at venue is built into this calendar entr
+ y.
 CATEGORIES:FIFA World Cup 2026\,Group J
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-73@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260628T120000
 DTEND;TZID=America/Los_Angeles:20260628T140000
-SUMMARY:WC26 #73 — Runner-up Group A vs Runner-up Group B (Round of 32)
+SUMMARY:WC26 #73 — South Africa vs Canada (Round of 32)
 LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 73 — Round of 32\\nRunner-up Group A vs Runner-up Group
-  B\\nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-of
- f: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 73 — Round of 32\\n🇿🇦 South Africa vs 🇨🇦 Canada\\nV
+ enue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: loc
+ al time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-74@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260629T163000
 DTEND;TZID=America/New_York:20260629T183000
-SUMMARY:WC26 #74 — Winner Group E vs 3rd Group A/B/C/D/F (Round of 32)
+SUMMARY:WC26 #74 — Germany vs Paraguay (Round of 32)
 LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 74 — Round of 32\\nWinner Group E vs 3rd Group A/B/C/D/
- F\\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off
- : local time at venue is built into this calendar entry.
+DESCRIPTION:Match 74 — Round of 32\\n🇩🇪 Germany vs 🇵🇾 Paraguay\\nVenu
+ e: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: local 
+ time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-75@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Monterrey:20260629T190000
 DTEND;TZID=America/Monterrey:20260629T210000
-SUMMARY:WC26 #75 — Winner Group F vs Runner-up Group C (Round of 32)
+SUMMARY:WC26 #75 — Netherlands vs Morocco (Round of 32)
 LOCATION:Estadio BBVA\, Guadalupe\, Mexico
-DESCRIPTION:Match 75 — Round of 32\\nWinner Group F vs Runner-up Group C\
- \nVenue: Estadio BBVA (Monterrey Stadium)\, Guadalupe\\nKick-off: local t
- ime at venue is built into this calendar entry.
+DESCRIPTION:Match 75 — Round of 32\\n🇳🇱 Netherlands vs 🇲🇦 Morocco\\nV
+ enue: Estadio BBVA (Monterrey Stadium)\, Guadalupe\\nKick-off: local time
+  at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-76@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260629T120000
 DTEND;TZID=America/Chicago:20260629T140000
-SUMMARY:WC26 #76 — Winner Group C vs Runner-up Group F (Round of 32)
+SUMMARY:WC26 #76 — Brazil vs Japan (Round of 32)
 LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 76 — Round of 32\\nWinner Group C vs Runner-up Group F\
- \nVenue: NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local t
- ime at venue is built into this calendar entry.
+DESCRIPTION:Match 76 — Round of 32\\n🇧🇷 Brazil vs 🇯🇵 Japan\\nVenue: N
+ RG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local time at ven
+ ue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-77@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
-SUMMARY:WC26 #77 — Winner Group I vs 3rd Group C/D/F/G/H (Round of 32)
+SUMMARY:WC26 #77 — France vs Sweden (Round of 32)
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 77 — Round of 32\\nWinner Group I vs 3rd Group C/D/F/G/
- H\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherfor
- d\, NJ\\nKick-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 77 — Round of 32\\n🇫🇷 France vs 🇸🇪 Sweden\\nVenue: 
+ MetLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKi
+ ck-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-78@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260630T120000
 DTEND;TZID=America/Chicago:20260630T140000
-SUMMARY:WC26 #78 — Runner-up Group E vs Runner-up Group I (Round of 32)
+SUMMARY:WC26 #78 — Ivory Coast vs Norway (Round of 32)
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 78 — Round of 32\\nRunner-up Group E vs Runner-up Group
-  I\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: lo
- cal time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-79@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260630T190000
-DTEND;TZID=America/Mexico_City:20260630T210000
-SUMMARY:WC26 #79 — Winner Group A vs 3rd Group C/E/F/H/I (Round of 32)
-LOCATION:Estadio Azteca\, Mexico City\, Mexico
-DESCRIPTION:Match 79 — Round of 32\\nWinner Group A vs 3rd Group C/E/F/H/
- I\\nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off:
-  local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-80@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260701T120000
-DTEND;TZID=America/New_York:20260701T140000
-SUMMARY:WC26 #80 — Winner Group L vs 3rd Group E/H/I/J/K (Round of 32)
-LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 80 — Round of 32\\nWinner Group L vs 3rd Group E/H/I/J/
- K\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-
- off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-81@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260701T170000
-DTEND;TZID=America/Los_Angeles:20260701T190000
-SUMMARY:WC26 #81 — Winner Group D vs 3rd Group B/E/F/I/J (Round of 32)
-LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
-DESCRIPTION:Match 81 — Round of 32\\nWinner Group D vs 3rd Group B/E/F/I/
- J\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Santa Clara\, CA\
- \nKick-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-82@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260701T130000
-DTEND;TZID=America/Los_Angeles:20260701T150000
-SUMMARY:WC26 #82 — Winner Group G vs 3rd Group A/E/H/I/J (Round of 32)
-LOCATION:Lumen Field\, Seattle\, WA\, USA
-DESCRIPTION:Match 82 — Round of 32\\nWinner Group G vs 3rd Group A/E/H/I/
- J\\nVenue: Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local
-  time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-83@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Toronto:20260702T190000
-DTEND;TZID=America/Toronto:20260702T210000
-SUMMARY:WC26 #83 — Runner-up Group K vs Runner-up Group L (Round of 32)
-LOCATION:BMO Field\, Toronto\, Canada
-DESCRIPTION:Match 83 — Round of 32\\nRunner-up Group K vs Runner-up Group
-  L\\nVenue: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: local time 
- at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-84@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Los_Angeles:20260702T120000
-DTEND;TZID=America/Los_Angeles:20260702T140000
-SUMMARY:WC26 #84 — Winner Group H vs Runner-up Group J (Round of 32)
-LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
-DESCRIPTION:Match 84 — Round of 32\\nWinner Group H vs Runner-up Group J\
- \nVenue: SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: 
- local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-85@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Vancouver:20260702T200000
-DTEND;TZID=America/Vancouver:20260702T220000
-SUMMARY:WC26 #85 — Winner Group B vs 3rd Group E/F/G/I/J (Round of 32)
-LOCATION:BC Place\, Vancouver\, Canada
-DESCRIPTION:Match 85 — Round of 32\\nWinner Group B vs 3rd Group E/F/G/I/
- J\\nVenue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local tim
+DESCRIPTION:Match 78 — Round of 32\\n🇨🇮 Ivory Coast vs 🇳🇴 Norway\\nVe
+ nue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local tim
  e at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:wc2026-match-79@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Mexico_City:20260630T190000
+DTEND;TZID=America/Mexico_City:20260630T210000
+SUMMARY:WC26 #79 — Mexico vs Ecuador (Round of 32)
+LOCATION:Estadio Azteca\, Mexico City\, Mexico
+DESCRIPTION:Match 79 — Round of 32\\n🇲🇽 Mexico vs 🇪🇨 Ecuador\\nVenue:
+  Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off: local tim
+ e at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-80@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260701T120000
+DTEND;TZID=America/New_York:20260701T140000
+SUMMARY:WC26 #80 — England vs DR Congo (Round of 32)
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
+DESCRIPTION:Match 80 — Round of 32\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇨🇩 DR Co
+ ngo\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKic
+ k-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-81@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260701T170000
+DTEND;TZID=America/Los_Angeles:20260701T190000
+SUMMARY:WC26 #81 — USA vs Bosnia and Herzegovina (Round of 32)
+LOCATION:Levi's Stadium\, Santa Clara\, CA\, USA
+DESCRIPTION:Match 81 — Round of 32\\n🇺🇸 USA vs 🇧🇦 Bosnia and Herzegov
+ ina\\nVenue: Levi's Stadium (San Francisco Bay Stadium)\, Santa Clara\, C
+ A\\nKick-off: local time at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-82@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260701T130000
+DTEND;TZID=America/Los_Angeles:20260701T150000
+SUMMARY:WC26 #82 — Belgium vs Senegal (Round of 32)
+LOCATION:Lumen Field\, Seattle\, WA\, USA
+DESCRIPTION:Match 82 — Round of 32\\n🇧🇪 Belgium vs 🇸🇳 Senegal\\nVenue
+ : Lumen Field (Seattle Stadium)\, Seattle\, WA\\nKick-off: local time at 
+ venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-83@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Toronto:20260702T190000
+DTEND;TZID=America/Toronto:20260702T210000
+SUMMARY:WC26 #83 — Portugal vs Croatia (Round of 32)
+LOCATION:BMO Field\, Toronto\, Canada
+DESCRIPTION:Match 83 — Round of 32\\n🇵🇹 Portugal vs 🇭🇷 Croatia\\nVenu
+ e: BMO Field (Toronto Stadium)\, Toronto\\nKick-off: local time at venue 
+ is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-84@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Los_Angeles:20260702T120000
+DTEND;TZID=America/Los_Angeles:20260702T140000
+SUMMARY:WC26 #84 — Spain vs Austria (Round of 32)
+LOCATION:SoFi Stadium\, Inglewood\, CA\, USA
+DESCRIPTION:Match 84 — Round of 32\\n🇪🇸 Spain vs 🇦🇹 Austria\\nVenue: 
+ SoFi Stadium (Los Angeles Stadium)\, Inglewood\, CA\\nKick-off: local tim
+ e at venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-85@worldcup-calendar
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/Vancouver:20260702T200000
+DTEND;TZID=America/Vancouver:20260702T220000
+SUMMARY:WC26 #85 — Switzerland vs Algeria (Round of 32)
+LOCATION:BC Place\, Vancouver\, Canada
+DESCRIPTION:Match 85 — Round of 32\\n🇨🇭 Switzerland vs 🇩🇿 Algeria\\nV
+ enue: BC Place (Vancouver Stadium)\, Vancouver\\nKick-off: local time at 
+ venue is built into this calendar entry.
+CATEGORIES:FIFA World Cup 2026\,Round of 32
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:wc2026-match-86@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260703T180000
 DTEND;TZID=America/New_York:20260703T200000
-SUMMARY:WC26 #86 — Winner Group J vs Runner-up Group H (Round of 32)
+SUMMARY:WC26 #86 — Argentina vs Cape Verde (Round of 32)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 86 — Round of 32\\nWinner Group J vs Runner-up Group H\
- \nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-of
- f: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 86 — Round of 32\\n🇦🇷 Argentina vs 🇨🇻 Cape Verde\\n
+ Venue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKick-off:
+  local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-87@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260703T203000
 DTEND;TZID=America/Chicago:20260703T223000
-SUMMARY:WC26 #87 — Winner Group K vs 3rd Group D/E/I/J/L (Round of 32)
+SUMMARY:WC26 #87 — Colombia vs Ghana (Round of 32)
 LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-DESCRIPTION:Match 87 — Round of 32\\nWinner Group K vs 3rd Group D/E/I/J/
- L\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nK
- ick-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 87 — Round of 32\\n🇨🇴 Colombia vs 🇬🇭 Ghana\\nVenue:
+  Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nKick-off: l
+ ocal time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-88@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260703T130000
 DTEND;TZID=America/Chicago:20260703T150000
-SUMMARY:WC26 #88 — Runner-up Group D vs Runner-up Group G (Round of 32)
+SUMMARY:WC26 #88 — Australia vs Egypt (Round of 32)
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 88 — Round of 32\\nRunner-up Group D vs Runner-up Group
-  G\\nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: lo
- cal time at venue is built into this calendar entry.
+DESCRIPTION:Match 88 — Round of 32\\n🇦🇺 Australia vs 🇪🇬 Egypt\\nVenue
+ : AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local time a
+ t venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
@@ -1270,7 +1300,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-90@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260704T120000
 DTEND;TZID=America/Chicago:20260704T140000
 SUMMARY:WC26 #90 — Winner Match 73 vs Winner Match 75 (Round of 16)
@@ -1283,7 +1313,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-91@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260705T160000
 DTEND;TZID=America/New_York:20260705T180000
 SUMMARY:WC26 #91 — Winner Match 76 vs Winner Match 78 (Round of 16)
@@ -1296,7 +1326,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Mexico_City:20260705T180000
 DTEND;TZID=America/Mexico_City:20260705T200000
 SUMMARY:WC26 #92 — Winner Match 79 vs Winner Match 80 (Round of 16)
@@ -1309,7 +1339,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-93@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260706T140000
 DTEND;TZID=America/Chicago:20260706T160000
 SUMMARY:WC26 #93 — Winner Match 83 vs Winner Match 84 (Round of 16)
@@ -1322,7 +1352,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260706T170000
 DTEND;TZID=America/Los_Angeles:20260706T190000
 SUMMARY:WC26 #94 — Winner Match 81 vs Winner Match 82 (Round of 16)
@@ -1335,7 +1365,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260707T120000
 DTEND;TZID=America/New_York:20260707T140000
 SUMMARY:WC26 #95 — Winner Match 86 vs Winner Match 88 (Round of 16)
@@ -1348,7 +1378,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-96@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Vancouver:20260707T130000
 DTEND;TZID=America/Vancouver:20260707T150000
 SUMMARY:WC26 #96 — Winner Match 85 vs Winner Match 87 (Round of 16)
@@ -1361,7 +1391,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
@@ -1374,7 +1404,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Los_Angeles:20260710T120000
 DTEND;TZID=America/Los_Angeles:20260710T140000
 SUMMARY:WC26 #98 — Winner Match 93 vs Winner Match 94 (Quarter-final)
@@ -1387,7 +1417,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260711T170000
 DTEND;TZID=America/New_York:20260711T190000
 SUMMARY:WC26 #99 — Winner Match 91 vs Winner Match 92 (Quarter-final)
@@ -1400,7 +1430,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
 SUMMARY:WC26 #100 — Winner Match 95 vs Winner Match 96 (Quarter-final)
@@ -1413,7 +1443,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -1426,7 +1456,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -1439,7 +1469,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -1453,7 +1483,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

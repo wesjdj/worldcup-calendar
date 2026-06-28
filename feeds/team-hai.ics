@@ -26,15 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VTIMEZONE
-TZID:America/Monterrey
-BEGIN:STANDARD
-TZOFFSETFROM:-0600
-TZOFFSETTO:-0600
-TZNAME:CST
-DTSTART:20221030T020000
-END:STANDARD
-END:VTIMEZONE
-BEGIN:VTIMEZONE
 TZID:America/Chicago
 BEGIN:DAYLIGHT
 TZOFFSETFROM:-0600
@@ -62,111 +53,48 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-7@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260613T210000
-DTEND;TZID=America/New_York:20260613T230000
-SUMMARY:WC26 #7 — Haiti vs Scotland (Group C)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260613T180000
+DTEND;TZID=America/New_York:20260613T200000
+SUMMARY:WC26 #7 — Haiti vs Scotland 1–1 (Group C)
 LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 7 — Group C\\n🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland\\nV
- enue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: loc
- al time at venue is built into this calendar entry.
+DESCRIPTION:Match 7 — Group C\\n🇭🇹 Haiti vs 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland\\nS
+ core: 1–1 (full-time)\\nVenue: Gillette Stadium (Boston Stadium)\, Foxbor
+ ough\, MA\\nKick-off: local time at venue is built into this calendar ent
+ ry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-31@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260619T210000
-DTEND;TZID=America/New_York:20260619T230000
-SUMMARY:WC26 #31 — Brazil vs Haiti (Group C)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260619T230000
+DTEND;TZID=America/New_York:20260620T010000
+SUMMARY:WC26 #31 — Brazil vs Haiti 0–1 (Group C)
 LOCATION:Lincoln Financial Field\, Philadelphia\, PA\, USA
-DESCRIPTION:Match 31 — Group C\\n🇧🇷 Brazil vs 🇭🇹 Haiti\\nVenue: Linco
- ln Financial Field (Philadelphia Stadium)\, Philadelphia\, PA\\nKick-off:
-  local time at venue is built into this calendar entry.
+DESCRIPTION:Match 31 — Group C\\n🇧🇷 Brazil vs 🇭🇹 Haiti\\nScore: 0–1 (
+ full-time)\\nVenue: Lincoln Financial Field (Philadelphia Stadium)\, Phil
+ adelphia\, PA\\nKick-off: local time at venue is built into this calendar
+  entry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-52@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260624T180000
-DTEND;TZID=America/New_York:20260624T200000
-SUMMARY:WC26 #52 — Morocco vs Haiti (Group C)
+DTSTAMP:20260628T154341Z
+DTSTART;TZID=America/New_York:20260624T150000
+DTEND;TZID=America/New_York:20260624T170000
+SUMMARY:WC26 #52 — Morocco vs Haiti 3–1 (Group C)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 52 — Group C\\n🇲🇦 Morocco vs 🇭🇹 Haiti\\nVenue: Merc
- edes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-off: local time
-  at venue is built into this calendar entry.
+DESCRIPTION:Match 52 — Group C\\n🇲🇦 Morocco vs 🇭🇹 Haiti\\nScore: 3–1 
+ (full-time)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, 
+ GA\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-match-74@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260629T163000
-DTEND;TZID=America/New_York:20260629T183000
-SUMMARY:WC26 #74 — Winner Group E vs 3rd Group A/B/C/D/F (Round of 32)
-LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 74 — Round of 32\\nWinner Group E vs 3rd Group A/B/C/D/
- F\\nVenue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off
- : local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-75@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Monterrey:20260629T190000
-DTEND;TZID=America/Monterrey:20260629T210000
-SUMMARY:WC26 #75 — Winner Group F vs Runner-up Group C (Round of 32)
-LOCATION:Estadio BBVA\, Guadalupe\, Mexico
-DESCRIPTION:Match 75 — Round of 32\\nWinner Group F vs Runner-up Group C\
- \nVenue: Estadio BBVA (Monterrey Stadium)\, Guadalupe\\nKick-off: local t
- ime at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-76@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Chicago:20260629T120000
-DTEND;TZID=America/Chicago:20260629T140000
-SUMMARY:WC26 #76 — Winner Group C vs Runner-up Group F (Round of 32)
-LOCATION:NRG Stadium\, Houston\, TX\, USA
-DESCRIPTION:Match 76 — Round of 32\\nWinner Group C vs Runner-up Group F\
- \nVenue: NRG Stadium (Houston Stadium)\, Houston\, TX\\nKick-off: local t
- ime at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-77@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/New_York:20260630T170000
-DTEND;TZID=America/New_York:20260630T190000
-SUMMARY:WC26 #77 — Winner Group I vs 3rd Group C/D/F/G/H (Round of 32)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 77 — Round of 32\\nWinner Group I vs 3rd Group C/D/F/G/
- H\\nVenue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherfor
- d\, NJ\\nKick-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-79@worldcup-calendar
-DTSTAMP:20260514T210032Z
-DTSTART;TZID=America/Mexico_City:20260630T190000
-DTEND;TZID=America/Mexico_City:20260630T210000
-SUMMARY:WC26 #79 — Winner Group A vs 3rd Group C/E/F/H/I (Round of 32)
-LOCATION:Estadio Azteca\, Mexico City\, Mexico
-DESCRIPTION:Match 79 — Round of 32\\nWinner Group A vs 3rd Group C/E/F/H/
- I\\nVenue: Estadio Azteca (Mexico City Stadium)\, Mexico City\\nKick-off:
-  local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Winner Match 74 vs Winner Match 77 (Round of 16)
@@ -179,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-90@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260704T120000
 DTEND;TZID=America/Chicago:20260704T140000
 SUMMARY:WC26 #90 — Winner Match 73 vs Winner Match 75 (Round of 16)
@@ -192,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-91@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260705T160000
 DTEND;TZID=America/New_York:20260705T180000
 SUMMARY:WC26 #91 — Winner Match 76 vs Winner Match 78 (Round of 16)
@@ -205,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Mexico_City:20260705T180000
 DTEND;TZID=America/Mexico_City:20260705T200000
 SUMMARY:WC26 #92 — Winner Match 79 vs Winner Match 80 (Round of 16)
@@ -218,7 +146,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — Winner Match 89 vs Winner Match 90 (Quarter-final)
@@ -231,7 +159,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260711T170000
 DTEND;TZID=America/New_York:20260711T190000
 SUMMARY:WC26 #99 — Winner Match 91 vs Winner Match 92 (Quarter-final)
@@ -244,7 +172,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -257,7 +185,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -270,7 +198,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -284,7 +212,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260514T210032Z
+DTSTAMP:20260628T154341Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

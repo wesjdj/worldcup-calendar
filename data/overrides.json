@@ -1,1 +1,530 @@
-{}
+{
+  "1": {
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "2": {
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "3": {
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "4": {
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "5": {
+    "kickoffUTC": "2026-06-14T01:00:00Z",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "6": {
+    "kickoffUTC": "2026-06-14T04:00:00Z",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "7": {
+    "kickoffUTC": "2026-06-13T22:00:00Z",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "8": {
+    "kickoffUTC": "2026-06-13T19:00:00Z",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "9": {
+    "kickoffUTC": "2026-06-14T23:00:00Z",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "10": {
+    "kickoffUTC": "2026-06-14T17:00:00Z",
+    "homeScore": 7,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "11": {
+    "kickoffUTC": "2026-06-14T20:00:00Z",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "12": {
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "13": {
+    "kickoffUTC": "2026-06-15T22:00:00Z",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "14": {
+    "kickoffUTC": "2026-06-15T16:00:00Z",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "15": {
+    "kickoffUTC": "2026-06-16T01:00:00Z",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "16": {
+    "kickoffUTC": "2026-06-15T19:00:00Z",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "17": {
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "18": {
+    "homeScore": 1,
+    "awayScore": 4,
+    "status": "FT"
+  },
+  "19": {
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "20": {
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "21": {
+    "kickoffUTC": "2026-06-17T23:00:00Z",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "22": {
+    "homeScore": 4,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "23": {
+    "kickoffUTC": "2026-06-17T17:00:00Z",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "24": {
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "FT"
+  },
+  "25": {
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "26": {
+    "homeScore": 4,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "27": {
+    "homeScore": 6,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "28": {
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "29": {
+    "kickoffUTC": "2026-06-20T00:30:00Z",
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "30": {
+    "kickoffUTC": "2026-06-19T22:00:00Z",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "31": {
+    "kickoffUTC": "2026-06-20T03:00:00Z",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "32": {
+    "kickoffUTC": "2026-06-19T19:00:00Z",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "33": {
+    "kickoffUTC": "2026-06-20T20:00:00Z",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "34": {
+    "kickoffUTC": "2026-06-21T00:00:00Z",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "35": {
+    "kickoffUTC": "2026-06-20T17:00:00Z",
+    "homeScore": 5,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "36": {
+    "homeScore": 0,
+    "awayScore": 4,
+    "status": "FT"
+  },
+  "37": {
+    "kickoffUTC": "2026-06-21T22:00:00Z",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "38": {
+    "kickoffUTC": "2026-06-21T16:00:00Z",
+    "homeScore": 4,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "39": {
+    "kickoffUTC": "2026-06-21T19:00:00Z",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "40": {
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "FT"
+  },
+  "41": {
+    "kickoffUTC": "2026-06-23T00:00:00Z",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "42": {
+    "homeScore": 3,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "43": {
+    "kickoffUTC": "2026-06-22T17:00:00Z",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "44": {
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "45": {
+    "kickoffUTC": "2026-06-23T20:00:00Z",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "46": {
+    "kickoffUTC": "2026-06-23T23:00:00Z",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "47": {
+    "kickoffUTC": "2026-06-23T17:00:00Z",
+    "homeScore": 5,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "48": {
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "49": {
+    "kickoffUTC": "2026-06-24T22:00:00Z",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT"
+  },
+  "50": {
+    "kickoffUTC": "2026-06-24T22:00:00Z",
+    "homeScore": 4,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "51": {
+    "kickoffUTC": "2026-06-24T19:00:00Z",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "52": {
+    "kickoffUTC": "2026-06-24T19:00:00Z",
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "53": {
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT"
+  },
+  "54": {
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "55": {
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "56": {
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "57": {
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "58": {
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "FT"
+  },
+  "59": {
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "60": {
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "61": {
+    "homeScore": 1,
+    "awayScore": 4,
+    "status": "FT"
+  },
+  "62": {
+    "homeScore": 5,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "63": {
+    "kickoffUTC": "2026-06-27T03:00:00Z",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "64": {
+    "kickoffUTC": "2026-06-27T03:00:00Z",
+    "homeScore": 1,
+    "awayScore": 5,
+    "status": "FT"
+  },
+  "65": {
+    "kickoffUTC": "2026-06-27T00:00:00Z",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "66": {
+    "kickoffUTC": "2026-06-27T00:00:00Z",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "67": {
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "FT"
+  },
+  "68": {
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "69": {
+    "kickoffUTC": "2026-06-28T02:00:00Z",
+    "homeScore": 3,
+    "awayScore": 3,
+    "status": "FT"
+  },
+  "70": {
+    "kickoffUTC": "2026-06-28T02:00:00Z",
+    "homeScore": 1,
+    "awayScore": 3,
+    "status": "FT"
+  },
+  "71": {
+    "kickoffUTC": "2026-06-27T23:30:00Z",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "FT"
+  },
+  "72": {
+    "kickoffUTC": "2026-06-27T23:30:00Z",
+    "homeScore": 3,
+    "awayScore": 1,
+    "status": "FT"
+  },
+  "73": {
+    "home": "RSA",
+    "away": "CAN",
+    "status": "NS"
+  },
+  "74": {
+    "home": "GER",
+    "away": "PAR",
+    "status": "NS"
+  },
+  "75": {
+    "home": "NED",
+    "away": "MAR",
+    "status": "NS"
+  },
+  "76": {
+    "home": "BRA",
+    "away": "JPN",
+    "status": "NS"
+  },
+  "77": {
+    "home": "FRA",
+    "away": "SWE",
+    "status": "NS"
+  },
+  "78": {
+    "home": "CIV",
+    "away": "NOR",
+    "status": "NS"
+  },
+  "79": {
+    "home": "MEX",
+    "away": "ECU",
+    "status": "NS"
+  },
+  "80": {
+    "home": "ENG",
+    "away": "COD",
+    "status": "NS"
+  },
+  "81": {
+    "home": "USA",
+    "away": "BIH",
+    "status": "NS"
+  },
+  "82": {
+    "home": "BEL",
+    "away": "SEN",
+    "status": "NS"
+  },
+  "83": {
+    "home": "POR",
+    "away": "CRO",
+    "status": "NS"
+  },
+  "84": {
+    "home": "ESP",
+    "away": "AUT",
+    "status": "NS"
+  },
+  "85": {
+    "home": "SUI",
+    "away": "ALG",
+    "status": "NS"
+  },
+  "86": {
+    "home": "ARG",
+    "away": "CPV",
+    "status": "NS"
+  },
+  "87": {
+    "home": "COL",
+    "away": "GHA",
+    "status": "NS"
+  },
+  "88": {
+    "home": "AUS",
+    "away": "EGY",
+    "status": "NS"
+  },
+  "89": {
+    "status": "NS"
+  },
+  "90": {
+    "status": "NS"
+  },
+  "91": {
+    "status": "NS"
+  },
+  "92": {
+    "status": "NS"
+  },
+  "93": {
+    "status": "NS"
+  },
+  "94": {
+    "status": "NS"
+  },
+  "95": {
+    "status": "NS"
+  },
+  "96": {
+    "status": "NS"
+  },
+  "97": {
+    "status": "NS"
+  },
+  "98": {
+    "status": "NS"
+  },
+  "99": {
+    "status": "NS"
+  },
+  "100": {
+    "status": "NS"
+  },
+  "101": {
+    "status": "NS"
+  },
+  "102": {
+    "status": "NS"
+  },
+  "103": {
+    "status": "NS"
+  },
+  "104": {
+    "status": "NS"
+  }
+}

@@ -2,7 +2,7 @@ name: Auto-update fixtures
 on:
   schedule:
     # Every 3 hours. Knockout teams resolve and scores fill in within a few
-    # hours of each match. ~8 runs/day stays well inside api-football's free tier.
+    # hours of each match. FIFA's public API needs no key or rate-limit budget.
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
@@ -22,13 +22,11 @@ jobs:
         with:
           node-version: 20
 
-      - name: Fetch live data into overrides.json
+      - name: Fetch live FIFA data into overrides.json
         env:
-          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
-          # 'rapidapi' (default) or 'apisports' if you use the direct api-sports.io key.
-          API_FOOTBALL_PROVIDER: ${{ vars.API_FOOTBALL_PROVIDER || 'rapidapi' }}
-          WC_LEAGUE_ID: ${{ vars.WC_LEAGUE_ID || '1' }}
-          WC_SEASON: ${{ vars.WC_SEASON || '2026' }}
+          WC_COMPETITION_ID: ${{ vars.WC_COMPETITION_ID || '17' }}
+          WC_FROM: ${{ vars.WC_FROM || '2026-06-01' }}
+          WC_TO: ${{ vars.WC_TO || '2026-07-31' }}
         run: node scripts/update-fixtures.js
 
       - name: Rebuild fixtures.json and feeds
@@ -44,6 +42,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'No fixture changes.'
           else
-            git commit -m 'chore: auto-update fixtures from live data'
+            git commit -m 'chore: auto-update fixtures from live FIFA data'
             git push
           fi

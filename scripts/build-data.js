@@ -252,6 +252,8 @@ if (fs.existsSync(overridesPath)) {
     if (ov.kickoffUTC) f.kickoffUTC = ov.kickoffUTC;
     if (ov.homeScore != null) f.homeScore = ov.homeScore;
     if (ov.awayScore != null) f.awayScore = ov.awayScore;
+    if (ov.homePens != null) f.homePens = ov.homePens;
+    if (ov.awayPens != null) f.awayPens = ov.awayPens;
     if (ov.status) f.status = ov.status;
     applied += 1;
   }
