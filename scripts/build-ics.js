@@ -203,14 +203,22 @@ function buildEvent(f) {
     F: 'Final',
   }[f.stage] || f.stage;
 
-  const summary = `WC26 #${f.id} — ${plainSlot(f.home)} vs ${plainSlot(f.away)} (${stageName})`;
+  // Live score (present once update-fixtures.js has seen the match start).
+  const hasScore = f.homeScore != null && f.awayScore != null;
+  const finished = ['FT', 'AET', 'PEN'].includes(f.status);
+  const scoreTag = hasScore
+    ? ` ${f.homeScore}–${f.awayScore}${finished ? '' : ' (live)'}`
+    : '';
+
+  const summary = `WC26 #${f.id} — ${plainSlot(f.home)} vs ${plainSlot(f.away)}${scoreTag} (${stageName})`;
   const location = `${v.name}, ${v.city}, ${v.country}`;
   const description = [
     `Match ${f.id} — ${stageName}`,
     `${slotLabel(f.home)} vs ${slotLabel(f.away)}`,
+    hasScore ? `Score: ${f.homeScore}–${f.awayScore}${finished ? ' (full-time)' : ' (live)'}` : null,
     `Venue: ${v.name} (${v.fifaName}), ${v.city}`,
     `Kick-off: local time at venue is built into this calendar entry.`,
-  ].join('\\n');
+  ].filter(Boolean).join('\\n');
 
   const lines = [
     'BEGIN:VEVENT',

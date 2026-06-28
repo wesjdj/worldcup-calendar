@@ -228,6 +228,36 @@ for (const [matchNo, stage, h, a, venueId, date, time] of KO) {
   };
 }
 
+// ---- Apply live overrides ----------------------------------------------
+// data/overrides.json is a patch layer maintained by scripts/update-fixtures.js
+// (auto-updated from a live results feed). It resolves knockout placeholders to
+// real teams, corrects kick-off times/venues, and records scores. Missing file
+// or empty object = pure curated schedule, so the build still works offline.
+const overridesPath = path.join(DATA_DIR, 'overrides.json');
+if (fs.existsSync(overridesPath)) {
+  const venues = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'venues.json'), 'utf8'));
+  let overrides = {};
+  try {
+    overrides = JSON.parse(fs.readFileSync(overridesPath, 'utf8'));
+  } catch (e) {
+    console.warn('Skipping overrides.json (unparseable):', e.message);
+  }
+  let applied = 0;
+  for (const [idStr, ov] of Object.entries(overrides)) {
+    const f = fixturesById[Number(idStr)];
+    if (!f) continue;
+    if (ov.home && teams[ov.home]) f.home = { team: ov.home };
+    if (ov.away && teams[ov.away]) f.away = { team: ov.away };
+    if (ov.venueId && venues[ov.venueId]) f.venueId = ov.venueId;
+    if (ov.kickoffUTC) f.kickoffUTC = ov.kickoffUTC;
+    if (ov.homeScore != null) f.homeScore = ov.homeScore;
+    if (ov.awayScore != null) f.awayScore = ov.awayScore;
+    if (ov.status) f.status = ov.status;
+    applied += 1;
+  }
+  if (applied) console.log(`Applied ${applied} live override(s).`);
+}
+
 // Compute potentialTeams for every fixture (group-stage = the two teams)
 const fixtures = Object.values(fixturesById).sort((a, b) => a.id - b.id);
 for (const f of fixtures) {

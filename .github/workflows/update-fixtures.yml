@@ -1,0 +1,49 @@
+name: Auto-update fixtures
+on:
+  schedule:
+    # Every 3 hours. Knockout teams resolve and scores fill in within a few
+    # hours of each match. ~8 runs/day stays well inside api-football's free tier.
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-fixtures
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch live data into overrides.json
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          # 'rapidapi' (default) or 'apisports' if you use the direct api-sports.io key.
+          API_FOOTBALL_PROVIDER: ${{ vars.API_FOOTBALL_PROVIDER || 'rapidapi' }}
+          WC_LEAGUE_ID: ${{ vars.WC_LEAGUE_ID || '1' }}
+          WC_SEASON: ${{ vars.WC_SEASON || '2026' }}
+        run: node scripts/update-fixtures.js
+
+      - name: Rebuild fixtures.json and feeds
+        run: |
+          node scripts/build-data.js
+          node scripts/build-ics.js
+
+      - name: Commit changes if any
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/overrides.json data/fixtures.json feeds
+          if git diff --cached --quiet; then
+            echo 'No fixture changes.'
+          else
+            git commit -m 'chore: auto-update fixtures from live data'
+            git push
+          fi
