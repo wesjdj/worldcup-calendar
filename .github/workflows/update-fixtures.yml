@@ -39,8 +39,12 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/overrides.json data/fixtures.json feeds
-          if git diff --cached --quiet; then
-            echo 'No fixture changes.'
+          # Only commit when the actual data moved. The .ics files always differ
+          # (build-ics stamps a fresh DTSTAMP each run), so committing on feed
+          # churn alone would mean a needless commit + redeploy every 3 hours.
+          if git diff --cached --quiet -- data/overrides.json data/fixtures.json; then
+            echo 'No substantive fixture changes (feed timestamps only); skipping.'
+            git reset -q
           else
             git commit -m 'chore: auto-update fixtures from live FIFA data'
             git push
