@@ -2895,9 +2895,18 @@
     "venueId": "sofi",
     "kickoffUTC": "2026-06-28T19:00:00Z",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "LIVE",
+    "awayScore": 1,
+    "status": "FT",
     "referee": "Joao PINHEIRO",
+    "attendance": 69237,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Stephen EUSTAQUIO",
+        "minute": "90'+2'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CAN",
       "RSA"
@@ -3284,18 +3293,7 @@
     "stage": "R16",
     "group": null,
     "home": {
-      "label": "Winner Match 73",
-      "placeholder": "M:73",
-      "potentialTeams": [
-        "MEX",
-        "RSA",
-        "KOR",
-        "CZE",
-        "CAN",
-        "BIH",
-        "QAT",
-        "SUI"
-      ]
+      "team": "CAN"
     },
     "away": {
       "label": "Winner Match 75",
@@ -3315,20 +3313,13 @@
     "kickoffUTC": "2026-07-04T17:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "BIH",
       "BRA",
       "CAN",
-      "CZE",
       "HAI",
       "JPN",
-      "KOR",
       "MAR",
-      "MEX",
       "NED",
-      "QAT",
-      "RSA",
       "SCO",
-      "SUI",
       "SWE",
       "TUN"
     ]
