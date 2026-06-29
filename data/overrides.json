@@ -1862,7 +1862,25 @@
   "74": {
     "home": "GER",
     "away": "PAR",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 1,
+    "awayScore": 1,
+    "referee": "Jalal JAYED",
+    "attendance": 63945,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Julio ENCISO",
+        "minute": "42'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kai HAVERTZ",
+        "minute": "54'",
+        "own": false
+      }
+    ]
   },
   "75": {
     "home": "NED",

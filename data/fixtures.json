@@ -2924,7 +2924,25 @@
     },
     "venueId": "gillette",
     "kickoffUTC": "2026-06-29T20:30:00Z",
-    "status": "NS",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "LIVE",
+    "referee": "Jalal JAYED",
+    "attendance": 63945,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Julio ENCISO",
+        "minute": "42'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kai HAVERTZ",
+        "minute": "54'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "GER",
       "PAR"
