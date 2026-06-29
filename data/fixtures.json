@@ -2960,7 +2960,31 @@
     },
     "venueId": "nrg",
     "kickoffUTC": "2026-06-29T17:00:00Z",
-    "status": "NS",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "referee": "Maurizio MARIANI",
+    "attendance": 68777,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Kaishu SANO",
+        "minute": "29'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "CASEMIRO",
+        "minute": "56'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "GABRIEL MARTINELLI",
+        "minute": "90'+5'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BRA",
       "JPN"
@@ -3329,18 +3353,7 @@
     "stage": "R16",
     "group": null,
     "home": {
-      "label": "Winner Match 76",
-      "placeholder": "M:76",
-      "potentialTeams": [
-        "BRA",
-        "MAR",
-        "HAI",
-        "SCO",
-        "NED",
-        "JPN",
-        "TUN",
-        "SWE"
-      ]
+      "team": "BRA"
     },
     "away": {
       "label": "Winner Match 78",
@@ -3366,16 +3379,9 @@
       "ECU",
       "FRA",
       "GER",
-      "HAI",
       "IRQ",
-      "JPN",
-      "MAR",
-      "NED",
       "NOR",
-      "SCO",
-      "SEN",
-      "SWE",
-      "TUN"
+      "SEN"
     ]
   },
   {

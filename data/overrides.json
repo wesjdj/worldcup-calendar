@@ -1872,7 +1872,31 @@
   "76": {
     "home": "BRA",
     "away": "JPN",
-    "status": "NS"
+    "status": "FT",
+    "homeScore": 2,
+    "awayScore": 1,
+    "referee": "Maurizio MARIANI",
+    "attendance": 68777,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Kaishu SANO",
+        "minute": "29'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "CASEMIRO",
+        "minute": "56'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "GABRIEL MARTINELLI",
+        "minute": "90'+5'",
+        "own": false
+      }
+    ]
   },
   "77": {
     "home": "FRA",
@@ -1942,7 +1966,8 @@
     "home": "CAN"
   },
   "91": {
-    "status": "NS"
+    "status": "NS",
+    "home": "BRA"
   },
   "92": {
     "status": "NS"
