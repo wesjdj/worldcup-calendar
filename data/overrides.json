@@ -1941,7 +1941,24 @@
   "77": {
     "home": "FRA",
     "away": "SWE",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 2,
+    "awayScore": 0,
+    "referee": "Danny MAKKELIE",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "45'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Bradley BARCOLA",
+        "minute": "53'",
+        "own": false
+      }
+    ]
   },
   "78": {
     "home": "CIV",

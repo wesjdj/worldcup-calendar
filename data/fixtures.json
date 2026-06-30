@@ -3042,7 +3042,24 @@
     },
     "venueId": "metlife",
     "kickoffUTC": "2026-06-30T21:00:00Z",
-    "status": "NS",
+    "homeScore": 2,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Danny MAKKELIE",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "45'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Bradley BARCOLA",
+        "minute": "53'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "FRA",
       "SWE"
