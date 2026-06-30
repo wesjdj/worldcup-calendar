@@ -1862,7 +1862,7 @@
   "74": {
     "home": "GER",
     "away": "PAR",
-    "status": "LIVE",
+    "status": "PEN",
     "homeScore": 1,
     "awayScore": 1,
     "referee": "Jalal JAYED",
@@ -1880,12 +1880,32 @@
         "minute": "54'",
         "own": false
       }
-    ]
+    ],
+    "homePens": 3,
+    "awayPens": 4
   },
   "75": {
     "home": "NED",
     "away": "MAR",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 1,
+    "awayScore": 1,
+    "referee": "Wilton SAMPAIO",
+    "attendance": 51243,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Cody GAKPO",
+        "minute": "72'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Issa DIOP",
+        "minute": "90'+1'",
+        "own": false
+      }
+    ]
   },
   "76": {
     "home": "BRA",
@@ -1977,7 +1997,8 @@
     "status": "NS"
   },
   "89": {
-    "status": "NS"
+    "status": "NS",
+    "home": "PAR"
   },
   "90": {
     "status": "NS",
