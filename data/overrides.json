@@ -1946,7 +1946,10 @@
   "78": {
     "home": "CIV",
     "away": "NOR",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Jesus VALENZUELA"
   },
   "79": {
     "home": "MEX",

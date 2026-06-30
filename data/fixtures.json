@@ -3060,7 +3060,10 @@
     },
     "venueId": "att",
     "kickoffUTC": "2026-06-30T17:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Jesus VALENZUELA",
     "potentialTeams": [
       "CIV",
       "NOR"
