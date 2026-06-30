@@ -2964,7 +2964,9 @@
     "kickoffUTC": "2026-06-30T01:00:00Z",
     "homeScore": 1,
     "awayScore": 1,
-    "status": "LIVE",
+    "homePens": 2,
+    "awayPens": 3,
+    "status": "PEN",
     "referee": "Wilton SAMPAIO",
     "attendance": 51243,
     "scorers": [
@@ -3319,32 +3321,14 @@
       "team": "CAN"
     },
     "away": {
-      "label": "Winner Match 75",
-      "placeholder": "M:75",
-      "potentialTeams": [
-        "NED",
-        "JPN",
-        "TUN",
-        "SWE",
-        "BRA",
-        "MAR",
-        "HAI",
-        "SCO"
-      ]
+      "team": "MAR"
     },
     "venueId": "nrg",
     "kickoffUTC": "2026-07-04T17:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "BRA",
       "CAN",
-      "HAI",
-      "JPN",
-      "MAR",
-      "NED",
-      "SCO",
-      "SWE",
-      "TUN"
+      "MAR"
     ]
   },
   {

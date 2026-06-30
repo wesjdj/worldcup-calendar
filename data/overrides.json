@@ -1887,7 +1887,7 @@
   "75": {
     "home": "NED",
     "away": "MAR",
-    "status": "LIVE",
+    "status": "PEN",
     "homeScore": 1,
     "awayScore": 1,
     "referee": "Wilton SAMPAIO",
@@ -1905,7 +1905,9 @@
         "minute": "90'+1'",
         "own": false
       }
-    ]
+    ],
+    "homePens": 2,
+    "awayPens": 3
   },
   "76": {
     "home": "BRA",
@@ -2002,7 +2004,8 @@
   },
   "90": {
     "status": "NS",
-    "home": "CAN"
+    "home": "CAN",
+    "away": "MAR"
   },
   "91": {
     "status": "NS",
