@@ -3060,10 +3060,31 @@
     },
     "venueId": "att",
     "kickoffUTC": "2026-06-30T17:00:00Z",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "LIVE",
+    "homeScore": 1,
+    "awayScore": 2,
+    "status": "FT",
     "referee": "Jesus VALENZUELA",
+    "attendance": 69665,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Antonio NUSA",
+        "minute": "39'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Amad DIALLO",
+        "minute": "74'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "86'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CIV",
       "NOR"
@@ -3342,32 +3363,14 @@
       "team": "BRA"
     },
     "away": {
-      "label": "Winner Match 78",
-      "placeholder": "M:78",
-      "potentialTeams": [
-        "GER",
-        "CUW",
-        "CIV",
-        "ECU",
-        "FRA",
-        "SEN",
-        "NOR",
-        "IRQ"
-      ]
+      "team": "NOR"
     },
     "venueId": "metlife",
     "kickoffUTC": "2026-07-05T20:00:00Z",
     "status": "NS",
     "potentialTeams": [
       "BRA",
-      "CIV",
-      "CUW",
-      "ECU",
-      "FRA",
-      "GER",
-      "IRQ",
-      "NOR",
-      "SEN"
+      "NOR"
     ]
   },
   {

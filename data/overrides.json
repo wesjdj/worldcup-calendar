@@ -1946,10 +1946,31 @@
   "78": {
     "home": "CIV",
     "away": "NOR",
-    "status": "LIVE",
-    "homeScore": 0,
-    "awayScore": 0,
-    "referee": "Jesus VALENZUELA"
+    "status": "FT",
+    "homeScore": 1,
+    "awayScore": 2,
+    "referee": "Jesus VALENZUELA",
+    "attendance": 69665,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Antonio NUSA",
+        "minute": "39'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Amad DIALLO",
+        "minute": "74'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "86'",
+        "own": false
+      }
+    ]
   },
   "79": {
     "home": "MEX",
@@ -2012,7 +2033,8 @@
   },
   "91": {
     "status": "NS",
-    "home": "BRA"
+    "home": "BRA",
+    "away": "NOR"
   },
   "92": {
     "status": "NS"
