@@ -1999,7 +1999,7 @@
   "79": {
     "home": "MEX",
     "away": "ECU",
-    "status": "LIVE",
+    "status": "FT",
     "kickoffUTC": "2026-07-01T02:00:00Z",
     "homeScore": 2,
     "awayScore": 0,
@@ -2081,7 +2081,8 @@
     "away": "NOR"
   },
   "92": {
-    "status": "NS"
+    "status": "NS",
+    "home": "MEX"
   },
   "93": {
     "status": "NS"
