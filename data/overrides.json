@@ -2023,7 +2023,18 @@
   "80": {
     "home": "ENG",
     "away": "COD",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 0,
+    "awayScore": 1,
+    "referee": "Adham MAKHADMEH",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Brian CIPENGA",
+        "minute": "7'",
+        "own": false
+      }
+    ]
   },
   "81": {
     "home": "USA",

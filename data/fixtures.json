@@ -3162,7 +3162,18 @@
     },
     "venueId": "mercedes",
     "kickoffUTC": "2026-07-01T16:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "LIVE",
+    "referee": "Adham MAKHADMEH",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Brian CIPENGA",
+        "minute": "7'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "COD",
       "ENG"
