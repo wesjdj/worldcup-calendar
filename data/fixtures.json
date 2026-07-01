@@ -3162,15 +3162,28 @@
     },
     "venueId": "mercedes",
     "kickoffUTC": "2026-07-01T16:00:00Z",
-    "homeScore": 0,
+    "homeScore": 2,
     "awayScore": 1,
-    "status": "LIVE",
+    "status": "FT",
     "referee": "Adham MAKHADMEH",
+    "attendance": 68239,
     "scorers": [
       {
         "side": "away",
         "name": "Brian CIPENGA",
         "minute": "7'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Harry KANE",
+        "minute": "75'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Harry KANE",
+        "minute": "86'",
         "own": false
       }
     ],
@@ -3385,64 +3398,14 @@
       "team": "MEX"
     },
     "away": {
-      "label": "Winner Match 80",
-      "placeholder": "M:80",
-      "potentialTeams": [
-        "ENG",
-        "CRO",
-        "GHA",
-        "PAN",
-        "GER",
-        "CUW",
-        "CIV",
-        "ECU",
-        "ESP",
-        "CPV",
-        "KSA",
-        "URU",
-        "FRA",
-        "SEN",
-        "NOR",
-        "IRQ",
-        "ARG",
-        "ALG",
-        "AUT",
-        "JOR",
-        "POR",
-        "COD",
-        "UZB",
-        "COL"
-      ]
+      "team": "ENG"
     },
     "venueId": "azteca",
     "kickoffUTC": "2026-07-06T00:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "ALG",
-      "ARG",
-      "AUT",
-      "CIV",
-      "COD",
-      "COL",
-      "CPV",
-      "CRO",
-      "CUW",
-      "ECU",
       "ENG",
-      "ESP",
-      "FRA",
-      "GER",
-      "GHA",
-      "IRQ",
-      "JOR",
-      "KSA",
-      "MEX",
-      "NOR",
-      "PAN",
-      "POR",
-      "SEN",
-      "URU",
-      "UZB"
+      "MEX"
     ]
   },
   {

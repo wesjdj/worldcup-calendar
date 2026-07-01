@@ -2023,8 +2023,8 @@
   "80": {
     "home": "ENG",
     "away": "COD",
-    "status": "LIVE",
-    "homeScore": 0,
+    "status": "FT",
+    "homeScore": 2,
     "awayScore": 1,
     "referee": "Adham MAKHADMEH",
     "scorers": [
@@ -2033,8 +2033,21 @@
         "name": "Brian CIPENGA",
         "minute": "7'",
         "own": false
+      },
+      {
+        "side": "home",
+        "name": "Harry KANE",
+        "minute": "75'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Harry KANE",
+        "minute": "86'",
+        "own": false
       }
-    ]
+    ],
+    "attendance": 68239
   },
   "81": {
     "home": "USA",
@@ -2093,7 +2106,8 @@
   },
   "92": {
     "status": "NS",
-    "home": "MEX"
+    "home": "MEX",
+    "away": "ENG"
   },
   "93": {
     "status": "NS"
