@@ -2057,7 +2057,37 @@
   "82": {
     "home": "BEL",
     "away": "SEN",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 2,
+    "awayScore": 2,
+    "referee": "Said MARTINEZ",
+    "attendance": 66925,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Habib DIARRA",
+        "minute": "24'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ismaila SARR",
+        "minute": "51'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Romelu LUKAKU",
+        "minute": "86'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Youri TIELEMANS",
+        "minute": "89'",
+        "own": false
+      }
+    ]
   },
   "83": {
     "home": "POR",

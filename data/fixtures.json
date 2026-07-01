@@ -3222,7 +3222,37 @@
     },
     "venueId": "lumen",
     "kickoffUTC": "2026-07-01T20:00:00Z",
-    "status": "NS",
+    "homeScore": 2,
+    "awayScore": 2,
+    "status": "LIVE",
+    "referee": "Said MARTINEZ",
+    "attendance": 66925,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Habib DIARRA",
+        "minute": "24'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ismaila SARR",
+        "minute": "51'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Romelu LUKAKU",
+        "minute": "86'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Youri TIELEMANS",
+        "minute": "89'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BEL",
       "SEN"
