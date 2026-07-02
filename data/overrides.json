@@ -2052,13 +2052,31 @@
   "81": {
     "home": "USA",
     "away": "BIH",
-    "status": "NS"
+    "status": "FT",
+    "homeScore": 2,
+    "awayScore": 0,
+    "referee": "Raphael CLAUS",
+    "attendance": 68827,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Folarin BALOGUN",
+        "minute": "45'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Malik TILLMAN",
+        "minute": "82'",
+        "own": false
+      }
+    ]
   },
   "82": {
     "home": "BEL",
     "away": "SEN",
-    "status": "LIVE",
-    "homeScore": 2,
+    "status": "FT",
+    "homeScore": 3,
     "awayScore": 2,
     "referee": "Said MARTINEZ",
     "attendance": 66925,
@@ -2143,7 +2161,9 @@
     "status": "NS"
   },
   "94": {
-    "status": "NS"
+    "status": "NS",
+    "home": "USA",
+    "away": "BEL"
   },
   "95": {
     "status": "NS"
