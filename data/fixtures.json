@@ -3306,7 +3306,10 @@
     },
     "venueId": "sofi",
     "kickoffUTC": "2026-07-02T19:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Glenn NYBERG",
     "potentialTeams": [
       "AUT",
       "ESP"

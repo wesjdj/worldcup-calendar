@@ -2115,7 +2115,10 @@
   "84": {
     "home": "ESP",
     "away": "AUT",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Glenn NYBERG"
   },
   "85": {
     "home": "SUI",
