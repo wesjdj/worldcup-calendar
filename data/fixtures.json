@@ -3306,10 +3306,31 @@
     },
     "venueId": "sofi",
     "kickoffUTC": "2026-07-02T19:00:00Z",
-    "homeScore": 0,
+    "homeScore": 3,
     "awayScore": 0,
-    "status": "LIVE",
+    "status": "FT",
     "referee": "Glenn NYBERG",
+    "attendance": 70492,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Mikel OYARZABAL",
+        "minute": "36'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Pedro PORRO",
+        "minute": "66'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Mikel OYARZABAL",
+        "minute": "89'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "AUT",
       "ESP"
@@ -3478,38 +3499,20 @@
       ]
     },
     "away": {
-      "label": "Winner Match 84",
-      "placeholder": "M:84",
-      "potentialTeams": [
-        "ESP",
-        "CPV",
-        "KSA",
-        "URU",
-        "ARG",
-        "ALG",
-        "AUT",
-        "JOR"
-      ]
+      "team": "ESP"
     },
     "venueId": "att",
     "kickoffUTC": "2026-07-06T19:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "ALG",
-      "ARG",
-      "AUT",
       "COD",
       "COL",
-      "CPV",
       "CRO",
       "ENG",
       "ESP",
       "GHA",
-      "JOR",
-      "KSA",
       "PAN",
       "POR",
-      "URU",
       "UZB"
     ]
   },

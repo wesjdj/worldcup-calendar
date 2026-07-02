@@ -2115,10 +2115,31 @@
   "84": {
     "home": "ESP",
     "away": "AUT",
-    "status": "LIVE",
-    "homeScore": 0,
+    "status": "FT",
+    "homeScore": 3,
     "awayScore": 0,
-    "referee": "Glenn NYBERG"
+    "referee": "Glenn NYBERG",
+    "attendance": 70492,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Mikel OYARZABAL",
+        "minute": "36'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Pedro PORRO",
+        "minute": "66'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Mikel OYARZABAL",
+        "minute": "89'",
+        "own": false
+      }
+    ]
   },
   "85": {
     "home": "SUI",
@@ -2161,7 +2182,8 @@
     "away": "ENG"
   },
   "93": {
-    "status": "NS"
+    "status": "NS",
+    "away": "ESP"
   },
   "94": {
     "status": "NS",
