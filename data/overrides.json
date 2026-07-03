@@ -2162,7 +2162,25 @@
   "85": {
     "home": "SUI",
     "away": "ALG",
-    "status": "NS"
+    "status": "FT",
+    "homeScore": 2,
+    "awayScore": 0,
+    "referee": "Yael FALCON PEREZ",
+    "attendance": 52497,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Breel EMBOLO",
+        "minute": "10'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Dan NDOYE",
+        "minute": "46'",
+        "own": false
+      }
+    ]
   },
   "86": {
     "home": "ARG",
@@ -2213,7 +2231,8 @@
     "status": "NS"
   },
   "96": {
-    "status": "NS"
+    "status": "NS",
+    "home": "SUI"
   },
   "97": {
     "status": "NS"
