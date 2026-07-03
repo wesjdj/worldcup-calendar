@@ -2195,7 +2195,18 @@
   "88": {
     "home": "AUS",
     "away": "EGY",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 1,
+    "awayScore": 1,
+    "referee": "Gustavo TEJERA",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "EMAM ASHOUR",
+        "minute": "13'",
+        "own": false
+      }
+    ]
   },
   "89": {
     "status": "NS",

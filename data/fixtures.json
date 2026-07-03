@@ -3438,7 +3438,18 @@
     },
     "venueId": "att",
     "kickoffUTC": "2026-07-03T18:00:00Z",
-    "status": "NS",
+    "homeScore": 1,
+    "awayScore": 1,
+    "status": "LIVE",
+    "referee": "Gustavo TEJERA",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "EMAM ASHOUR",
+        "minute": "13'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "AUS",
       "EGY"
