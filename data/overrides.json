@@ -2110,7 +2110,25 @@
   "83": {
     "home": "POR",
     "away": "CRO",
-    "status": "NS"
+    "status": "FT",
+    "homeScore": 2,
+    "awayScore": 1,
+    "referee": "Espen ESKAS",
+    "attendance": 43036,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Ivan PERISIC",
+        "minute": "53'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "GONCALO RAMOS",
+        "minute": "90'+4'",
+        "own": false
+      }
+    ]
   },
   "84": {
     "home": "ESP",
@@ -2183,7 +2201,8 @@
   },
   "93": {
     "status": "NS",
-    "away": "ESP"
+    "away": "ESP",
+    "home": "POR"
   },
   "94": {
     "status": "NS",

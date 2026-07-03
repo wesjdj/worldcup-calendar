@@ -3288,7 +3288,25 @@
     },
     "venueId": "bmofield",
     "kickoffUTC": "2026-07-02T23:00:00Z",
-    "status": "NS",
+    "homeScore": 2,
+    "awayScore": 1,
+    "status": "FT",
+    "referee": "Espen ESKAS",
+    "attendance": 43036,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Ivan PERISIC",
+        "minute": "53'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "GONCALO RAMOS",
+        "minute": "90'+4'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CRO",
       "POR"
@@ -3485,18 +3503,7 @@
     "stage": "R16",
     "group": null,
     "home": {
-      "label": "Winner Match 83",
-      "placeholder": "M:83",
-      "potentialTeams": [
-        "POR",
-        "COD",
-        "UZB",
-        "COL",
-        "ENG",
-        "CRO",
-        "GHA",
-        "PAN"
-      ]
+      "team": "POR"
     },
     "away": {
       "team": "ESP"
@@ -3505,15 +3512,8 @@
     "kickoffUTC": "2026-07-06T19:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "COD",
-      "COL",
-      "CRO",
-      "ENG",
       "ESP",
-      "GHA",
-      "PAN",
-      "POR",
-      "UZB"
+      "POR"
     ]
   },
   {
