@@ -3402,7 +3402,10 @@
     },
     "venueId": "hardrock",
     "kickoffUTC": "2026-07-03T22:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Drew FISCHER",
     "potentialTeams": [
       "ARG",
       "CPV"
@@ -3440,8 +3443,11 @@
     "kickoffUTC": "2026-07-03T18:00:00Z",
     "homeScore": 1,
     "awayScore": 1,
-    "status": "LIVE",
+    "homePens": 2,
+    "awayPens": 4,
+    "status": "PEN",
     "referee": "Gustavo TEJERA",
+    "attendance": 70244,
     "scorers": [
       {
         "side": "away",
@@ -3582,18 +3588,7 @@
       ]
     },
     "away": {
-      "label": "Winner Match 88",
-      "placeholder": "M:88",
-      "potentialTeams": [
-        "USA",
-        "PAR",
-        "AUS",
-        "TUR",
-        "BEL",
-        "EGY",
-        "IRN",
-        "NZL"
-      ]
+      "team": "EGY"
     },
     "venueId": "mercedes",
     "kickoffUTC": "2026-07-07T16:00:00Z",
@@ -3601,20 +3596,13 @@
     "potentialTeams": [
       "ALG",
       "ARG",
-      "AUS",
       "AUT",
-      "BEL",
       "CPV",
       "EGY",
       "ESP",
-      "IRN",
       "JOR",
       "KSA",
-      "NZL",
-      "PAR",
-      "TUR",
-      "URU",
-      "USA"
+      "URU"
     ]
   },
   {

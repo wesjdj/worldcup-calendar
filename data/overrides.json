@@ -2185,7 +2185,10 @@
   "86": {
     "home": "ARG",
     "away": "CPV",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Drew FISCHER"
   },
   "87": {
     "home": "COL",
@@ -2195,7 +2198,7 @@
   "88": {
     "home": "AUS",
     "away": "EGY",
-    "status": "LIVE",
+    "status": "PEN",
     "homeScore": 1,
     "awayScore": 1,
     "referee": "Gustavo TEJERA",
@@ -2206,7 +2209,10 @@
         "minute": "13'",
         "own": false
       }
-    ]
+    ],
+    "homePens": 2,
+    "awayPens": 4,
+    "attendance": 70244
   },
   "89": {
     "status": "NS",
@@ -2239,7 +2245,8 @@
     "away": "BEL"
   },
   "95": {
-    "status": "NS"
+    "status": "NS",
+    "away": "EGY"
   },
   "96": {
     "status": "NS",
