@@ -2185,15 +2185,53 @@
   "86": {
     "home": "ARG",
     "away": "CPV",
-    "status": "LIVE",
-    "homeScore": 0,
-    "awayScore": 0,
-    "referee": "Drew FISCHER"
+    "status": "FT",
+    "homeScore": 3,
+    "awayScore": 2,
+    "referee": "Drew FISCHER",
+    "attendance": 64478,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "29'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "DEROY DUARTE",
+        "minute": "59'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lisandro MARTINEZ",
+        "minute": "92'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "SIDNY LOPES CABRAL",
+        "minute": "103'",
+        "own": false
+      }
+    ]
   },
   "87": {
     "home": "COL",
     "away": "GHA",
-    "status": "NS"
+    "status": "LIVE",
+    "homeScore": 1,
+    "awayScore": 0,
+    "referee": "Clement TURPIN",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Jhon ARIAS",
+        "minute": "14'",
+        "own": false
+      }
+    ]
   },
   "88": {
     "home": "AUS",
@@ -2246,7 +2284,8 @@
   },
   "95": {
     "status": "NS",
-    "away": "EGY"
+    "away": "EGY",
+    "home": "ARG"
   },
   "96": {
     "status": "NS",

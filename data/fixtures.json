@@ -3402,10 +3402,37 @@
     },
     "venueId": "hardrock",
     "kickoffUTC": "2026-07-03T22:00:00Z",
-    "homeScore": 0,
-    "awayScore": 0,
-    "status": "LIVE",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "FT",
     "referee": "Drew FISCHER",
+    "attendance": 64478,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "29'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "DEROY DUARTE",
+        "minute": "59'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lisandro MARTINEZ",
+        "minute": "92'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "SIDNY LOPES CABRAL",
+        "minute": "103'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ARG",
       "CPV"
@@ -3423,7 +3450,18 @@
     },
     "venueId": "arrowhead",
     "kickoffUTC": "2026-07-04T01:30:00Z",
-    "status": "NS",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Clement TURPIN",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Jhon ARIAS",
+        "minute": "14'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "COL",
       "GHA"
@@ -3574,18 +3612,7 @@
     "stage": "R16",
     "group": null,
     "home": {
-      "label": "Winner Match 86",
-      "placeholder": "M:86",
-      "potentialTeams": [
-        "ARG",
-        "ALG",
-        "AUT",
-        "JOR",
-        "ESP",
-        "CPV",
-        "KSA",
-        "URU"
-      ]
+      "team": "ARG"
     },
     "away": {
       "team": "EGY"
@@ -3594,15 +3621,8 @@
     "kickoffUTC": "2026-07-07T16:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "ALG",
       "ARG",
-      "AUT",
-      "CPV",
-      "EGY",
-      "ESP",
-      "JOR",
-      "KSA",
-      "URU"
+      "EGY"
     ]
   },
   {
