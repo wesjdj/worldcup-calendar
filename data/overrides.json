@@ -2254,9 +2254,12 @@
     "attendance": 70244
   },
   "89": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "PAR",
-    "away": "FRA"
+    "away": "FRA",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Ilgiz TANTASHEV"
   },
   "90": {
     "status": "FT",
