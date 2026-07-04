@@ -3452,8 +3452,9 @@
     "kickoffUTC": "2026-07-04T01:30:00Z",
     "homeScore": 1,
     "awayScore": 0,
-    "status": "LIVE",
+    "status": "FT",
     "referee": "Clement TURPIN",
+    "attendance": 69045,
     "scorers": [
       {
         "side": "home",
@@ -3633,64 +3634,14 @@
       "team": "SUI"
     },
     "away": {
-      "label": "Winner Match 87",
-      "placeholder": "M:87",
-      "potentialTeams": [
-        "POR",
-        "COD",
-        "UZB",
-        "COL",
-        "USA",
-        "PAR",
-        "AUS",
-        "TUR",
-        "GER",
-        "CUW",
-        "CIV",
-        "ECU",
-        "FRA",
-        "SEN",
-        "NOR",
-        "IRQ",
-        "ARG",
-        "ALG",
-        "AUT",
-        "JOR",
-        "ENG",
-        "CRO",
-        "GHA",
-        "PAN"
-      ]
+      "team": "COL"
     },
     "venueId": "bcplace",
     "kickoffUTC": "2026-07-07T20:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "ALG",
-      "ARG",
-      "AUS",
-      "AUT",
-      "CIV",
-      "COD",
       "COL",
-      "CRO",
-      "CUW",
-      "ECU",
-      "ENG",
-      "FRA",
-      "GER",
-      "GHA",
-      "IRQ",
-      "JOR",
-      "NOR",
-      "PAN",
-      "PAR",
-      "POR",
-      "SEN",
-      "SUI",
-      "TUR",
-      "USA",
-      "UZB"
+      "SUI"
     ]
   },
   {

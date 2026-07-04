@@ -2220,7 +2220,7 @@
   "87": {
     "home": "COL",
     "away": "GHA",
-    "status": "LIVE",
+    "status": "FT",
     "homeScore": 1,
     "awayScore": 0,
     "referee": "Clement TURPIN",
@@ -2231,7 +2231,8 @@
         "minute": "14'",
         "own": false
       }
-    ]
+    ],
+    "attendance": 69045
   },
   "88": {
     "home": "AUS",
@@ -2289,7 +2290,8 @@
   },
   "96": {
     "status": "NS",
-    "home": "SUI"
+    "home": "SUI",
+    "away": "COL"
   },
   "97": {
     "status": "NS"
