@@ -3530,7 +3530,31 @@
     },
     "venueId": "nrg",
     "kickoffUTC": "2026-07-04T17:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 3,
+    "status": "FT",
+    "referee": "Michael OLIVER",
+    "attendance": 68777,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Azzedine OUNAHI",
+        "minute": "50'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Azzedine OUNAHI",
+        "minute": "82'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Soufiane RAHIMI",
+        "minute": "90'+8'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "CAN",
       "MAR"
@@ -3691,26 +3715,7 @@
       ]
     },
     "away": {
-      "label": "Winner Match 90",
-      "placeholder": "M:90",
-      "potentialTeams": [
-        "MEX",
-        "RSA",
-        "KOR",
-        "CZE",
-        "CAN",
-        "BIH",
-        "QAT",
-        "SUI",
-        "NED",
-        "JPN",
-        "TUN",
-        "SWE",
-        "BRA",
-        "MAR",
-        "HAI",
-        "SCO"
-      ]
+      "team": "MAR"
     },
     "venueId": "gillette",
     "kickoffUTC": "2026-07-09T20:00:00Z",
