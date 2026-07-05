@@ -2293,9 +2293,27 @@
     ]
   },
   "91": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "BRA",
-    "away": "NOR"
+    "away": "NOR",
+    "homeScore": 0,
+    "awayScore": 2,
+    "referee": "Ismail ELFATH",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "79'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "90'",
+        "own": false
+      }
+    ]
   },
   "92": {
     "status": "NS",

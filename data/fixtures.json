@@ -3577,7 +3577,25 @@
     },
     "venueId": "metlife",
     "kickoffUTC": "2026-07-05T20:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 2,
+    "status": "LIVE",
+    "referee": "Ismail ELFATH",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "79'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Erling HAALAND",
+        "minute": "90'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BRA",
       "NOR"
