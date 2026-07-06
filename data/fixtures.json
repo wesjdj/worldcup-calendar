@@ -3655,7 +3655,10 @@
     },
     "venueId": "att",
     "kickoffUTC": "2026-07-06T19:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Anthony TAYLOR",
     "potentialTeams": [
       "ESP",
       "POR"

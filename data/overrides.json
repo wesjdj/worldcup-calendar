@@ -2346,9 +2346,12 @@
     ]
   },
   "93": {
-    "status": "NS",
+    "status": "LIVE",
     "away": "ESP",
-    "home": "POR"
+    "home": "POR",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Anthony TAYLOR"
   },
   "94": {
     "status": "NS",
