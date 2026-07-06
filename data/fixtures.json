@@ -3656,9 +3656,18 @@
     "venueId": "att",
     "kickoffUTC": "2026-07-06T19:00:00Z",
     "homeScore": 0,
-    "awayScore": 0,
-    "status": "LIVE",
+    "awayScore": 1,
+    "status": "FT",
     "referee": "Anthony TAYLOR",
+    "attendance": 70649,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Mikel MERINO",
+        "minute": "90'+1'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ESP",
       "POR"
@@ -3741,26 +3750,7 @@
     "stage": "QF",
     "group": null,
     "home": {
-      "label": "Winner Match 93",
-      "placeholder": "M:93",
-      "potentialTeams": [
-        "POR",
-        "COD",
-        "UZB",
-        "COL",
-        "ENG",
-        "CRO",
-        "GHA",
-        "PAN",
-        "ESP",
-        "CPV",
-        "KSA",
-        "URU",
-        "ARG",
-        "ALG",
-        "AUT",
-        "JOR"
-      ]
+      "team": "ESP"
     },
     "away": {
       "label": "Winner Match 94",
@@ -3816,19 +3806,14 @@
       "BIH",
       "CAN",
       "CIV",
-      "COD",
-      "COL",
       "CPV",
-      "CRO",
       "CUW",
       "CZE",
       "ECU",
       "EGY",
-      "ENG",
       "ESP",
       "FRA",
       "GER",
-      "GHA",
       "IRN",
       "IRQ",
       "JOR",
@@ -3839,9 +3824,7 @@
       "NED",
       "NOR",
       "NZL",
-      "PAN",
       "PAR",
-      "POR",
       "QAT",
       "RSA",
       "SEN",
@@ -3850,8 +3833,7 @@
       "TUN",
       "TUR",
       "URU",
-      "USA",
-      "UZB"
+      "USA"
     ]
   },
   {

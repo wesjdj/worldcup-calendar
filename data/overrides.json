@@ -2346,12 +2346,21 @@
     ]
   },
   "93": {
-    "status": "LIVE",
+    "status": "FT",
     "away": "ESP",
     "home": "POR",
     "homeScore": 0,
-    "awayScore": 0,
-    "referee": "Anthony TAYLOR"
+    "awayScore": 1,
+    "referee": "Anthony TAYLOR",
+    "attendance": 70649,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Mikel MERINO",
+        "minute": "90'+1'",
+        "own": false
+      }
+    ]
   },
   "94": {
     "status": "NS",
@@ -2374,7 +2383,8 @@
     "home": "FRA"
   },
   "98": {
-    "status": "NS"
+    "status": "NS",
+    "home": "ESP"
   },
   "99": {
     "status": "NS",
