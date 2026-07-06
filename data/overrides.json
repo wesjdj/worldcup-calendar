@@ -2293,10 +2293,10 @@
     ]
   },
   "91": {
-    "status": "LIVE",
+    "status": "FT",
     "home": "BRA",
     "away": "NOR",
-    "homeScore": 0,
+    "homeScore": 1,
     "awayScore": 2,
     "referee": "Ismail ELFATH",
     "attendance": 80663,
@@ -2316,9 +2316,34 @@
     ]
   },
   "92": {
-    "status": "NS",
+    "status": "FT",
     "home": "MEX",
-    "away": "ENG"
+    "away": "ENG",
+    "kickoffUTC": "2026-07-06T01:00:00Z",
+    "homeScore": 2,
+    "awayScore": 3,
+    "referee": "Alireza FAGHANI",
+    "attendance": 80824,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Jude BELLINGHAM",
+        "minute": "36'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Jude BELLINGHAM",
+        "minute": "38'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Julian QUINONES",
+        "minute": "42'",
+        "own": false
+      }
+    ]
   },
   "93": {
     "status": "NS",
@@ -2349,7 +2374,9 @@
     "status": "NS"
   },
   "99": {
-    "status": "NS"
+    "status": "NS",
+    "home": "NOR",
+    "away": "ENG"
   },
   "100": {
     "status": "NS"
