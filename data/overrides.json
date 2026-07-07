@@ -2404,9 +2404,20 @@
     ]
   },
   "95": {
-    "status": "NS",
+    "status": "LIVE",
     "away": "EGY",
-    "home": "ARG"
+    "home": "ARG",
+    "homeScore": 0,
+    "awayScore": 1,
+    "referee": "Francois LETEXIER",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "YASSER IBRAHIM",
+        "minute": "15'",
+        "own": false
+      }
+    ]
   },
   "96": {
     "status": "NS",

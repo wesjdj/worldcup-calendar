@@ -3739,7 +3739,18 @@
     },
     "venueId": "mercedes",
     "kickoffUTC": "2026-07-07T16:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 1,
+    "status": "LIVE",
+    "referee": "Francois LETEXIER",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "YASSER IBRAHIM",
+        "minute": "15'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ARG",
       "EGY"
