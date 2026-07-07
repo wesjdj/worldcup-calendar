@@ -61,7 +61,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-20@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/Los_Angeles:20260616T210000
 DTEND;TZID=America/Los_Angeles:20260616T230000
 SUMMARY:WC26 #20 — Austria vs Jordan 3–1 (Group J)
@@ -76,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-44@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/Los_Angeles:20260622T200000
 DTEND;TZID=America/Los_Angeles:20260622T220000
 SUMMARY:WC26 #44 — Jordan vs Algeria 1–2 (Group J)
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-71@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/Chicago:20260627T183000
 DTEND;TZID=America/Chicago:20260627T203000
 SUMMARY:WC26 #71 — Jordan vs Argentina 0–0 (Group J)
@@ -105,20 +105,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
-SUMMARY:WC26 #100 — Winner Match 95 vs Winner Match 96 (Quarter-final)
+SUMMARY:WC26 #100 — Argentina vs Winner Match 96 (Quarter-final)
 LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
-DESCRIPTION:Match 100 — Quarter-final\\nWinner Match 95 vs Winner Match 9
- 6\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nK
- ick-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 100 — Quarter-final\\n🇦🇷 Argentina vs Winner Match 96
+ \\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nKi
+ ck-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Quarter-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
@@ -131,7 +131,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -144,7 +144,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -158,7 +158,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260707T171319Z
+DTSTAMP:20260707T195256Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

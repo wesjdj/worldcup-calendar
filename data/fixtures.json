@@ -3739,15 +3739,40 @@
     },
     "venueId": "mercedes",
     "kickoffUTC": "2026-07-07T16:00:00Z",
-    "homeScore": 0,
-    "awayScore": 1,
-    "status": "LIVE",
+    "homeScore": 3,
+    "awayScore": 2,
+    "status": "FT",
     "referee": "Francois LETEXIER",
+    "attendance": 68239,
     "scorers": [
       {
         "side": "away",
         "name": "YASSER IBRAHIM",
         "minute": "15'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "MOSTAFA ZICO",
+        "minute": "67'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Cristian ROMERO",
+        "minute": "79'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "83'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Enzo FERNANDEZ",
+        "minute": "90'+2'",
         "own": false
       }
     ],
@@ -3833,26 +3858,7 @@
     "stage": "QF",
     "group": null,
     "home": {
-      "label": "Winner Match 95",
-      "placeholder": "M:95",
-      "potentialTeams": [
-        "ARG",
-        "ALG",
-        "AUT",
-        "JOR",
-        "ESP",
-        "CPV",
-        "KSA",
-        "URU",
-        "USA",
-        "PAR",
-        "AUS",
-        "TUR",
-        "BEL",
-        "EGY",
-        "IRN",
-        "NZL"
-      ]
+      "team": "ARG"
     },
     "away": {
       "label": "Winner Match 96",
@@ -3910,13 +3916,11 @@
       "CIV",
       "COD",
       "COL",
-      "CPV",
       "CRO",
       "CUW",
       "ECU",
       "EGY",
       "ENG",
-      "ESP",
       "FRA",
       "GER",
       "GHA",
@@ -3924,7 +3928,6 @@
       "IRQ",
       "JOR",
       "JPN",
-      "KSA",
       "NED",
       "NOR",
       "NZL",
@@ -3937,7 +3940,6 @@
       "SWE",
       "TUN",
       "TUR",
-      "URU",
       "USA",
       "UZB"
     ]

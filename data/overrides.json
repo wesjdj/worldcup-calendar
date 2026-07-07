@@ -2404,11 +2404,11 @@
     ]
   },
   "95": {
-    "status": "LIVE",
+    "status": "FT",
     "away": "EGY",
     "home": "ARG",
-    "homeScore": 0,
-    "awayScore": 1,
+    "homeScore": 3,
+    "awayScore": 2,
     "referee": "Francois LETEXIER",
     "scorers": [
       {
@@ -2416,8 +2416,33 @@
         "name": "YASSER IBRAHIM",
         "minute": "15'",
         "own": false
+      },
+      {
+        "side": "away",
+        "name": "MOSTAFA ZICO",
+        "minute": "67'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Cristian ROMERO",
+        "minute": "79'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lionel MESSI",
+        "minute": "83'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Enzo FERNANDEZ",
+        "minute": "90'+2'",
+        "own": false
       }
-    ]
+    ],
+    "attendance": 68239
   },
   "96": {
     "status": "NS",
@@ -2440,7 +2465,8 @@
     "away": "ENG"
   },
   "100": {
-    "status": "NS"
+    "status": "NS",
+    "home": "ARG"
   },
   "101": {
     "status": "NS"
