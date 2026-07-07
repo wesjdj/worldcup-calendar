@@ -3793,7 +3793,11 @@
     },
     "venueId": "bcplace",
     "kickoffUTC": "2026-07-07T20:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Ivan BARTON",
+    "attendance": 52497,
     "potentialTeams": [
       "COL",
       "SUI"
