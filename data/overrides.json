@@ -2363,9 +2363,45 @@
     ]
   },
   "94": {
-    "status": "NS",
+    "status": "FT",
     "home": "USA",
-    "away": "BEL"
+    "away": "BEL",
+    "homeScore": 1,
+    "awayScore": 4,
+    "referee": "Adham MAKHADMEH",
+    "attendance": 66925,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Charles DE KETELAERE",
+        "minute": "9'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Malik TILLMAN",
+        "minute": "31'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Charles DE KETELAERE",
+        "minute": "33'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Hans VANAKEN",
+        "minute": "57'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Romelu LUKAKU",
+        "minute": "90'+3'",
+        "own": false
+      }
+    ]
   },
   "95": {
     "status": "NS",
@@ -2384,7 +2420,8 @@
   },
   "98": {
     "status": "NS",
-    "home": "ESP"
+    "home": "ESP",
+    "away": "BEL"
   },
   "99": {
     "status": "NS",

@@ -3685,7 +3685,43 @@
     },
     "venueId": "lumen",
     "kickoffUTC": "2026-07-07T00:00:00Z",
-    "status": "NS",
+    "homeScore": 1,
+    "awayScore": 4,
+    "status": "FT",
+    "referee": "Adham MAKHADMEH",
+    "attendance": 66925,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Charles DE KETELAERE",
+        "minute": "9'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Malik TILLMAN",
+        "minute": "31'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Charles DE KETELAERE",
+        "minute": "33'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Hans VANAKEN",
+        "minute": "57'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Romelu LUKAKU",
+        "minute": "90'+3'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "BEL",
       "USA"
@@ -3753,87 +3789,14 @@
       "team": "ESP"
     },
     "away": {
-      "label": "Winner Match 94",
-      "placeholder": "M:94",
-      "potentialTeams": [
-        "USA",
-        "PAR",
-        "AUS",
-        "TUR",
-        "CAN",
-        "BIH",
-        "QAT",
-        "SUI",
-        "GER",
-        "CUW",
-        "CIV",
-        "ECU",
-        "NED",
-        "JPN",
-        "TUN",
-        "SWE",
-        "FRA",
-        "SEN",
-        "NOR",
-        "IRQ",
-        "ARG",
-        "ALG",
-        "AUT",
-        "JOR",
-        "BEL",
-        "EGY",
-        "IRN",
-        "NZL",
-        "MEX",
-        "RSA",
-        "KOR",
-        "CZE",
-        "ESP",
-        "CPV",
-        "KSA",
-        "URU"
-      ]
+      "team": "BEL"
     },
     "venueId": "sofi",
     "kickoffUTC": "2026-07-10T19:00:00Z",
     "status": "NS",
     "potentialTeams": [
-      "ALG",
-      "ARG",
-      "AUS",
-      "AUT",
       "BEL",
-      "BIH",
-      "CAN",
-      "CIV",
-      "CPV",
-      "CUW",
-      "CZE",
-      "ECU",
-      "EGY",
-      "ESP",
-      "FRA",
-      "GER",
-      "IRN",
-      "IRQ",
-      "JOR",
-      "JPN",
-      "KOR",
-      "KSA",
-      "MEX",
-      "NED",
-      "NOR",
-      "NZL",
-      "PAR",
-      "QAT",
-      "RSA",
-      "SEN",
-      "SUI",
-      "SWE",
-      "TUN",
-      "TUR",
-      "URU",
-      "USA"
+      "ESP"
     ]
   },
   {
