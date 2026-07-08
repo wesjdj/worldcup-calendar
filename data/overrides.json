@@ -2445,13 +2445,15 @@
     "attendance": 68239
   },
   "96": {
-    "status": "LIVE",
+    "status": "PEN",
     "home": "SUI",
     "away": "COL",
     "homeScore": 0,
     "awayScore": 0,
     "referee": "Ivan BARTON",
-    "attendance": 52497
+    "attendance": 52497,
+    "homePens": 4,
+    "awayPens": 3
   },
   "97": {
     "status": "NS",
@@ -2470,7 +2472,8 @@
   },
   "100": {
     "status": "NS",
-    "home": "ARG"
+    "home": "ARG",
+    "away": "SUI"
   },
   "101": {
     "status": "NS"
