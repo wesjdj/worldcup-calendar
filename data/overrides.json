@@ -2456,9 +2456,27 @@
     "awayPens": 3
   },
   "97": {
-    "status": "NS",
+    "status": "FT",
     "away": "MAR",
-    "home": "FRA"
+    "home": "FRA",
+    "homeScore": 2,
+    "awayScore": 0,
+    "referee": "Facundo TELLO",
+    "attendance": 63811,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "60'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ousmane DEMBELE",
+        "minute": "66'",
+        "own": false
+      }
+    ]
   },
   "98": {
     "status": "NS",
@@ -2476,7 +2494,8 @@
     "away": "SUI"
   },
   "101": {
-    "status": "NS"
+    "status": "NS",
+    "home": "FRA"
   },
   "102": {
     "status": "NS"

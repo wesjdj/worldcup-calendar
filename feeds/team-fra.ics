@@ -44,7 +44,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-17@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260616T150000
 DTEND;TZID=America/New_York:20260616T170000
 SUMMARY:WC26 #17 — France vs Senegal 3–1 (Group I)
@@ -60,7 +60,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-42@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260622T170000
 DTEND;TZID=America/New_York:20260622T190000
 SUMMARY:WC26 #42 — France vs Iraq 3–0 (Group I)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-61@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T170000
 SUMMARY:WC26 #61 — Norway vs France 1–4 (Group I)
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-77@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:WC26 #77 — France vs Sweden 3–0 (Round of 32)
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Paraguay vs France 0–1 (Round of 16)
@@ -120,33 +120,35 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
-SUMMARY:WC26 #97 — France vs Morocco (Quarter-final)
+SUMMARY:WC26 #97 — France vs Morocco 2–0 (Quarter-final)
 LOCATION:Gillette Stadium\, Foxborough\, MA\, USA
-DESCRIPTION:Match 97 — Quarter-final\\n🇫🇷 France vs 🇲🇦 Morocco\\nVenu
- e: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nKick-off: local 
- time at venue is built into this calendar entry.
+DESCRIPTION:Match 97 — Quarter-final\\n🇫🇷 France vs 🇲🇦 Morocco\\nScor
+ e: 2–0 (full-time)\\n⚽ France: Kylian MBAPPE 60'\, Ousmane DEMBELE 66'\\n
+ Venue: Gillette Stadium (Boston Stadium)\, Foxborough\, MA\\nReferee: Fac
+ undo TELLO\\nAttendance: 63\,811\\nKick-off: local time at venue is built
+  into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Quarter-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
-SUMMARY:WC26 #101 — Winner Match 97 vs Winner Match 98 (Semi-final)
+SUMMARY:WC26 #101 — France vs Winner Match 98 (Semi-final)
 LOCATION:AT&T Stadium\, Arlington\, TX\, USA
-DESCRIPTION:Match 101 — Semi-final\\nWinner Match 97 vs Winner Match 98\\
- nVenue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local 
- time at venue is built into this calendar entry.
+DESCRIPTION:Match 101 — Semi-final\\n🇫🇷 France vs Winner Match 98\\nVen
+ ue: AT&T Stadium (Dallas Stadium)\, Arlington\, TX\\nKick-off: local time
+  at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Semi-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
 SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
@@ -159,7 +161,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -173,7 +175,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260708T023231Z
+DTSTAMP:20260709T222105Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)
