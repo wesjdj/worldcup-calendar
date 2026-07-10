@@ -2479,12 +2479,33 @@
     ]
   },
   "98": {
-    "status": "LIVE",
+    "status": "FT",
     "home": "ESP",
     "away": "BEL",
-    "homeScore": 0,
-    "awayScore": 0,
-    "referee": "Michael OLIVER"
+    "homeScore": 2,
+    "awayScore": 1,
+    "referee": "Michael OLIVER",
+    "attendance": 70492,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Fabian RUIZ",
+        "minute": "30'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Charles DE KETELAERE",
+        "minute": "41'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Mikel MERINO",
+        "minute": "88'",
+        "own": false
+      }
+    ]
   },
   "99": {
     "status": "NS",
@@ -2498,7 +2519,8 @@
   },
   "101": {
     "status": "NS",
-    "home": "FRA"
+    "home": "FRA",
+    "away": "ESP"
   },
   "102": {
     "status": "NS"
