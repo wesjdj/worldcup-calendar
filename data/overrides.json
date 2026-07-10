@@ -2479,9 +2479,12 @@
     ]
   },
   "98": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "ESP",
-    "away": "BEL"
+    "away": "BEL",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Michael OLIVER"
   },
   "99": {
     "status": "NS",

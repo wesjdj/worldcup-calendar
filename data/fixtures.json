@@ -3853,7 +3853,10 @@
     },
     "venueId": "sofi",
     "kickoffUTC": "2026-07-10T19:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Michael OLIVER",
     "potentialTeams": [
       "BEL",
       "ESP"
