@@ -2508,9 +2508,20 @@
     ]
   },
   "99": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "NOR",
-    "away": "ENG"
+    "away": "ENG",
+    "homeScore": 1,
+    "awayScore": 0,
+    "referee": "Clement TURPIN",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Andreas SCHJELDERUP",
+        "minute": "36'",
+        "own": false
+      }
+    ]
   },
   "100": {
     "status": "NS",

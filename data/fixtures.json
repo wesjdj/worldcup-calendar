@@ -3895,7 +3895,18 @@
     },
     "venueId": "hardrock",
     "kickoffUTC": "2026-07-11T21:00:00Z",
-    "status": "NS",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Clement TURPIN",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Andreas SCHJELDERUP",
+        "minute": "36'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ENG",
       "NOR"
