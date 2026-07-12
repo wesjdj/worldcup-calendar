@@ -61,7 +61,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-8@worldcup-calendar
-DTSTAMP:20260711T214736Z
+DTSTAMP:20260712T023604Z
 DTSTART;TZID=America/Vancouver:20260613T120000
 DTEND;TZID=America/Vancouver:20260613T140000
 SUMMARY:WC26 #8 — Australia vs Türkiye 1–1 (Group D)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-32@worldcup-calendar
-DTSTAMP:20260711T214736Z
+DTSTAMP:20260712T023604Z
 DTSTART;TZID=America/Los_Angeles:20260619T120000
 DTEND;TZID=America/Los_Angeles:20260619T140000
 SUMMARY:WC26 #32 — Paraguay vs Türkiye 2–0 (Group D)
@@ -90,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-59@worldcup-calendar
-DTSTAMP:20260711T214736Z
+DTSTAMP:20260712T023604Z
 DTSTART;TZID=America/Los_Angeles:20260625T190000
 DTEND;TZID=America/Los_Angeles:20260625T210000
 SUMMARY:WC26 #59 — USA vs Türkiye 3–2 (Group D)
@@ -106,20 +106,20 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260711T214736Z
+DTSTAMP:20260712T023604Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
-SUMMARY:WC26 #102 — Winner Match 99 vs Winner Match 100 (Semi-final)
+SUMMARY:WC26 #102 — England vs Winner Match 100 (Semi-final)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 102 — Semi-final\\nWinner Match 99 vs Winner Match 100\
- \nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKick-of
- f: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 102 — Semi-final\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs Winner Mat
+ ch 100\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\n
+ Kick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Semi-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260711T214736Z
+DTSTAMP:20260712T023604Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -133,7 +133,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260711T214736Z
+DTSTAMP:20260712T023604Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)

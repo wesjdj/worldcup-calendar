@@ -2508,11 +2508,11 @@
     ]
   },
   "99": {
-    "status": "LIVE",
+    "status": "FT",
     "home": "NOR",
     "away": "ENG",
     "homeScore": 1,
-    "awayScore": 0,
+    "awayScore": 2,
     "referee": "Clement TURPIN",
     "scorers": [
       {
@@ -2520,13 +2520,43 @@
         "name": "Andreas SCHJELDERUP",
         "minute": "36'",
         "own": false
+      },
+      {
+        "side": "away",
+        "name": "Jude BELLINGHAM",
+        "minute": "45'+2'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Jude BELLINGHAM",
+        "minute": "93'",
+        "own": false
       }
-    ]
+    ],
+    "attendance": 64478
   },
   "100": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "ARG",
-    "away": "SUI"
+    "away": "SUI",
+    "homeScore": 1,
+    "awayScore": 1,
+    "referee": "Joao PINHEIRO",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Alexis MAC ALLISTER",
+        "minute": "10'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Dan NDOYE",
+        "minute": "67'",
+        "own": false
+      }
+    ]
   },
   "101": {
     "status": "NS",
@@ -2534,7 +2564,8 @@
     "away": "ESP"
   },
   "102": {
-    "status": "NS"
+    "status": "NS",
+    "home": "ENG"
   },
   "103": {
     "status": "NS"
