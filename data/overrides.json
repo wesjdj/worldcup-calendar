@@ -2537,10 +2537,10 @@
     "attendance": 64478
   },
   "100": {
-    "status": "LIVE",
+    "status": "FT",
     "home": "ARG",
     "away": "SUI",
-    "homeScore": 1,
+    "homeScore": 3,
     "awayScore": 1,
     "referee": "Joao PINHEIRO",
     "scorers": [
@@ -2555,8 +2555,21 @@
         "name": "Dan NDOYE",
         "minute": "67'",
         "own": false
+      },
+      {
+        "side": "home",
+        "name": "Julian ALVAREZ",
+        "minute": "112'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Lautaro MARTINEZ",
+        "minute": "120'+1'",
+        "own": false
       }
-    ]
+    ],
+    "attendance": 69045
   },
   "101": {
     "status": "NS",
@@ -2565,7 +2578,8 @@
   },
   "102": {
     "status": "NS",
-    "home": "ENG"
+    "home": "ENG",
+    "away": "ARG"
   },
   "103": {
     "status": "NS"

@@ -44,7 +44,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-19@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/Chicago:20260616T200000
 DTEND;TZID=America/Chicago:20260616T220000
 SUMMARY:WC26 #19 — Argentina vs Algeria 3–0 (Group J)
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-41@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/Chicago:20260622T190000
 DTEND;TZID=America/Chicago:20260622T210000
 SUMMARY:WC26 #41 — Argentina vs Austria 3–2 (Group J)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-71@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/Chicago:20260627T183000
 DTEND;TZID=America/Chicago:20260627T203000
 SUMMARY:WC26 #71 — Jordan vs Argentina 0–0 (Group J)
@@ -89,7 +89,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-86@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/New_York:20260703T180000
 DTEND;TZID=America/New_York:20260703T200000
 SUMMARY:WC26 #86 — Argentina vs Cape Verde 3–2 (Round of 32)
@@ -105,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/New_York:20260707T120000
 DTEND;TZID=America/New_York:20260707T140000
 SUMMARY:WC26 #95 — Argentina vs Egypt 3–2 (Round of 16)
@@ -121,35 +121,36 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
-SUMMARY:WC26 #100 — Argentina vs Switzerland 1–1 (live) (Quarter-final)
+SUMMARY:WC26 #100 — Argentina vs Switzerland 3–1 (Quarter-final)
 LOCATION:Arrowhead Stadium\, Kansas City\, MO\, USA
 DESCRIPTION:Match 100 — Quarter-final\\n🇦🇷 Argentina vs 🇨🇭 Switzerlan
- d\\nScore: 1–1 (live)\\n⚽ Argentina: Alexis MAC ALLISTER 10'\\n⚽ Switzerl
- and: Dan NDOYE 67'\\nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kan
- sas City\, MO\\nReferee: Joao PINHEIRO\\nKick-off: local time at venue is
-  built into this calendar entry.
+ d\\nScore: 3–1 (full-time)\\n⚽ Argentina: Alexis MAC ALLISTER 10'\, Julia
+ n ALVAREZ 112'\, Lautaro MARTINEZ 120'+1'\\n⚽ Switzerland: Dan NDOYE 67'\
+ \nVenue: Arrowhead Stadium (Kansas City Stadium)\, Kansas City\, MO\\nRef
+ eree: Joao PINHEIRO\\nAttendance: 69\,045\\nKick-off: local time at venue
+  is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Quarter-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
-SUMMARY:WC26 #102 — England vs Winner Match 100 (Semi-final)
+SUMMARY:WC26 #102 — England vs Argentina (Semi-final)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
-DESCRIPTION:Match 102 — Semi-final\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs Winner Mat
- ch 100\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\n
- Kick-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 102 — Semi-final\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇦🇷 Argen
+ tina\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)\, Atlanta\, GA\\nKi
+ ck-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Semi-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
 SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
@@ -163,7 +164,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260712T023604Z
+DTSTAMP:20260712T055627Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
 SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)
