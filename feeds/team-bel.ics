@@ -61,7 +61,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-14@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/Los_Angeles:20260615T090000
 DTEND;TZID=America/Los_Angeles:20260615T110000
 SUMMARY:WC26 #14 — Belgium vs Egypt 0–0 (Group G)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-38@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/Los_Angeles:20260621T090000
 DTEND;TZID=America/Los_Angeles:20260621T110000
 SUMMARY:WC26 #38 — Belgium vs Iran 4–0 (Group G)
@@ -90,7 +90,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-65@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/Vancouver:20260626T170000
 DTEND;TZID=America/Vancouver:20260626T190000
 SUMMARY:WC26 #65 — New Zealand vs Belgium 0–0 (Group G)
@@ -104,7 +104,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-82@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/Los_Angeles:20260701T130000
 DTEND;TZID=America/Los_Angeles:20260701T150000
 SUMMARY:WC26 #82 — Belgium vs Senegal 3–2 (Round of 32)
@@ -119,7 +119,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/Los_Angeles:20260706T170000
 DTEND;TZID=America/Los_Angeles:20260706T190000
 SUMMARY:WC26 #94 — USA vs Belgium 1–4 (Round of 16)
@@ -135,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/Los_Angeles:20260710T120000
 DTEND;TZID=America/Los_Angeles:20260710T140000
 SUMMARY:WC26 #98 — Spain vs Belgium 2–1 (Quarter-final)
@@ -150,28 +150,27 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
-SUMMARY:WC26 #103 — Loser Match 101 vs Loser Match 102 (Third-place play-
- off)
+SUMMARY:WC26 #103 — France vs Loser Match 102 (Third-place play-off)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 103 — Third-place play-off\\nLoser Match 101 vs Loser M
- atch 102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\
- \nKick-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs Loser Match
+  102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKi
+ ck-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Third-place play-off
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260714T191704Z
+DTSTAMP:20260714T215555Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
-SUMMARY:WC26 #104 — Winner Match 101 vs Winner Match 102 (Final)
+SUMMARY:WC26 #104 — Spain vs Winner Match 102 (Final)
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 104 — Final\\nWinner Match 101 vs Winner Match 102\\nVe
- nue: MetLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ
- \\nKick-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 104 — Final\\n🇪🇸 Spain vs Winner Match 102\\nVenue: M
+ etLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKic
+ k-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Final
 TRANSP:TRANSPARENT
 END:VEVENT

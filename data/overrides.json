@@ -2572,12 +2572,21 @@
     "attendance": 69045
   },
   "101": {
-    "status": "LIVE",
+    "status": "FT",
     "home": "FRA",
     "away": "ESP",
     "homeScore": 0,
-    "awayScore": 0,
-    "referee": "Ivan BARTON"
+    "awayScore": 2,
+    "referee": "Ivan BARTON",
+    "attendance": 70176,
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Pedro PORRO",
+        "minute": "58'",
+        "own": false
+      }
+    ]
   },
   "102": {
     "status": "NS",
@@ -2585,9 +2594,11 @@
     "away": "ARG"
   },
   "103": {
-    "status": "NS"
+    "status": "NS",
+    "home": "FRA"
   },
   "104": {
-    "status": "NS"
+    "status": "NS",
+    "home": "ESP"
   }
 }
