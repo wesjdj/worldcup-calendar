@@ -2572,9 +2572,12 @@
     "attendance": 69045
   },
   "101": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "FRA",
-    "away": "ESP"
+    "away": "ESP",
+    "homeScore": 0,
+    "awayScore": 0,
+    "referee": "Ivan BARTON"
   },
   "102": {
     "status": "NS",
