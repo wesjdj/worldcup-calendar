@@ -44,7 +44,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-19@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Chicago:20260616T200000
 DTEND;TZID=America/Chicago:20260616T220000
 SUMMARY:WC26 #19 — Argentina vs Algeria 3–0 (Group J)
@@ -59,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-41@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Chicago:20260622T190000
 DTEND;TZID=America/Chicago:20260622T210000
 SUMMARY:WC26 #41 — Argentina vs Austria 3–2 (Group J)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-71@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Chicago:20260627T183000
 DTEND;TZID=America/Chicago:20260627T203000
 SUMMARY:WC26 #71 — Jordan vs Argentina 0–0 (Group J)
@@ -89,7 +89,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-86@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260703T180000
 DTEND;TZID=America/New_York:20260703T200000
 SUMMARY:WC26 #86 — Argentina vs Cape Verde 3–2 (Round of 32)
@@ -105,7 +105,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260707T120000
 DTEND;TZID=America/New_York:20260707T140000
 SUMMARY:WC26 #95 — Argentina vs Egypt 3–2 (Round of 16)
@@ -121,7 +121,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Chicago:20260711T200000
 DTEND;TZID=America/Chicago:20260711T220000
 SUMMARY:WC26 #100 — Argentina vs Switzerland 3–1 (Quarter-final)
@@ -137,41 +137,29 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
-SUMMARY:WC26 #102 — England vs Argentina 0–0 (live) (Semi-final)
+SUMMARY:WC26 #102 — England vs Argentina 1–2 (Semi-final)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
 DESCRIPTION:Match 102 — Semi-final\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇦🇷 Argen
- tina\\nScore: 0–0 (live)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)
- \, Atlanta\, GA\\nReferee: Ismail ELFATH\\nKick-off: local time at venue 
- is built into this calendar entry.
+ tina\\nScore: 1–2 (full-time)\\n⚽ England: Anthony GORDON 55'\\n⚽ Argenti
+ na: Enzo FERNANDEZ 85'\, Lautaro MARTINEZ 90'+2'\\nVenue: Mercedes-Benz S
+ tadium (Atlanta Stadium)\, Atlanta\, GA\\nReferee: Ismail ELFATH\\nKick-o
+ ff: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Semi-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260718T170000
-DTEND;TZID=America/New_York:20260718T190000
-SUMMARY:WC26 #103 — France vs Loser Match 102 (Third-place play-off)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs Loser Match
-  102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKi
- ck-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Third-place play-off
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260719T150000
 DTEND;TZID=America/New_York:20260719T170000
-SUMMARY:WC26 #104 — Spain vs Winner Match 102 (Final)
+SUMMARY:WC26 #104 — Spain vs Argentina (Final)
 LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 104 — Final\\n🇪🇸 Spain vs Winner Match 102\\nVenue: M
- etLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKic
- k-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 104 — Final\\n🇪🇸 Spain vs 🇦🇷 Argentina\\nVenue: Met
+ Life Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKick-
+ off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Final
 TRANSP:TRANSPARENT
 END:VEVENT

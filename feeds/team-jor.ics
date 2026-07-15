@@ -42,26 +42,9 @@ DTSTART:19701101T020000
 RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
-BEGIN:VTIMEZONE
-TZID:America/New_York
-BEGIN:DAYLIGHT
-TZOFFSETFROM:-0500
-TZOFFSETTO:-0400
-TZNAME:EDT
-DTSTART:19700308T020000
-RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
-END:DAYLIGHT
-BEGIN:STANDARD
-TZOFFSETFROM:-0400
-TZOFFSETTO:-0500
-TZNAME:EST
-DTSTART:19701101T020000
-RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
-END:STANDARD
-END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-20@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Los_Angeles:20260616T210000
 DTEND;TZID=America/Los_Angeles:20260616T230000
 SUMMARY:WC26 #20 — Austria vs Jordan 3–1 (Group J)
@@ -76,7 +59,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-44@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Los_Angeles:20260622T200000
 DTEND;TZID=America/Los_Angeles:20260622T220000
 SUMMARY:WC26 #44 — Jordan vs Algeria 1–2 (Group J)
@@ -91,7 +74,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-71@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Chicago:20260627T183000
 DTEND;TZID=America/Chicago:20260627T203000
 SUMMARY:WC26 #71 — Jordan vs Argentina 0–0 (Group J)
@@ -101,32 +84,6 @@ DESCRIPTION:Match 71 — Group J\\n🇯🇴 Jordan vs 🇦🇷 Argentina\\nScore
  Referee: Alireza FAGHANI\\nAttendance: 64\,478\\nKick-off: local time at 
  venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Group J
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260718T170000
-DTEND;TZID=America/New_York:20260718T190000
-SUMMARY:WC26 #103 — France vs Loser Match 102 (Third-place play-off)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs Loser Match
-  102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKi
- ck-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Third-place play-off
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260719T150000
-DTEND;TZID=America/New_York:20260719T170000
-SUMMARY:WC26 #104 — Spain vs Winner Match 102 (Final)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 104 — Final\\n🇪🇸 Spain vs Winner Match 102\\nVenue: M
- etLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKic
- k-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Final
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

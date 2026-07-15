@@ -2589,19 +2589,41 @@
     ]
   },
   "102": {
-    "status": "LIVE",
+    "status": "FT",
     "home": "ENG",
     "away": "ARG",
-    "homeScore": 0,
-    "awayScore": 0,
-    "referee": "Ismail ELFATH"
+    "homeScore": 1,
+    "awayScore": 2,
+    "referee": "Ismail ELFATH",
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Anthony GORDON",
+        "minute": "55'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Enzo FERNANDEZ",
+        "minute": "85'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Lautaro MARTINEZ",
+        "minute": "90'+2'",
+        "own": false
+      }
+    ]
   },
   "103": {
     "status": "NS",
-    "home": "FRA"
+    "home": "FRA",
+    "away": "ENG"
   },
   "104": {
     "status": "NS",
-    "home": "ESP"
+    "home": "ESP",
+    "away": "ARG"
   }
 }

@@ -61,7 +61,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-23@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Toronto:20260617T130000
 DTEND;TZID=America/Toronto:20260617T150000
 SUMMARY:WC26 #23 — Ghana vs Panama 1–1 (Group L)
@@ -76,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-46@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260623T190000
 DTEND;TZID=America/New_York:20260623T210000
 SUMMARY:WC26 #46 — England vs Ghana 0–1 (Group L)
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-68@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260627T170000
 DTEND;TZID=America/New_York:20260627T190000
 SUMMARY:WC26 #68 — Croatia vs Ghana 2–1 (Group L)
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-87@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Chicago:20260703T203000
 DTEND;TZID=America/Chicago:20260703T223000
 SUMMARY:WC26 #87 — Colombia vs Ghana 1–0 (Round of 32)
@@ -117,32 +117,6 @@ DESCRIPTION:Match 87 — Round of 32\\n🇨🇴 Colombia vs 🇬🇭 Ghana\\nSco
  ndance: 69\,045\\nKick-off: local time at venue is built into this calend
  ar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 32
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260718T170000
-DTEND;TZID=America/New_York:20260718T190000
-SUMMARY:WC26 #103 — France vs Loser Match 102 (Third-place play-off)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs Loser Match
-  102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKi
- ck-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Third-place play-off
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260719T150000
-DTEND;TZID=America/New_York:20260719T170000
-SUMMARY:WC26 #104 — Spain vs Winner Match 102 (Final)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 104 — Final\\n🇪🇸 Spain vs Winner Match 102\\nVenue: M
- etLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKic
- k-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Final
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

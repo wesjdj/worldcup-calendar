@@ -53,7 +53,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-22@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Chicago:20260617T150000
 DTEND;TZID=America/Chicago:20260617T170000
 SUMMARY:WC26 #22 — England vs Croatia 4–2 (Group L)
@@ -69,7 +69,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-46@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260623T190000
 DTEND;TZID=America/New_York:20260623T210000
 SUMMARY:WC26 #46 — England vs Ghana 0–1 (Group L)
@@ -84,7 +84,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-67@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260627T170000
 DTEND;TZID=America/New_York:20260627T190000
 SUMMARY:WC26 #67 — Panama vs England 0–2 (Group L)
@@ -99,7 +99,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-80@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260701T120000
 DTEND;TZID=America/New_York:20260701T140000
 SUMMARY:WC26 #80 — England vs DR Congo 2–1 (Round of 32)
@@ -114,7 +114,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Mexico_City:20260705T190000
 DTEND;TZID=America/Mexico_City:20260705T210000
 SUMMARY:WC26 #92 — Mexico vs England 2–3 (Round of 16)
@@ -129,7 +129,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260711T170000
 DTEND;TZID=America/New_York:20260711T190000
 SUMMARY:WC26 #99 — Norway vs England 1–2 (Quarter-final)
@@ -145,42 +145,30 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260715T150000
 DTEND;TZID=America/New_York:20260715T170000
-SUMMARY:WC26 #102 — England vs Argentina 0–0 (live) (Semi-final)
+SUMMARY:WC26 #102 — England vs Argentina 1–2 (Semi-final)
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA\, USA
 DESCRIPTION:Match 102 — Semi-final\\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 England vs 🇦🇷 Argen
- tina\\nScore: 0–0 (live)\\nVenue: Mercedes-Benz Stadium (Atlanta Stadium)
- \, Atlanta\, GA\\nReferee: Ismail ELFATH\\nKick-off: local time at venue 
- is built into this calendar entry.
+ tina\\nScore: 1–2 (full-time)\\n⚽ England: Anthony GORDON 55'\\n⚽ Argenti
+ na: Enzo FERNANDEZ 85'\, Lautaro MARTINEZ 90'+2'\\nVenue: Mercedes-Benz S
+ tadium (Atlanta Stadium)\, Atlanta\, GA\\nReferee: Ismail ELFATH\\nKick-o
+ ff: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Semi-final
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
-SUMMARY:WC26 #103 — France vs Loser Match 102 (Third-place play-off)
+SUMMARY:WC26 #103 — France vs England (Third-place play-off)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs Loser Match
-  102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKi
- ck-off: local time at venue is built into this calendar entry.
+DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs 🏴󠁧󠁢󠁥󠁮�
+ �󠁿 England\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, 
+ FL\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Third-place play-off
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260719T150000
-DTEND;TZID=America/New_York:20260719T170000
-SUMMARY:WC26 #104 — Spain vs Winner Match 102 (Final)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 104 — Final\\n🇪🇸 Spain vs Winner Match 102\\nVenue: M
- etLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKic
- k-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Final
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

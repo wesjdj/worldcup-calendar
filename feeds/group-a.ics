@@ -62,7 +62,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-1@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Mexico_City:20260611T130000
 DTEND;TZID=America/Mexico_City:20260611T150000
 SUMMARY:WC26 #1 — Mexico vs South Africa 2–0 (Group A)
@@ -77,7 +77,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-2@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Mexico_City:20260611T200000
 DTEND;TZID=America/Mexico_City:20260611T220000
 SUMMARY:WC26 #2 — South Korea vs Czechia 2–1 (Group A)
@@ -92,7 +92,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-25@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/New_York:20260618T120000
 DTEND;TZID=America/New_York:20260618T140000
 SUMMARY:WC26 #25 — South Africa vs Czechia 1–1 (Group A)
@@ -107,7 +107,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-28@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Mexico_City:20260618T190000
 DTEND;TZID=America/Mexico_City:20260618T210000
 SUMMARY:WC26 #28 — Mexico vs South Korea 1–0 (Group A)
@@ -121,7 +121,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-53@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Mexico_City:20260624T190000
 DTEND;TZID=America/Mexico_City:20260624T210000
 SUMMARY:WC26 #53 — Mexico vs Czechia 0–3 (Group A)
@@ -136,7 +136,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-54@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Monterrey:20260624T190000
 DTEND;TZID=America/Monterrey:20260624T210000
 SUMMARY:WC26 #54 — South Korea vs South Africa 1–0 (Group A)
@@ -151,7 +151,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-73@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Los_Angeles:20260628T120000
 DTEND;TZID=America/Los_Angeles:20260628T140000
 SUMMARY:WC26 #73 — South Africa vs Canada 0–1 (Round of 32)
@@ -166,7 +166,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-79@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Mexico_City:20260630T200000
 DTEND;TZID=America/Mexico_City:20260630T220000
 SUMMARY:WC26 #79 — Mexico vs Ecuador 2–0 (Round of 32)
@@ -181,7 +181,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92@worldcup-calendar
-DTSTAMP:20260715T190749Z
+DTSTAMP:20260715T215848Z
 DTSTART;TZID=America/Mexico_City:20260705T190000
 DTEND;TZID=America/Mexico_City:20260705T210000
 SUMMARY:WC26 #92 — Mexico vs England 2–3 (Round of 16)
@@ -192,32 +192,6 @@ DESCRIPTION:Match 92 — Round of 16\\n🇲🇽 Mexico vs 🏴󠁧󠁢󠁥󠁮�
  City Stadium)\, Mexico City\\nReferee: Alireza FAGHANI\\nAttendance: 80\,
  824\\nKick-off: local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Round of 16
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260718T170000
-DTEND;TZID=America/New_York:20260718T190000
-SUMMARY:WC26 #103 — France vs Loser Match 102 (Third-place play-off)
-LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
-DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs Loser Match
-  102\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, FL\\nKi
- ck-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Third-place play-off
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:wc2026-match-104@worldcup-calendar
-DTSTAMP:20260715T190749Z
-DTSTART;TZID=America/New_York:20260719T150000
-DTEND;TZID=America/New_York:20260719T170000
-SUMMARY:WC26 #104 — Spain vs Winner Match 102 (Final)
-LOCATION:MetLife Stadium\, East Rutherford\, NJ\, USA
-DESCRIPTION:Match 104 — Final\\n🇪🇸 Spain vs Winner Match 102\\nVenue: M
- etLife Stadium (New York New Jersey Stadium)\, East Rutherford\, NJ\\nKic
- k-off: local time at venue is built into this calendar entry.
-CATEGORIES:FIFA World Cup 2026\,Final
 TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR
