@@ -4015,7 +4015,10 @@
     },
     "venueId": "mercedes",
     "kickoffUTC": "2026-07-15T19:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Ismail ELFATH",
     "potentialTeams": [
       "ARG",
       "ENG"
