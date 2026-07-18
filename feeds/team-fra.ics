@@ -44,7 +44,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:wc2026-match-17@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/New_York:20260616T150000
 DTEND;TZID=America/New_York:20260616T170000
 SUMMARY:WC26 #17 — France vs Senegal 3–1 (Group I)
@@ -60,7 +60,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-42@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/New_York:20260622T170000
 DTEND;TZID=America/New_York:20260622T190000
 SUMMARY:WC26 #42 — France vs Iraq 3–0 (Group I)
@@ -75,7 +75,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-61@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/New_York:20260626T150000
 DTEND;TZID=America/New_York:20260626T170000
 SUMMARY:WC26 #61 — Norway vs France 1–4 (Group I)
@@ -91,7 +91,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-77@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/New_York:20260630T170000
 DTEND;TZID=America/New_York:20260630T190000
 SUMMARY:WC26 #77 — France vs Sweden 3–0 (Round of 32)
@@ -106,7 +106,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/New_York:20260704T170000
 DTEND;TZID=America/New_York:20260704T190000
 SUMMARY:WC26 #89 — Paraguay vs France 0–1 (Round of 16)
@@ -120,7 +120,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/New_York:20260709T160000
 DTEND;TZID=America/New_York:20260709T180000
 SUMMARY:WC26 #97 — France vs Morocco 2–0 (Quarter-final)
@@ -135,7 +135,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/Chicago:20260714T140000
 DTEND;TZID=America/Chicago:20260714T160000
 SUMMARY:WC26 #101 — France vs Spain 0–2 (Semi-final)
@@ -149,14 +149,16 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103@worldcup-calendar
-DTSTAMP:20260715T215848Z
+DTSTAMP:20260718T214947Z
 DTSTART;TZID=America/New_York:20260718T170000
 DTEND;TZID=America/New_York:20260718T190000
-SUMMARY:WC26 #103 — France vs England (Third-place play-off)
+SUMMARY:WC26 #103 — France vs England 0–4 (live) (Third-place play-off)
 LOCATION:Hard Rock Stadium\, Miami Gardens\, FL\, USA
 DESCRIPTION:Match 103 — Third-place play-off\\n🇫🇷 France vs 🏴󠁧󠁢󠁥󠁮�
- �󠁿 England\\nVenue: Hard Rock Stadium (Miami Stadium)\, Miami Gardens\, 
- FL\\nKick-off: local time at venue is built into this calendar entry.
+ �󠁿 England\\nScore: 0–4 (live)\\n⚽ England: Declan RICE 3'\, Ezri KONSA 
+ 18'\, Bukayo SAKA 37'\, Bukayo SAKA 45'+1'\\nVenue: Hard Rock Stadium (Mi
+ ami Stadium)\, Miami Gardens\, FL\\nReferee: Jesus VALENZUELA\\nKick-off:
+  local time at venue is built into this calendar entry.
 CATEGORIES:FIFA World Cup 2026\,Third-place play-off
 TRANSP:TRANSPARENT
 END:VEVENT

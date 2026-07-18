@@ -2617,9 +2617,38 @@
     ]
   },
   "103": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "FRA",
-    "away": "ENG"
+    "away": "ENG",
+    "homeScore": 0,
+    "awayScore": 4,
+    "referee": "Jesus VALENZUELA",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Declan RICE",
+        "minute": "3'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ezri KONSA",
+        "minute": "18'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Bukayo SAKA",
+        "minute": "37'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Bukayo SAKA",
+        "minute": "45'+1'",
+        "own": false
+      }
+    ]
   },
   "104": {
     "status": "NS",

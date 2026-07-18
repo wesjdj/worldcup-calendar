@@ -4056,7 +4056,36 @@
     },
     "venueId": "hardrock",
     "kickoffUTC": "2026-07-18T21:00:00Z",
-    "status": "NS",
+    "homeScore": 0,
+    "awayScore": 4,
+    "status": "LIVE",
+    "referee": "Jesus VALENZUELA",
+    "scorers": [
+      {
+        "side": "away",
+        "name": "Declan RICE",
+        "minute": "3'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Ezri KONSA",
+        "minute": "18'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Bukayo SAKA",
+        "minute": "37'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Bukayo SAKA",
+        "minute": "45'+1'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ENG",
       "FRA"
