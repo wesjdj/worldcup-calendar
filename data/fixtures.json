@@ -4056,10 +4056,11 @@
     },
     "venueId": "hardrock",
     "kickoffUTC": "2026-07-18T21:00:00Z",
-    "homeScore": 0,
-    "awayScore": 4,
-    "status": "LIVE",
+    "homeScore": 4,
+    "awayScore": 6,
+    "status": "FT",
     "referee": "Jesus VALENZUELA",
+    "attendance": 64478,
     "scorers": [
       {
         "side": "away",
@@ -4083,6 +4084,36 @@
         "side": "away",
         "name": "Bukayo SAKA",
         "minute": "45'+1'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "48'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Bradley BARCOLA",
+        "minute": "54'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Kylian MBAPPE",
+        "minute": "66'",
+        "own": false
+      },
+      {
+        "side": "home",
+        "name": "Ousmane DEMBELE",
+        "minute": "90'+6'",
+        "own": false
+      },
+      {
+        "side": "away",
+        "name": "Jude BELLINGHAM",
+        "minute": "90'+8'",
         "own": false
       }
     ],
