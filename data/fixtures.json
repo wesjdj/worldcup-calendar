@@ -4134,7 +4134,19 @@
     },
     "venueId": "metlife",
     "kickoffUTC": "2026-07-19T19:00:00Z",
-    "status": "NS",
+    "homeScore": 1,
+    "awayScore": 0,
+    "status": "LIVE",
+    "referee": "Slavko VINCIC",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Ferran TORRES",
+        "minute": "106'",
+        "own": false
+      }
+    ],
     "potentialTeams": [
       "ARG",
       "ESP"

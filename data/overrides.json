@@ -2682,8 +2682,20 @@
     "attendance": 64478
   },
   "104": {
-    "status": "NS",
+    "status": "LIVE",
     "home": "ESP",
-    "away": "ARG"
+    "away": "ARG",
+    "homeScore": 1,
+    "awayScore": 0,
+    "referee": "Slavko VINCIC",
+    "attendance": 80663,
+    "scorers": [
+      {
+        "side": "home",
+        "name": "Ferran TORRES",
+        "minute": "106'",
+        "own": false
+      }
+    ]
   }
 }
